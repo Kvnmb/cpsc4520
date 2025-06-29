@@ -1,0 +1,52 @@
+#!/usr/bin/env perl
+
+# perl script to generate makeflows for sugarscape.mf
+
+use strict;
+use warnings;
+use File::Basename;
+
+
+# check for correct number of statements
+if ($#ARGV + 1 != 1) {
+    die "invalid # of arguments\n";
+}
+
+# stores directory 
+my ($dir) = @ARGV;
+
+# store txt files in an array
+my @json_files = glob("$dir/*.json");
+
+# sort books so the grouped files stays the same after each run
+@json_files = sort(@json_files);
+
+open(my $makeflow, '>', "sugarscape.mf") or die $!;
+
+# loop to go through all files
+foreach my $file(@json_files){
+
+    # get file name
+    my $basename = basename($file, ".json");
+
+
+    # perl command call
+    
+    system("mkdir -p data/$basename") == 0 or die "failed to create directory";
+
+    system("cd data/$basename && python3 ../run.py --conf ../../$file --mode csv --seeds") == 0 or die "failed";
+
+
+    # print commands for the makeflow
+    my @config_files = glob("data/$basename/*.config");
+    
+    foreach my $config(@config_files){
+        my $config_name = basename($config, ".config");
+
+
+        print $makeflow "$basename$config_name.csv: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py data/$basename/$config_name.config\n";
+        print $makeflow "\tpython3 sugarscape.py --conf $config_name.config > $basename$config_name.csv\n\n";
+    }
+}    
+
+close($makeflow);

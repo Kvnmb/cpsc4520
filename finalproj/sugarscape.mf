@@ -1,0 +1,28 @@
+cancer/cancer_log.json: run.py ../sugarscape.py ../agent.py ../cell.py ../condition.py ../environment.py ../ethics.py ../gui.py ../configs/cancer.json
+	python3 run.py --conf cancer.json --mode csv --path cancer > cancer/cancer_log.json
+control/control_log.json: run.py ../sugarscape.py ../agent.py ../cell.py ../condition.py ../environment.py ../ethics.py ../gui.py ../configs/control.json
+	python3 run.py --conf control.json --mode csv --path control > control/control_log.json
+covid/covid_log.json: run.py ../sugarscape.py ../agent.py ../cell.py ../condition.py ../environment.py ../ethics.py ../gui.py ../configs/covid.json
+	python3 run.py --conf covid.json --mode csv --path covid > covid/covid_log.json
+diseaseEnable/diseaseEnable_log.json: run.py ../sugarscape.py ../agent.py ../cell.py ../condition.py ../environment.py ../ethics.py ../gui.py ../configs/diseaseEnable.json
+	python3 run.py --conf diseaseEnable.json --mode csv --path diseaseEnable > diseaseEnable/diseaseEnable_log.json
+diseaseHiInfLowProt/diseaseHiInfLowProt_log.json: run.py ../sugarscape.py ../agent.py ../cell.py ../condition.py ../environment.py ../ethics.py ../gui.py ../configs/diseaseHiInfLowProt.json
+	python3 run.py --conf diseaseHiInfLowProt.json --mode csv --path diseaseHiInfLowProt > diseaseHiInfLowProt/diseaseHiInfLowProt_log.json
+diseaseHighInf/diseaseHighInf_log.json: run.py ../sugarscape.py ../agent.py ../cell.py ../condition.py ../environment.py ../ethics.py ../gui.py ../configs/diseaseHighInf.json
+	python3 run.py --conf diseaseHighInf.json --mode csv --path diseaseHighInf > diseaseHighInf/diseaseHighInf_log.json
+diseaseLowInf/diseaseLowInf_log.json: run.py ../sugarscape.py ../agent.py ../cell.py ../condition.py ../environment.py ../ethics.py ../gui.py ../configs/diseaseLowInf.json
+	python3 run.py --conf diseaseLowInf.json --mode csv --path diseaseLowInf > diseaseLowInf/diseaseLowInf_log.json
+diseaseLowInfHiProt/diseaseLowInfHiProt_log.json: run.py ../sugarscape.py ../agent.py ../cell.py ../condition.py ../environment.py ../ethics.py ../gui.py ../configs/diseaseLowInfHiProt.json
+	python3 run.py --conf diseaseLowInfHiProt.json --mode csv --path diseaseLowInfHiProt > diseaseLowInfHiProt/diseaseLowInfHiProt_log.json
+diseaseMidInf/diseaseMidInf_log.json: run.py ../sugarscape.py ../agent.py ../cell.py ../condition.py ../environment.py ../ethics.py ../gui.py ../configs/diseaseMidInf.json
+	python3 run.py --conf diseaseMidInf.json --mode csv --path diseaseMidInf > diseaseMidInf/diseaseMidInf_log.json
+diseaseSevere/diseaseSevere_log.json: run.py ../sugarscape.py ../agent.py ../cell.py ../condition.py ../environment.py ../ethics.py ../gui.py ../configs/diseaseSevere.json
+	python3 run.py --conf diseaseSevere.json --mode csv --path diseaseSevere > diseaseSevere/diseaseSevere_log.json
+diseaseTimeframeAll/diseaseTimeframeAll_log.json: run.py ../sugarscape.py ../agent.py ../cell.py ../condition.py ../environment.py ../ethics.py ../gui.py ../configs/diseaseTimeframeAll.json
+	python3 run.py --conf diseaseTimeframeAll.json --mode csv --path diseaseTimeframeAll > diseaseTimeframeAll/diseaseTimeframeAll_log.json
+diseaseTimeframeMid/diseaseTimeframeMid_log.json: run.py ../sugarscape.py ../agent.py ../cell.py ../condition.py ../environment.py ../ethics.py ../gui.py ../configs/diseaseTimeframeMid.json
+	python3 run.py --conf diseaseTimeframeMid.json --mode csv --path diseaseTimeframeMid > diseaseTimeframeMid/diseaseTimeframeMid_log.json
+diseaseTransmit/diseaseTransmit_log.json: run.py ../sugarscape.py ../agent.py ../cell.py ../condition.py ../environment.py ../ethics.py ../gui.py ../configs/diseaseTransmit.json
+	python3 run.py --conf diseaseTransmit.json --mode csv --path diseaseTransmit > diseaseTransmit/diseaseTransmit_log.json
+diseaseWithProt/diseaseWithProt_log.json: run.py ../sugarscape.py ../agent.py ../cell.py ../condition.py ../environment.py ../ethics.py ../gui.py ../configs/diseaseWithProt.json
+	python3 run.py --conf diseaseWithProt.json --mode csv --path diseaseWithProt > diseaseWithProt/diseaseWithProt_log.json

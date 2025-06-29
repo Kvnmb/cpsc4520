@@ -1,0 +1,48 @@
+#!/usr/bin/env perl
+
+# perl script to generate makeflows for sugarscape.mf
+
+use strict;
+use warnings;
+use File::Basename;
+
+
+# check for correct number of statements
+if ($#ARGV + 1 != 1) {
+    die "invalid # of arguments\n";
+}
+
+# stores directory 
+my ($dir) = @ARGV;
+
+# store txt files in an array
+my @json_files = glob("$dir/*.json");
+
+# sort books so the grouped files stays the same after each run
+@json_files = sort(@json_files);
+
+# loop to go through all files
+foreach my $file(@json_files){
+
+    # get file name
+    my $basename = basename($file, ".json");
+
+    my @output_names = glob("$basename" . "none*.csv");
+
+    foreach my $short_name(@output_names){
+        $short_name =~ s/^$basename//;
+
+        my $command = "mv $short_name data/$basename";
+
+        system($command) == 0 or die "failed to create directory";
+    }
+
+
+    # perl command call
+    
+    system("mkdir -p plots/$basename") == 0 or die "failed to create directory";
+
+    system("cd plots/$basename && python3 ../plot.py --path ../../data/$basename/ --conf ../../$file") == 0 or die "failed";
+
+
+}    
