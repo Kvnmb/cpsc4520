@@ -1,0 +1,14 @@
+executable = /usr/bin/python3
+arguments = sysinfo.py
+output = job.$(Process).out
+transfer_input_files = sysinfo.py
+error = job.$(Process).err
+should_transfer_files = yes
+when_to_transfer_output = on_exit
+log = jobs.log
+max_retries = 5
+request_cpus = 1
+request_memory = 128MB
+request_disk = 128MB
++ProjectName = osg.SeattleU_CPSC_5520_2025Sprin
+queue 100

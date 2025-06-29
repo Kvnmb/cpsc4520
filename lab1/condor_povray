@@ -1,0 +1,72 @@
+#!/usr/bin/env perl
+# perl program to run frame creation using Condor
+
+use strict;
+use warnings;
+
+# checks for correct number of arguments
+if ($#ARGV + 1 != 5) {
+    die "invalid arguments\n";
+}
+
+# stores arguments in variables
+my ($input, $output, $num_frames, $width, $height) = @ARGV;
+
+# for loop for each frame
+for (my $i = 0; $i < $num_frames; $i++) {
+    # store frame name, gets reused
+    my $frame = sprintf("frame%03d", $i);
+
+    # png file that will be returned from povray call
+    my $png = "$frame.png";
+
+    # clock value to rotate cube
+    my $clock = $i / $num_frames;
+
+    # submit file script name
+    my $submit_file_name = sprintf("frame%03d.sub", $i);
+
+    # string for the sub file that is to be generated for each frame
+    my $str = <<END;
+executable = lab1.sh
+arguments = $input $png $width $height $clock
+output = $frame.out
+error = $frame.error
+log = condor_povray.log
++ProjectName = osg.SeattleU_CPSC_5520_2025Sprin
+transfer_input_files = povray,rubiks.pov,WRC_RubiksCube.inc
+should_transfer_files = IF_NEEDED
+when_to_transfer_output = ON_EXIT
+request_cpus            = 1
+request_memory          = 512M
+request_disk            = 1G
+queue
+END
+    # create file
+    open (FH, '>', $submit_file_name) or die $!;
+
+    # store string in file to create sub
+    print FH $str;
+
+    #close file
+    close(FH);
+
+    # string to submit job to condor
+    my $command = "condor_submit $submit_file_name";
+
+    # perl command call
+    system($command) == 0 or die "povray failed";
+
+    # delete the sub files after submitting job so no clutter in file
+    unlink $submit_file_name or die "error trying to delete sub file";
+}
+
+# program waits until the log is complete
+system("condor_wait condor_povray.log") == 0 or die "condor_povray log error";
+
+# creates video using all the frames in directory
+my $video_command = "./ffmpeg -r 10 -i frame%03d.png -f mp4 $output";
+system($video_command) == 0 or die "ffmpeg failed";
+
+# delete all pngs
+unlink glob "frame*.png";

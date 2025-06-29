@@ -1,0 +1,34 @@
+#!/usr/bin/env perl
+# perl program for rendering rubiks cube locally
+
+use strict;
+use warnings;
+
+# check for correct number of statements
+if ($#ARGV + 1 != 5) {
+    die "invalid arguments\n";
+}
+
+# stores arguments in specified order
+my ($input, $output, $num_frames, $width, $height) = @ARGV;
+
+# for loop for the number of frames
+for (my $i = 0; $i < $num_frames; $i++) {
+    # png output file for each frame
+    my $frame = sprintf("frame%03d.png", $i);
+
+    #clock value to rotate cube
+    my $clock = $i / $num_frames;
+    
+    my $command = "./povray +I$input +O$frame +W$width +H$height +K$clock";
+
+    #povray called through program
+    system($command) == 0 or die "povray failed";
+}
+
+# create video after frames are created
+my $video_command = "./ffmpeg -r 10 -i frame%03d.png -f mp4 $output";
+system($video_command) == 0 or die "ffmpeg failed";
+
+# delete all pngs
+unlink glob "frame*.png";

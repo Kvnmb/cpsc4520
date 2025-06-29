@@ -1,0 +1,3 @@
+config_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py test/config.json
+	python3 sugarscape.py --conf config.json
+

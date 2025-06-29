@@ -1,0 +1,11 @@
+This software was written by mbreese, and the original can be accessed here:
+https://github.com/mbreese/swalign/
+
+Dr. Douglas Thain has repackaged this to make it a little easier
+to use for an assignment in CSE 40822:
+http://www.nd.edu/~dthain/courses/cse40822/fall2014/a2
+
+Dr. Nate Kremer-Herman has repackaged this again to update it to Python 3
+to use for an assignment in CS360S (Cloud Computing).
+
+It has been repackaged again for CPSC 5520 (Distributed Systems).

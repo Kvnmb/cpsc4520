@@ -1,0 +1,54 @@
+#!/usr/bin/env perl
+
+# perl script to count frequency of words in a txt file
+
+use strict;
+use warnings;
+
+# check for correct number of statements
+if ($#ARGV + 1 != 1) {
+    die "invalid # of arguments\n";
+}
+
+# stores txt file
+my ($input_file) = @ARGV;
+
+# opens file
+open(my $file, '<', $input_file) or die $!;
+
+# hash to store words and frequency
+my %word_hash;
+
+# while loop to break lines into words and count
+while(my $line = <$file>){
+    # array stores broken down line
+    my @split_line = split(' ', $line);
+
+    # create or increment key-value pair
+    foreach my $words (@split_line){
+	# remove punctuation from beginning and end of word if any
+	$words =~ s/^[[:punct:]]+//g;
+	$words =~ s/[[:punct:]]+$//g;
+
+	
+	#check for word validity
+	if($words =~ /^[A-Z]+(-[A-Z]+)?('[A-Z]+)?$/){
+
+	    # check if key-value pair exists
+	    if(exists $word_hash{$words}){
+		$word_hash{$words}++;
+	    }else{
+		# creates key-value pair
+		$word_hash{$words} = 1;
+	    }
+	}
+    }
+}
+
+close($file);
+
+# print out the key-pairs in the hash for the output file
+
+foreach my $key (sort {$word_hash{$a} <=> $word_hash{$b} } keys %word_hash){
+    print "$key $word_hash{$key}\n";
+}

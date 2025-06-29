@@ -1,0 +1,74 @@
+#!/usr/bin/env perl
+
+# perl script to generate makeflows for swcompare.mf
+
+use strict;
+use warnings;
+
+# check for correct number of statements
+if ($#ARGV + 1 != 1) {
+    die "invalid # of arguments\n";
+}
+
+# stores filename
+my ($input_file) = @ARGV;
+
+# opens the data file as read-only
+open(FH, '<', $input_file) or die $!;
+
+# arrays to store ids and sequences
+my @ids;
+my @seq;
+
+# loop reads through file in pairs, for id and dna sequence
+while(my $id_line = <FH>){
+    # second line is the dna sequence
+    my $seq_line = <FH>;
+
+    # remove newline characters
+    chomp($id_line);
+    chomp($seq_line);
+
+    # remove the '>' for cleaner filename
+    $id_line = substr($id_line, 1);
+    $id_line = substr($id_line, 0, -1);
+    
+    # stores each read into the arrays
+    push(@ids, $id_line);
+    push(@seq, $seq_line);
+}
+
+close(FH);
+
+# loop for each read where it will store each read in a file
+
+# ignores the last read since all reads will have compared with it, file would be empty since no further reads
+for(my $i = 0; $i < (@ids - 1); $i++){
+    # names file as id
+    my $ids_file_name = "$ids[$i].fasta";
+
+    # opens file in the splits directory
+    open(my $id_out, '>', "splits/$ids_file_name") or die $!;
+    # stores id and sequence
+    print $id_out ">$ids[$i]\n$seq[$i]\n";
+    close($id_out);
+
+    # create second file for storing the reads that come after previous read
+    
+    my $other_ids_file_name = "$ids[$i]_rest.fasta";
+
+    # opens file in splits directory
+    open(my $rest_out, '>', "splits/$other_ids_file_name") or die $!;
+    
+    # second loop will fill file with every read that comes after the current one
+    for(my $j = $i + 1; $j < @seq; $j++){
+	print $rest_out ">$ids[$j]\n$seq[$j]\n";
+    }
+    close($rest_out);
+
+    # print makeflows out to swcompare.mf
+    # first print needs splits directory written, but when submitted as a job the second line does not
+    # need it
+    print "$ids[$i].out: swaligntool splits/$ids_file_name splits/$other_ids_file_name\n";
+    print "\tpython3 swaligntool $ids_file_name $other_ids_file_name > $ids[$i].out\n\n";
+}

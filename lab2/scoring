@@ -1,0 +1,73 @@
+#!/usr/bin/env perl
+
+# scoring perl script to find the top 10 scores between dna sequences
+
+use strict;
+use warnings;
+
+# array of all output files from makeflow
+my @score_files = glob("*.out");
+
+# variables to store each entry value
+my $query_id;
+my $ref_id;
+my $score;
+
+# array to store entries
+my @results_array;
+
+# boolean for whether to create a new entry in results array
+my $new_entry = 0;
+
+# loops through output files for results
+foreach my $file (@score_files){
+    open(FH, '<', $file) or die $!;
+ 
+    # loop goes through each line in file to look for score using regex
+    while(my $line = <FH>){
+	chomp($line);
+	
+	# regex expressions matching output, parentheses to get the numbers of interest in groupings
+	# there are two sets of query and ref in output, need to filter for only the first pair
+	# by looking for the ones with id and parentheses
+	if($line =~ /^Query: (\d+)\s+\(/){
+	    $query_id = $1;
+	}elsif($line =~ /^Ref  : (\d+)\s+\(/){
+	    $ref_id = $1;
+	}elsif($line =~ /Score: (\d+)/){
+	    $score = $1;
+
+	    # new_entry is changed here since query, ref, and score go in this order so by the time
+	    # score is updated the others should have been too
+	    $new_entry = 1;
+	}
+
+	#store entry into a multidimensional array if new entry
+	if($new_entry){
+	    # push a hash onto array to store 3 variables per element
+	    push(@results_array, { query_id => $query_id, ref_id => $ref_id, score => $score});
+
+	    # set new_entry to false to continue scan
+	    $new_entry = 0;
+	}
+    }
+
+    close(FH);
+}
+
+# sort results array in descending order based on score
+my @sorted_results_array = sort {$b->{score} <=> $a->{score}} @results_array;
+
+
+my $placement = 1;
+
+print "Top Ten Matches:\n";
+foreach my $result (@sorted_results_array){
+    print "$placement: sequence $result->{ref_id} matches $result->{query_id} with a score of $result->{score}\n";
+
+    $placement++;
+
+    if($placement > 10){
+	last;
+    }
+}

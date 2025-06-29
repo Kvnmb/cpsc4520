@@ -1,0 +1,74 @@
+#!/usr/bin/env perl
+
+# perl script to generate condor jobs for sugarscape.mf
+
+use strict;
+use warnings;
+use File::Basename;
+
+
+# check for correct number of statements
+if ($#ARGV + 1 != 1) {
+    die "invalid # of arguments\n";
+}
+
+# stores directory with json files
+my ($dir) = @ARGV;
+
+# store txt files in an array
+my @json_files = glob("$dir/*.json");
+
+# sort books so the grouped files stays the same after each run
+@json_files = sort(@json_files);
+
+# loop to go through all files
+foreach my $file(@json_files){
+
+    # get file name
+    my $basename = basename($file, ".json");
+
+    # submit file script name
+    my $submit_file_name = "$basename.sub";
+
+     # perl command call
+    system("mkdir -p data/$basename") == 0 or die "failed to create directory";
+
+    # string for the sub file that is to be generated for each frame
+    my $str = <<END;
+executable = /usr/bin/python3
+arguments = run.py --conf $basename.json --mode csv --path $basename
+output = data/$basename/$basename.out
+error = data/$basename/$basename.error
+log = $basename.log
++ProjectName = osg.SeattleU_CPSC_5520_2025Sprin
+transfer_input_files = data/run.py, sugarscape.py, agent.py, cell.py, condition.py, environment.py, ethics.py, gui.py, $dir/$basename.json
+should_transfer_files = YES
+transfer_output_files = $basename
+when_to_transfer_output = ON_EXIT
+transfer_output_files = "$basename = data/$basename"
+request_cpus            = 1
+request_memory          = 1G
+request_disk            = 2G
+queue
+END
+    # create file
+    open (FH, '>', $submit_file_name) or die $!;
+
+    # store string in file to create sub
+    print FH $str;
+
+    #close file
+    close(FH);
+
+    # string to submit job to condor
+    my $command = "condor_submit $submit_file_name";
+
+    # perl command call
+    system($command) == 0 or die "submit failed";
+
+    # delete the sub files after submitting job so no clutter in file
+    unlink $submit_file_name or die "error trying to delete sub file";
+}
+
+# program waits until the log is complete
+system("condor_wait *.log") == 0 or die " log error";

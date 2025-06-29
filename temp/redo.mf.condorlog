@@ -1,0 +1,475 @@
+000 (26043262.000.000) 2025-06-04 09:33:35 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_925476_22fd>
+...
+000 (26043263.000.000) 2025-06-04 09:33:35 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_925476_22fd>
+...
+040 (26043262.000.000) 2025-06-04 09:33:50 Started transferring input files
+	Transferring to host: <10.1.11.229:35581?CCBID=128.105.82.148:9618%3faddrs%3d128.105.82.148-9618+[2607-f388-2200-87-d439-a1c8-2a11-24e4]-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector1#74695149%20192.170.231.11:9618%3faddrs%3d192.170.231.11-9618+[fd85-ee78-d8a6-8607--1-7381]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#33831658&PrivNet=nal-005-docker&addrs=10.1.11.229-35581&alias=nal-005-docker&noUDP>
+...
+040 (26043262.000.000) 2025-06-04 09:33:50 Finished transferring input files
+...
+021 (26043262.000.000) 2025-06-04 09:33:51 Message from starter on slot1@glidein_1853360_497955520@nal-005-docker:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/osg01/glide_3AYODR/images/htc__rocky__9.sif
+...
+001 (26043262.000.000) 2025-06-04 09:33:51 Job executing on host: <10.1.11.229:45571?CCBID=128.105.82.148:9618%3faddrs%3d128.105.82.148-9618+[2607-f388-2200-87-d439-a1c8-2a11-24e4]-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#74839081%20192.170.231.11:9618%3faddrs%3d192.170.231.11-9618+[fd85-ee78-d8a6-8607--1-7381]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#33778369&PrivNet=nal-005-docker&addrs=10.1.11.229-45571&alias=nal-005-docker&noUDP>
+	SlotName: slot1@glidein_1853360_497955520@nal-005-docker
+	CondorScratchDir = "/tmp/osg01/glide_3AYODR/execute/dir_2249755"
+	Cpus = 1
+	Disk = 255530211
+	GLIDEIN_ResourceName = "MSU-DataMachine-CE1"
+	GPUs = 0
+	Memory = 2048
+...
+006 (26043262.000.000) 2025-06-04 09:34:00 Image size of job updated: 1
+	7  -  MemoryUsage of job (MB)
+	6828  -  ResidentSetSize of job (KB)
+...
+040 (26043263.000.000) 2025-06-04 09:34:17 Started transferring input files
+	Transferring to host: <10.5.10.11:36723?CCBID=128.105.82.148:9618%3faddrs%3d128.105.82.148-9618+[2607-f388-2200-87-d439-a1c8-2a11-24e4]-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector1#74695215%20192.170.231.11:9618%3faddrs%3d192.170.231.11-9618+[fd85-ee78-d8a6-8607--1-7381]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector7#33831735&PrivNet=warlock11.beocat.ksu.edu&addrs=10.5.10.11-36723&alias=warlock11.beocat.ksu.edu&noUDP>
+...
+040 (26043263.000.000) 2025-06-04 09:34:17 Finished transferring input files
+...
+021 (26043263.000.000) 2025-06-04 09:34:18 Message from starter on slot1_4@glidein_748088_148011136@warlock11.beocat.ksu.edu:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/glide_WGRGyr/images/htc__ubuntu__22.04.sif
+...
+001 (26043263.000.000) 2025-06-04 09:34:18 Job executing on host: <10.5.10.11:36203?CCBID=128.105.82.148:9618%3faddrs%3d128.105.82.148-9618+[2607-f388-2200-87-d439-a1c8-2a11-24e4]-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#74750594%20192.170.231.11:9618%3faddrs%3d192.170.231.11-9618+[fd85-ee78-d8a6-8607--1-7381]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#33702378&PrivNet=warlock11.beocat.ksu.edu&addrs=10.5.10.11-36203&alias=warlock11.beocat.ksu.edu&noUDP>
+	SlotName: slot1_4@glidein_748088_148011136@warlock11.beocat.ksu.edu
+	CondorScratchDir = "/tmp/glide_WGRGyr/execute/dir_4164103"
+	Cpus = 1
+	Disk = 1050227
+	GLIDEIN_ResourceName = "KSU-Beocat-CE1"
+	GPUs = 0
+	Memory = 1024
+...
+006 (26043263.000.000) 2025-06-04 09:34:27 Image size of job updated: 3701176
+	87  -  MemoryUsage of job (MB)
+	88328  -  ResidentSetSize of job (KB)
+...
+006 (26043262.000.000) 2025-06-04 09:39:00 Image size of job updated: 2259932
+	119  -  MemoryUsage of job (MB)
+	121656  -  ResidentSetSize of job (KB)
+...
+006 (26043263.000.000) 2025-06-04 09:39:27 Image size of job updated: 3749532
+	132  -  MemoryUsage of job (MB)
+	134408  -  ResidentSetSize of job (KB)
+...
+006 (26043262.000.000) 2025-06-04 09:44:01 Image size of job updated: 2269244
+	128  -  MemoryUsage of job (MB)
+	130684  -  ResidentSetSize of job (KB)
+...
+006 (26043263.000.000) 2025-06-04 09:44:28 Image size of job updated: 3761308
+	144  -  MemoryUsage of job (MB)
+	146696  -  ResidentSetSize of job (KB)
+...
+006 (26043262.000.000) 2025-06-04 09:49:02 Image size of job updated: 2270408
+	129  -  MemoryUsage of job (MB)
+	131892  -  ResidentSetSize of job (KB)
+...
+006 (26043263.000.000) 2025-06-04 09:49:29 Image size of job updated: 3764316
+	148  -  MemoryUsage of job (MB)
+	150792  -  ResidentSetSize of job (KB)
+...
+006 (26043262.000.000) 2025-06-04 09:54:02 Image size of job updated: 2272524
+	131  -  MemoryUsage of job (MB)
+	134000  -  ResidentSetSize of job (KB)
+...
+006 (26043263.000.000) 2025-06-04 09:54:30 Image size of job updated: 3765616
+	149  -  MemoryUsage of job (MB)
+	151816  -  ResidentSetSize of job (KB)
+...
+006 (26043262.000.000) 2025-06-04 09:59:02 Image size of job updated: 2272664
+	131  -  MemoryUsage of job (MB)
+	134000  -  ResidentSetSize of job (KB)
+...
+006 (26043263.000.000) 2025-06-04 09:59:30 Image size of job updated: 3766640
+	150  -  MemoryUsage of job (MB)
+	152840  -  ResidentSetSize of job (KB)
+...
+006 (26043262.000.000) 2025-06-04 10:04:02 Image size of job updated: 2272664
+	131  -  MemoryUsage of job (MB)
+	134036  -  ResidentSetSize of job (KB)
+...
+006 (26043263.000.000) 2025-06-04 10:09:32 Image size of job updated: 3766772
+	150  -  MemoryUsage of job (MB)
+	152840  -  ResidentSetSize of job (KB)
+...
+040 (26043262.000.000) 2025-06-04 10:22:17 Started transferring output files
+...
+040 (26043262.000.000) 2025-06-04 10:22:17 Finished transferring output files
+...
+005 (26043262.000.000) 2025-06-04 10:22:17 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:48:18, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:48:18, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24968441  -  Run Bytes Sent By Job
+	233254  -  Run Bytes Received By Job
+	24968441  -  Total Bytes Sent By Job
+	233254  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     1.00        1         1 
+	   Disk (KB)            : 24805     1048576 255530211 
+	   GPUs                 :                           0 
+	   Memory (MB)          :   131        1024      2048 
+	   TimeExecute (s)      :  2905                       
+	   TimeSlotBusy (s)     :  2908                       
+...
+000 (26070791.000.000) 2025-06-04 10:22:18 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_925476_22fd>
+...
+040 (26070791.000.000) 2025-06-04 10:22:25 Started transferring input files
+	Transferring to host: <10.1.11.229:44847?CCBID=128.105.82.148:9618%3faddrs%3d128.105.82.148-9618+[2607-f388-2200-87-d439-a1c8-2a11-24e4]-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#74731630%20192.170.231.11:9618%3faddrs%3d192.170.231.11-9618+[fd85-ee78-d8a6-8607--1-7381]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector2#33859858&PrivNet=nal-005-docker&addrs=10.1.11.229-44847&alias=nal-005-docker&noUDP>
+...
+021 (26070791.000.000) 2025-06-04 10:22:27 Message from starter on slot1@glidein_1853360_497955520@nal-005-docker:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/osg01/glide_3AYODR/images/htc__rocky__9.sif
+...
+040 (26070791.000.000) 2025-06-04 10:22:27 Finished transferring input files
+...
+001 (26070791.000.000) 2025-06-04 10:22:32 Job executing on host: <10.1.11.229:45571?CCBID=128.105.82.148:9618%3faddrs%3d128.105.82.148-9618+[2607-f388-2200-87-d439-a1c8-2a11-24e4]-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#74839081%20192.170.231.11:9618%3faddrs%3d192.170.231.11-9618+[fd85-ee78-d8a6-8607--1-7381]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#33778369&PrivNet=nal-005-docker&addrs=10.1.11.229-45571&alias=nal-005-docker&noUDP>
+	SlotName: slot1@glidein_1853360_497955520@nal-005-docker
+	CondorScratchDir = "/tmp/osg01/glide_3AYODR/execute/dir_3993798"
+	Cpus = 1
+	Disk = 255530211
+	GLIDEIN_ResourceName = "MSU-DataMachine-CE1"
+	GPUs = 0
+	Memory = 2048
+...
+006 (26070791.000.000) 2025-06-04 10:22:41 Image size of job updated: 2138620
+	66  -  MemoryUsage of job (MB)
+	67532  -  ResidentSetSize of job (KB)
+...
+006 (26070791.000.000) 2025-06-04 10:27:42 Image size of job updated: 2189432
+	116  -  MemoryUsage of job (MB)
+	118516  -  ResidentSetSize of job (KB)
+...
+040 (26043263.000.000) 2025-06-04 10:28:23 Started transferring output files
+...
+040 (26043263.000.000) 2025-06-04 10:28:27 Finished transferring output files
+...
+005 (26043263.000.000) 2025-06-04 10:28:28 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:53:07, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:53:07, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24969535  -  Run Bytes Sent By Job
+	233254  -  Run Bytes Received By Job
+	24969535  -  Total Bytes Sent By Job
+	233254  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.99        1         1 
+	   Disk (KB)            : 24814     1048576   1050227 
+	   GPUs                 :                           0 
+	   Memory (MB)          :   150        1024      1024 
+	   TimeExecute (s)      :  3245                       
+	   TimeSlotBusy (s)     :  3254                       
+...
+006 (26070791.000.000) 2025-06-04 10:32:42 Image size of job updated: 2193176
+	120  -  MemoryUsage of job (MB)
+	122256  -  ResidentSetSize of job (KB)
+...
+006 (26070791.000.000) 2025-06-04 10:37:42 Image size of job updated: 2195112
+	122  -  MemoryUsage of job (MB)
+	124248  -  ResidentSetSize of job (KB)
+...
+006 (26070791.000.000) 2025-06-04 10:42:42 Image size of job updated: 2196312
+	123  -  MemoryUsage of job (MB)
+	125568  -  ResidentSetSize of job (KB)
+...
+006 (26070791.000.000) 2025-06-04 10:47:43 Image size of job updated: 2201508
+	128  -  MemoryUsage of job (MB)
+	130592  -  ResidentSetSize of job (KB)
+...
+006 (26070791.000.000) 2025-06-04 10:57:44 Image size of job updated: 2202520
+	129  -  MemoryUsage of job (MB)
+	131696  -  ResidentSetSize of job (KB)
+...
+040 (26070791.000.000) 2025-06-04 11:08:06 Started transferring output files
+...
+040 (26070791.000.000) 2025-06-04 11:08:06 Finished transferring output files
+...
+005 (26070791.000.000) 2025-06-04 11:08:07 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:45:17, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:45:17, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24975015  -  Run Bytes Sent By Job
+	233254  -  Run Bytes Received By Job
+	24975015  -  Total Bytes Sent By Job
+	233254  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     1.00        1         1 
+	   Disk (KB)            : 24811     1048576 255530211 
+	   GPUs                 :                           0 
+	   Memory (MB)          :   129        1024      2048 
+	   TimeExecute (s)      :  2736                       
+	   TimeSlotBusy (s)     :  2744                       
+...
+000 (26097300.000.000) 2025-06-04 11:08:08 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_925476_22fd>
+...
+040 (26097300.000.000) 2025-06-04 11:08:12 Started transferring input files
+	Transferring to host: <10.1.11.229:39189?CCBID=128.105.82.148:9618%3faddrs%3d128.105.82.148-9618+[2607-f388-2200-87-d439-a1c8-2a11-24e4]-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector7#53277112%20192.170.231.11:9618%3faddrs%3d192.170.231.11-9618+[fd85-ee78-d8a6-8607--1-7381]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector1#33835312&PrivNet=nal-005-docker&addrs=10.1.11.229-39189&alias=nal-005-docker&noUDP>
+...
+040 (26097300.000.000) 2025-06-04 11:08:12 Finished transferring input files
+...
+021 (26097300.000.000) 2025-06-04 11:08:14 Message from starter on slot1@glidein_1853360_497955520@nal-005-docker:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/osg01/glide_3AYODR/images/htc__rocky__9.sif
+...
+001 (26097300.000.000) 2025-06-04 11:08:14 Job executing on host: <10.1.11.229:45571?CCBID=128.105.82.148:9618%3faddrs%3d128.105.82.148-9618+[2607-f388-2200-87-d439-a1c8-2a11-24e4]-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#74839081%20192.170.231.11:9618%3faddrs%3d192.170.231.11-9618+[fd85-ee78-d8a6-8607--1-7381]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#33778369&PrivNet=nal-005-docker&addrs=10.1.11.229-45571&alias=nal-005-docker&noUDP>
+	SlotName: slot1@glidein_1853360_497955520@nal-005-docker
+	CondorScratchDir = "/tmp/osg01/glide_3AYODR/execute/dir_1336127"
+	Cpus = 1
+	Disk = 255530211
+	GLIDEIN_ResourceName = "MSU-DataMachine-CE1"
+	GPUs = 0
+	Memory = 2048
+...
+006 (26097300.000.000) 2025-06-04 11:08:23 Image size of job updated: 2138104
+	66  -  MemoryUsage of job (MB)
+	67232  -  ResidentSetSize of job (KB)
+...
+006 (26097300.000.000) 2025-06-04 11:13:24 Image size of job updated: 2174484
+	102  -  MemoryUsage of job (MB)
+	103616  -  ResidentSetSize of job (KB)
+...
+006 (26097300.000.000) 2025-06-04 11:18:24 Image size of job updated: 2188948
+	116  -  MemoryUsage of job (MB)
+	117868  -  ResidentSetSize of job (KB)
+...
+006 (26097300.000.000) 2025-06-04 11:23:24 Image size of job updated: 2192556
+	119  -  MemoryUsage of job (MB)
+	121516  -  ResidentSetSize of job (KB)
+...
+006 (26097300.000.000) 2025-06-04 11:28:24 Image size of job updated: 2192948
+	120  -  MemoryUsage of job (MB)
+	122040  -  ResidentSetSize of job (KB)
+...
+006 (26097300.000.000) 2025-06-04 11:33:25 Image size of job updated: 2193856
+	120  -  MemoryUsage of job (MB)
+	122776  -  ResidentSetSize of job (KB)
+...
+006 (26097300.000.000) 2025-06-04 11:43:25 Image size of job updated: 2194112
+	121  -  MemoryUsage of job (MB)
+	123032  -  ResidentSetSize of job (KB)
+...
+040 (26097300.000.000) 2025-06-04 11:47:46 Started transferring output files
+...
+040 (26097300.000.000) 2025-06-04 11:47:47 Finished transferring output files
+...
+005 (26097300.000.000) 2025-06-04 11:47:47 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:39:16, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:39:16, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24971090  -  Run Bytes Sent By Job
+	233254  -  Run Bytes Received By Job
+	24971090  -  Total Bytes Sent By Job
+	233254  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     1.00        1         1 
+	   Disk (KB)            : 24807     1048576 255530211 
+	   GPUs                 :                           0 
+	   Memory (MB)          :   121        1024      2048 
+	   TimeExecute (s)      :  2372                       
+	   TimeSlotBusy (s)     :  2375                       
+...
+000 (26119686.000.000) 2025-06-04 11:47:47 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_925476_22fd>
+...
+040 (26119686.000.000) 2025-06-04 11:47:50 Started transferring input files
+	Transferring to host: <10.1.11.229:39641?CCBID=128.105.82.148:9618%3faddrs%3d128.105.82.148-9618+[2607-f388-2200-87-d439-a1c8-2a11-24e4]-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector7#53285749%20192.170.231.11:9618%3faddrs%3d192.170.231.11-9618+[fd85-ee78-d8a6-8607--1-7381]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#33806977&PrivNet=nal-005-docker&addrs=10.1.11.229-39641&alias=nal-005-docker&noUDP>
+...
+040 (26119686.000.000) 2025-06-04 11:47:50 Finished transferring input files
+...
+021 (26119686.000.000) 2025-06-04 11:47:51 Message from starter on slot1@glidein_1853360_497955520@nal-005-docker:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/osg01/glide_3AYODR/images/htc__rocky__9.sif
+...
+001 (26119686.000.000) 2025-06-04 11:47:51 Job executing on host: <10.1.11.229:45571?CCBID=128.105.82.148:9618%3faddrs%3d128.105.82.148-9618+[2607-f388-2200-87-d439-a1c8-2a11-24e4]-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#74839081%20192.170.231.11:9618%3faddrs%3d192.170.231.11-9618+[fd85-ee78-d8a6-8607--1-7381]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector3#33778369&PrivNet=nal-005-docker&addrs=10.1.11.229-45571&alias=nal-005-docker&noUDP>
+	SlotName: slot1@glidein_1853360_497955520@nal-005-docker
+	CondorScratchDir = "/tmp/osg01/glide_3AYODR/execute/dir_2826151"
+	Cpus = 1
+	Disk = 255530211
+	GLIDEIN_ResourceName = "MSU-DataMachine-CE1"
+	GPUs = 0
+	Memory = 2048
+...
+006 (26119686.000.000) 2025-06-04 11:48:00 Image size of job updated: 1
+	7  -  MemoryUsage of job (MB)
+	6804  -  ResidentSetSize of job (KB)
+...
+006 (26119686.000.000) 2025-06-04 11:53:01 Image size of job updated: 2180188
+	107  -  MemoryUsage of job (MB)
+	109080  -  ResidentSetSize of job (KB)
+...
+006 (26119686.000.000) 2025-06-04 11:58:01 Image size of job updated: 2189088
+	116  -  MemoryUsage of job (MB)
+	117836  -  ResidentSetSize of job (KB)
+...
+006 (26119686.000.000) 2025-06-04 12:03:02 Image size of job updated: 2192720
+	119  -  MemoryUsage of job (MB)
+	121580  -  ResidentSetSize of job (KB)
+...
+006 (26119686.000.000) 2025-06-04 12:08:03 Image size of job updated: 2192720
+	119  -  MemoryUsage of job (MB)
+	121584  -  ResidentSetSize of job (KB)
+...
+006 (26119686.000.000) 2025-06-04 12:18:04 Image size of job updated: 2192908
+	120  -  MemoryUsage of job (MB)
+	121868  -  ResidentSetSize of job (KB)
+...
+006 (26119686.000.000) 2025-06-04 12:23:05 Image size of job updated: 2193040
+	120  -  MemoryUsage of job (MB)
+	121868  -  ResidentSetSize of job (KB)
+...
+040 (26119686.000.000) 2025-06-04 12:32:04 Started transferring output files
+...
+040 (26119686.000.000) 2025-06-04 12:32:06 Finished transferring output files
+...
+005 (26119686.000.000) 2025-06-04 12:32:10 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:44:06, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:44:06, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24974929  -  Run Bytes Sent By Job
+	233254  -  Run Bytes Received By Job
+	24974929  -  Total Bytes Sent By Job
+	233254  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     1.00        1         1 
+	   Disk (KB)            : 24811     1048576 255530211 
+	   GPUs                 :                           0 
+	   Memory (MB)          :   120        1024      2048 
+	   TimeExecute (s)      :  2652                       
+	   TimeSlotBusy (s)     :  2659                       
+...
+000 (26142662.000.000) 2025-06-04 12:32:10 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_925476_22fd>
+...
+040 (26142662.000.000) 2025-06-04 12:33:55 Started transferring input files
+	Transferring to host: <10.226.104.113:38025?CCBID=128.105.82.148:9618%3faddrs%3d128.105.82.148-9618+[2607-f388-2200-87-d439-a1c8-2a11-24e4]-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#53197291%20192.170.231.11:9618%3faddrs%3d192.170.231.11-9618+[fd85-ee78-d8a6-8607--1-7381]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector6#33862582&PrivNet=tempest-epyc013&addrs=10.226.104.113-38025&alias=tempest-epyc013&noUDP>
+...
+040 (26142662.000.000) 2025-06-04 12:33:56 Finished transferring input files
+...
+021 (26142662.000.000) 2025-06-04 12:33:59 Message from starter on slot1_7@glidein_362030_467983428@tempest-epyc013:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2996650/glide_AY6IAJ/images/htc__rocky__9.sif
+...
+001 (26142662.000.000) 2025-06-04 12:34:01 Job executing on host: <10.226.104.113:44209?CCBID=128.105.82.148:9618%3faddrs%3d128.105.82.148-9618+[2607-f388-2200-87-d439-a1c8-2a11-24e4]-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#53028338%20192.170.231.11:9618%3faddrs%3d192.170.231.11-9618+[fd85-ee78-d8a6-8607--1-7381]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#33642309&PrivNet=tempest-epyc013&addrs=10.226.104.113-44209&alias=tempest-epyc013&noUDP>
+	SlotName: slot1_7@glidein_362030_467983428@tempest-epyc013
+	CondorScratchDir = "/tmp/jobs/2996650/glide_AY6IAJ/execute/dir_3064930"
+	Cpus = 1
+	Disk = 1049600
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	GPUs = 0
+	Memory = 1024
+...
+006 (26142662.000.000) 2025-06-04 12:34:11 Image size of job updated: 3834476
+	84  -  MemoryUsage of job (MB)
+	85652  -  ResidentSetSize of job (KB)
+...
+006 (26142662.000.000) 2025-06-04 12:39:12 Image size of job updated: 3882028
+	131  -  MemoryUsage of job (MB)
+	133264  -  ResidentSetSize of job (KB)
+...
+006 (26142662.000.000) 2025-06-04 12:44:12 Image size of job updated: 3889252
+	138  -  MemoryUsage of job (MB)
+	140656  -  ResidentSetSize of job (KB)
+...
+006 (26142662.000.000) 2025-06-04 12:49:12 Image size of job updated: 3894796
+	143  -  MemoryUsage of job (MB)
+	145936  -  ResidentSetSize of job (KB)
+...
+006 (26142662.000.000) 2025-06-04 13:04:14 Image size of job updated: 3895052
+	144  -  MemoryUsage of job (MB)
+	146464  -  ResidentSetSize of job (KB)
+...
+006 (26142662.000.000) 2025-06-04 13:09:15 Image size of job updated: 3896468
+	145  -  MemoryUsage of job (MB)
+	147784  -  ResidentSetSize of job (KB)
+...
+040 (26142662.000.000) 2025-06-04 13:29:15 Started transferring output files
+...
+040 (26142662.000.000) 2025-06-04 13:29:37 Finished transferring output files
+...
+005 (26142662.000.000) 2025-06-04 13:30:19 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:54:22, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:54:22, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24974334  -  Run Bytes Sent By Job
+	233254  -  Run Bytes Received By Job
+	24974334  -  Total Bytes Sent By Job
+	233254  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.99        1         1 
+	   Disk (KB)            : 24812     1048576   1049600 
+	   GPUs                 :                           0 
+	   Memory (MB)          :   145        1024      1024 
+	   TimeExecute (s)      :  3301                       
+	   TimeSlotBusy (s)     :  3368                       
+...
+000 (26175442.000.000) 2025-06-04 13:30:19 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_925476_22fd>
+...
+040 (26175442.000.000) 2025-06-04 13:30:42 Started transferring input files
+	Transferring to host: <10.226.104.113:44887?CCBID=128.105.82.148:9618%3faddrs%3d128.105.82.148-9618+[2607-f388-2200-87-d439-a1c8-2a11-24e4]-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector9#53202995%20192.170.231.11:9618%3faddrs%3d192.170.231.11-9618+[fd85-ee78-d8a6-8607--1-7381]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#33842940&PrivNet=tempest-epyc013&addrs=10.226.104.113-44887&alias=tempest-epyc013&noUDP>
+...
+040 (26175442.000.000) 2025-06-04 13:30:42 Finished transferring input files
+...
+021 (26175442.000.000) 2025-06-04 13:30:44 Message from starter on slot1_7@glidein_362030_467983428@tempest-epyc013:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /tmp/jobs/2996650/glide_AY6IAJ/images/htc__rocky__9.sif
+...
+001 (26175442.000.000) 2025-06-04 13:30:44 Job executing on host: <10.226.104.113:44209?CCBID=128.105.82.148:9618%3faddrs%3d128.105.82.148-9618+[2607-f388-2200-87-d439-a1c8-2a11-24e4]-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector8#53028338%20192.170.231.11:9618%3faddrs%3d192.170.231.11-9618+[fd85-ee78-d8a6-8607--1-7381]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#33642309&PrivNet=tempest-epyc013&addrs=10.226.104.113-44209&alias=tempest-epyc013&noUDP>
+	SlotName: slot1_7@glidein_362030_467983428@tempest-epyc013
+	CondorScratchDir = "/tmp/jobs/2996650/glide_AY6IAJ/execute/dir_3230384"
+	Cpus = 1
+	Disk = 1049600
+	GLIDEIN_ResourceName = "MTState-Tempest-CE1"
+	GPUs = 0
+	Memory = 1024
+...
+006 (26175442.000.000) 2025-06-04 13:30:53 Image size of job updated: 1
+	4  -  MemoryUsage of job (MB)
+	3764  -  ResidentSetSize of job (KB)
+...
+006 (26175442.000.000) 2025-06-04 13:35:53 Image size of job updated: 3808808
+	132  -  MemoryUsage of job (MB)
+	134976  -  ResidentSetSize of job (KB)
+...
+006 (26175442.000.000) 2025-06-04 13:40:53 Image size of job updated: 3819544
+	143  -  MemoryUsage of job (MB)
+	145536  -  ResidentSetSize of job (KB)
+...
+006 (26175442.000.000) 2025-06-04 13:45:53 Image size of job updated: 3825892
+	149  -  MemoryUsage of job (MB)
+	151872  -  ResidentSetSize of job (KB)
+...
+006 (26175442.000.000) 2025-06-04 13:50:53 Image size of job updated: 3829504
+	152  -  MemoryUsage of job (MB)
+	155576  -  ResidentSetSize of job (KB)
+...
+006 (26175442.000.000) 2025-06-04 14:10:56 Image size of job updated: 3829640
+	152  -  MemoryUsage of job (MB)
+	155632  -  ResidentSetSize of job (KB)
+...
+040 (26175442.000.000) 2025-06-04 14:39:10 Started transferring output files
+...
+040 (26175442.000.000) 2025-06-04 14:39:19 Finished transferring output files
+...
+005 (26175442.000.000) 2025-06-04 14:39:20 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 01:07:27, Sys 0 00:00:03  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 01:07:27, Sys 0 00:00:03  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24966739  -  Run Bytes Sent By Job
+	233254  -  Run Bytes Received By Job
+	24966739  -  Total Bytes Sent By Job
+	233254  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.99        1         1 
+	   Disk (KB)            : 24806     1048576   1049600 
+	   GPUs                 :                           0 
+	   Memory (MB)          :   152        1024      1024 
+	   TimeExecute (s)      :  4105                       
+	   TimeSlotBusy (s)     :  4118                       
+...

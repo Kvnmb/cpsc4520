@@ -1,0 +1,3702 @@
+group0.words: count_words group0.txt
+	perl count_words group0.txt > group0.words
+
+group10.words: count_words group10.txt
+	perl count_words group10.txt > group10.words
+
+group20.words: count_words group20.txt
+	perl count_words group20.txt > group20.words
+
+group30.words: count_words group30.txt
+	perl count_words group30.txt > group30.words
+
+group40.words: count_words group40.txt
+	perl count_words group40.txt > group40.words
+
+group50.words: count_words group50.txt
+	perl count_words group50.txt > group50.words
+
+group60.words: count_words group60.txt
+	perl count_words group60.txt > group60.words
+
+group70.words: count_words group70.txt
+	perl count_words group70.txt > group70.words
+
+group80.words: count_words group80.txt
+	perl count_words group80.txt > group80.words
+
+group90.words: count_words group90.txt
+	perl count_words group90.txt > group90.words
+
+group100.words: count_words group100.txt
+	perl count_words group100.txt > group100.words
+
+group110.words: count_words group110.txt
+	perl count_words group110.txt > group110.words
+
+group120.words: count_words group120.txt
+	perl count_words group120.txt > group120.words
+
+group130.words: count_words group130.txt
+	perl count_words group130.txt > group130.words
+
+group140.words: count_words group140.txt
+	perl count_words group140.txt > group140.words
+
+group150.words: count_words group150.txt
+	perl count_words group150.txt > group150.words
+
+group160.words: count_words group160.txt
+	perl count_words group160.txt > group160.words
+
+group170.words: count_words group170.txt
+	perl count_words group170.txt > group170.words
+
+group180.words: count_words group180.txt
+	perl count_words group180.txt > group180.words
+
+group190.words: count_words group190.txt
+	perl count_words group190.txt > group190.words
+
+group200.words: count_words group200.txt
+	perl count_words group200.txt > group200.words
+
+group210.words: count_words group210.txt
+	perl count_words group210.txt > group210.words
+
+group220.words: count_words group220.txt
+	perl count_words group220.txt > group220.words
+
+group230.words: count_words group230.txt
+	perl count_words group230.txt > group230.words
+
+group240.words: count_words group240.txt
+	perl count_words group240.txt > group240.words
+
+group250.words: count_words group250.txt
+	perl count_words group250.txt > group250.words
+
+group260.words: count_words group260.txt
+	perl count_words group260.txt > group260.words
+
+group270.words: count_words group270.txt
+	perl count_words group270.txt > group270.words
+
+group280.words: count_words group280.txt
+	perl count_words group280.txt > group280.words
+
+group290.words: count_words group290.txt
+	perl count_words group290.txt > group290.words
+
+group300.words: count_words group300.txt
+	perl count_words group300.txt > group300.words
+
+group310.words: count_words group310.txt
+	perl count_words group310.txt > group310.words
+
+group320.words: count_words group320.txt
+	perl count_words group320.txt > group320.words
+
+group330.words: count_words group330.txt
+	perl count_words group330.txt > group330.words
+
+group340.words: count_words group340.txt
+	perl count_words group340.txt > group340.words
+
+group350.words: count_words group350.txt
+	perl count_words group350.txt > group350.words
+
+group360.words: count_words group360.txt
+	perl count_words group360.txt > group360.words
+
+group370.words: count_words group370.txt
+	perl count_words group370.txt > group370.words
+
+group380.words: count_words group380.txt
+	perl count_words group380.txt > group380.words
+
+group390.words: count_words group390.txt
+	perl count_words group390.txt > group390.words
+
+group400.words: count_words group400.txt
+	perl count_words group400.txt > group400.words
+
+group410.words: count_words group410.txt
+	perl count_words group410.txt > group410.words
+
+group420.words: count_words group420.txt
+	perl count_words group420.txt > group420.words
+
+group430.words: count_words group430.txt
+	perl count_words group430.txt > group430.words
+
+group440.words: count_words group440.txt
+	perl count_words group440.txt > group440.words
+
+group450.words: count_words group450.txt
+	perl count_words group450.txt > group450.words
+
+group460.words: count_words group460.txt
+	perl count_words group460.txt > group460.words
+
+group470.words: count_words group470.txt
+	perl count_words group470.txt > group470.words
+
+group480.words: count_words group480.txt
+	perl count_words group480.txt > group480.words
+
+group490.words: count_words group490.txt
+	perl count_words group490.txt > group490.words
+
+group500.words: count_words group500.txt
+	perl count_words group500.txt > group500.words
+
+group510.words: count_words group510.txt
+	perl count_words group510.txt > group510.words
+
+group520.words: count_words group520.txt
+	perl count_words group520.txt > group520.words
+
+group530.words: count_words group530.txt
+	perl count_words group530.txt > group530.words
+
+group540.words: count_words group540.txt
+	perl count_words group540.txt > group540.words
+
+group550.words: count_words group550.txt
+	perl count_words group550.txt > group550.words
+
+group560.words: count_words group560.txt
+	perl count_words group560.txt > group560.words
+
+group570.words: count_words group570.txt
+	perl count_words group570.txt > group570.words
+
+group580.words: count_words group580.txt
+	perl count_words group580.txt > group580.words
+
+group590.words: count_words group590.txt
+	perl count_words group590.txt > group590.words
+
+group600.words: count_words group600.txt
+	perl count_words group600.txt > group600.words
+
+group610.words: count_words group610.txt
+	perl count_words group610.txt > group610.words
+
+group620.words: count_words group620.txt
+	perl count_words group620.txt > group620.words
+
+group630.words: count_words group630.txt
+	perl count_words group630.txt > group630.words
+
+group640.words: count_words group640.txt
+	perl count_words group640.txt > group640.words
+
+group650.words: count_words group650.txt
+	perl count_words group650.txt > group650.words
+
+group660.words: count_words group660.txt
+	perl count_words group660.txt > group660.words
+
+group670.words: count_words group670.txt
+	perl count_words group670.txt > group670.words
+
+group680.words: count_words group680.txt
+	perl count_words group680.txt > group680.words
+
+group690.words: count_words group690.txt
+	perl count_words group690.txt > group690.words
+
+group700.words: count_words group700.txt
+	perl count_words group700.txt > group700.words
+
+group710.words: count_words group710.txt
+	perl count_words group710.txt > group710.words
+
+group720.words: count_words group720.txt
+	perl count_words group720.txt > group720.words
+
+group730.words: count_words group730.txt
+	perl count_words group730.txt > group730.words
+
+group740.words: count_words group740.txt
+	perl count_words group740.txt > group740.words
+
+group750.words: count_words group750.txt
+	perl count_words group750.txt > group750.words
+
+group760.words: count_words group760.txt
+	perl count_words group760.txt > group760.words
+
+group770.words: count_words group770.txt
+	perl count_words group770.txt > group770.words
+
+group780.words: count_words group780.txt
+	perl count_words group780.txt > group780.words
+
+group790.words: count_words group790.txt
+	perl count_words group790.txt > group790.words
+
+group800.words: count_words group800.txt
+	perl count_words group800.txt > group800.words
+
+group810.words: count_words group810.txt
+	perl count_words group810.txt > group810.words
+
+group820.words: count_words group820.txt
+	perl count_words group820.txt > group820.words
+
+group830.words: count_words group830.txt
+	perl count_words group830.txt > group830.words
+
+group840.words: count_words group840.txt
+	perl count_words group840.txt > group840.words
+
+group850.words: count_words group850.txt
+	perl count_words group850.txt > group850.words
+
+group860.words: count_words group860.txt
+	perl count_words group860.txt > group860.words
+
+group870.words: count_words group870.txt
+	perl count_words group870.txt > group870.words
+
+group880.words: count_words group880.txt
+	perl count_words group880.txt > group880.words
+
+group890.words: count_words group890.txt
+	perl count_words group890.txt > group890.words
+
+group900.words: count_words group900.txt
+	perl count_words group900.txt > group900.words
+
+group910.words: count_words group910.txt
+	perl count_words group910.txt > group910.words
+
+group920.words: count_words group920.txt
+	perl count_words group920.txt > group920.words
+
+group930.words: count_words group930.txt
+	perl count_words group930.txt > group930.words
+
+group940.words: count_words group940.txt
+	perl count_words group940.txt > group940.words
+
+group950.words: count_words group950.txt
+	perl count_words group950.txt > group950.words
+
+group960.words: count_words group960.txt
+	perl count_words group960.txt > group960.words
+
+group970.words: count_words group970.txt
+	perl count_words group970.txt > group970.words
+
+group980.words: count_words group980.txt
+	perl count_words group980.txt > group980.words
+
+group990.words: count_words group990.txt
+	perl count_words group990.txt > group990.words
+
+group1000.words: count_words group1000.txt
+	perl count_words group1000.txt > group1000.words
+
+group1010.words: count_words group1010.txt
+	perl count_words group1010.txt > group1010.words
+
+group1020.words: count_words group1020.txt
+	perl count_words group1020.txt > group1020.words
+
+group1030.words: count_words group1030.txt
+	perl count_words group1030.txt > group1030.words
+
+group1040.words: count_words group1040.txt
+	perl count_words group1040.txt > group1040.words
+
+group1050.words: count_words group1050.txt
+	perl count_words group1050.txt > group1050.words
+
+group1060.words: count_words group1060.txt
+	perl count_words group1060.txt > group1060.words
+
+group1070.words: count_words group1070.txt
+	perl count_words group1070.txt > group1070.words
+
+group1080.words: count_words group1080.txt
+	perl count_words group1080.txt > group1080.words
+
+group1090.words: count_words group1090.txt
+	perl count_words group1090.txt > group1090.words
+
+group1100.words: count_words group1100.txt
+	perl count_words group1100.txt > group1100.words
+
+group1110.words: count_words group1110.txt
+	perl count_words group1110.txt > group1110.words
+
+group1120.words: count_words group1120.txt
+	perl count_words group1120.txt > group1120.words
+
+group1130.words: count_words group1130.txt
+	perl count_words group1130.txt > group1130.words
+
+group1140.words: count_words group1140.txt
+	perl count_words group1140.txt > group1140.words
+
+group1150.words: count_words group1150.txt
+	perl count_words group1150.txt > group1150.words
+
+group1160.words: count_words group1160.txt
+	perl count_words group1160.txt > group1160.words
+
+group1170.words: count_words group1170.txt
+	perl count_words group1170.txt > group1170.words
+
+group1180.words: count_words group1180.txt
+	perl count_words group1180.txt > group1180.words
+
+group1190.words: count_words group1190.txt
+	perl count_words group1190.txt > group1190.words
+
+group1200.words: count_words group1200.txt
+	perl count_words group1200.txt > group1200.words
+
+group1210.words: count_words group1210.txt
+	perl count_words group1210.txt > group1210.words
+
+group1220.words: count_words group1220.txt
+	perl count_words group1220.txt > group1220.words
+
+group1230.words: count_words group1230.txt
+	perl count_words group1230.txt > group1230.words
+
+group1240.words: count_words group1240.txt
+	perl count_words group1240.txt > group1240.words
+
+group1250.words: count_words group1250.txt
+	perl count_words group1250.txt > group1250.words
+
+group1260.words: count_words group1260.txt
+	perl count_words group1260.txt > group1260.words
+
+group1270.words: count_words group1270.txt
+	perl count_words group1270.txt > group1270.words
+
+group1280.words: count_words group1280.txt
+	perl count_words group1280.txt > group1280.words
+
+group1290.words: count_words group1290.txt
+	perl count_words group1290.txt > group1290.words
+
+group1300.words: count_words group1300.txt
+	perl count_words group1300.txt > group1300.words
+
+group1310.words: count_words group1310.txt
+	perl count_words group1310.txt > group1310.words
+
+group1320.words: count_words group1320.txt
+	perl count_words group1320.txt > group1320.words
+
+group1330.words: count_words group1330.txt
+	perl count_words group1330.txt > group1330.words
+
+group1340.words: count_words group1340.txt
+	perl count_words group1340.txt > group1340.words
+
+group1350.words: count_words group1350.txt
+	perl count_words group1350.txt > group1350.words
+
+group1360.words: count_words group1360.txt
+	perl count_words group1360.txt > group1360.words
+
+group1370.words: count_words group1370.txt
+	perl count_words group1370.txt > group1370.words
+
+group1380.words: count_words group1380.txt
+	perl count_words group1380.txt > group1380.words
+
+group1390.words: count_words group1390.txt
+	perl count_words group1390.txt > group1390.words
+
+group1400.words: count_words group1400.txt
+	perl count_words group1400.txt > group1400.words
+
+group1410.words: count_words group1410.txt
+	perl count_words group1410.txt > group1410.words
+
+group1420.words: count_words group1420.txt
+	perl count_words group1420.txt > group1420.words
+
+group1430.words: count_words group1430.txt
+	perl count_words group1430.txt > group1430.words
+
+group1440.words: count_words group1440.txt
+	perl count_words group1440.txt > group1440.words
+
+group1450.words: count_words group1450.txt
+	perl count_words group1450.txt > group1450.words
+
+group1460.words: count_words group1460.txt
+	perl count_words group1460.txt > group1460.words
+
+group1470.words: count_words group1470.txt
+	perl count_words group1470.txt > group1470.words
+
+group1480.words: count_words group1480.txt
+	perl count_words group1480.txt > group1480.words
+
+group1490.words: count_words group1490.txt
+	perl count_words group1490.txt > group1490.words
+
+group1500.words: count_words group1500.txt
+	perl count_words group1500.txt > group1500.words
+
+group1510.words: count_words group1510.txt
+	perl count_words group1510.txt > group1510.words
+
+group1520.words: count_words group1520.txt
+	perl count_words group1520.txt > group1520.words
+
+group1530.words: count_words group1530.txt
+	perl count_words group1530.txt > group1530.words
+
+group1540.words: count_words group1540.txt
+	perl count_words group1540.txt > group1540.words
+
+group1550.words: count_words group1550.txt
+	perl count_words group1550.txt > group1550.words
+
+group1560.words: count_words group1560.txt
+	perl count_words group1560.txt > group1560.words
+
+group1570.words: count_words group1570.txt
+	perl count_words group1570.txt > group1570.words
+
+group1580.words: count_words group1580.txt
+	perl count_words group1580.txt > group1580.words
+
+group1590.words: count_words group1590.txt
+	perl count_words group1590.txt > group1590.words
+
+group1600.words: count_words group1600.txt
+	perl count_words group1600.txt > group1600.words
+
+group1610.words: count_words group1610.txt
+	perl count_words group1610.txt > group1610.words
+
+group1620.words: count_words group1620.txt
+	perl count_words group1620.txt > group1620.words
+
+group1630.words: count_words group1630.txt
+	perl count_words group1630.txt > group1630.words
+
+group1640.words: count_words group1640.txt
+	perl count_words group1640.txt > group1640.words
+
+group1650.words: count_words group1650.txt
+	perl count_words group1650.txt > group1650.words
+
+group1660.words: count_words group1660.txt
+	perl count_words group1660.txt > group1660.words
+
+group1670.words: count_words group1670.txt
+	perl count_words group1670.txt > group1670.words
+
+group1680.words: count_words group1680.txt
+	perl count_words group1680.txt > group1680.words
+
+group1690.words: count_words group1690.txt
+	perl count_words group1690.txt > group1690.words
+
+group1700.words: count_words group1700.txt
+	perl count_words group1700.txt > group1700.words
+
+group1710.words: count_words group1710.txt
+	perl count_words group1710.txt > group1710.words
+
+group1720.words: count_words group1720.txt
+	perl count_words group1720.txt > group1720.words
+
+group1730.words: count_words group1730.txt
+	perl count_words group1730.txt > group1730.words
+
+group1740.words: count_words group1740.txt
+	perl count_words group1740.txt > group1740.words
+
+group1750.words: count_words group1750.txt
+	perl count_words group1750.txt > group1750.words
+
+group1760.words: count_words group1760.txt
+	perl count_words group1760.txt > group1760.words
+
+group1770.words: count_words group1770.txt
+	perl count_words group1770.txt > group1770.words
+
+group1780.words: count_words group1780.txt
+	perl count_words group1780.txt > group1780.words
+
+group1790.words: count_words group1790.txt
+	perl count_words group1790.txt > group1790.words
+
+group1800.words: count_words group1800.txt
+	perl count_words group1800.txt > group1800.words
+
+group1810.words: count_words group1810.txt
+	perl count_words group1810.txt > group1810.words
+
+group1820.words: count_words group1820.txt
+	perl count_words group1820.txt > group1820.words
+
+group1830.words: count_words group1830.txt
+	perl count_words group1830.txt > group1830.words
+
+group1840.words: count_words group1840.txt
+	perl count_words group1840.txt > group1840.words
+
+group1850.words: count_words group1850.txt
+	perl count_words group1850.txt > group1850.words
+
+group1860.words: count_words group1860.txt
+	perl count_words group1860.txt > group1860.words
+
+group1870.words: count_words group1870.txt
+	perl count_words group1870.txt > group1870.words
+
+group1880.words: count_words group1880.txt
+	perl count_words group1880.txt > group1880.words
+
+group1890.words: count_words group1890.txt
+	perl count_words group1890.txt > group1890.words
+
+group1900.words: count_words group1900.txt
+	perl count_words group1900.txt > group1900.words
+
+group1910.words: count_words group1910.txt
+	perl count_words group1910.txt > group1910.words
+
+group1920.words: count_words group1920.txt
+	perl count_words group1920.txt > group1920.words
+
+group1930.words: count_words group1930.txt
+	perl count_words group1930.txt > group1930.words
+
+group1940.words: count_words group1940.txt
+	perl count_words group1940.txt > group1940.words
+
+group1950.words: count_words group1950.txt
+	perl count_words group1950.txt > group1950.words
+
+group1960.words: count_words group1960.txt
+	perl count_words group1960.txt > group1960.words
+
+group1970.words: count_words group1970.txt
+	perl count_words group1970.txt > group1970.words
+
+group1980.words: count_words group1980.txt
+	perl count_words group1980.txt > group1980.words
+
+group1990.words: count_words group1990.txt
+	perl count_words group1990.txt > group1990.words
+
+group2000.words: count_words group2000.txt
+	perl count_words group2000.txt > group2000.words
+
+group2010.words: count_words group2010.txt
+	perl count_words group2010.txt > group2010.words
+
+group2020.words: count_words group2020.txt
+	perl count_words group2020.txt > group2020.words
+
+group2030.words: count_words group2030.txt
+	perl count_words group2030.txt > group2030.words
+
+group2040.words: count_words group2040.txt
+	perl count_words group2040.txt > group2040.words
+
+group2050.words: count_words group2050.txt
+	perl count_words group2050.txt > group2050.words
+
+group2060.words: count_words group2060.txt
+	perl count_words group2060.txt > group2060.words
+
+group2070.words: count_words group2070.txt
+	perl count_words group2070.txt > group2070.words
+
+group2080.words: count_words group2080.txt
+	perl count_words group2080.txt > group2080.words
+
+group2090.words: count_words group2090.txt
+	perl count_words group2090.txt > group2090.words
+
+group2100.words: count_words group2100.txt
+	perl count_words group2100.txt > group2100.words
+
+group2110.words: count_words group2110.txt
+	perl count_words group2110.txt > group2110.words
+
+group2120.words: count_words group2120.txt
+	perl count_words group2120.txt > group2120.words
+
+group2130.words: count_words group2130.txt
+	perl count_words group2130.txt > group2130.words
+
+group2140.words: count_words group2140.txt
+	perl count_words group2140.txt > group2140.words
+
+group2150.words: count_words group2150.txt
+	perl count_words group2150.txt > group2150.words
+
+group2160.words: count_words group2160.txt
+	perl count_words group2160.txt > group2160.words
+
+group2170.words: count_words group2170.txt
+	perl count_words group2170.txt > group2170.words
+
+group2180.words: count_words group2180.txt
+	perl count_words group2180.txt > group2180.words
+
+group2190.words: count_words group2190.txt
+	perl count_words group2190.txt > group2190.words
+
+group2200.words: count_words group2200.txt
+	perl count_words group2200.txt > group2200.words
+
+group2210.words: count_words group2210.txt
+	perl count_words group2210.txt > group2210.words
+
+group2220.words: count_words group2220.txt
+	perl count_words group2220.txt > group2220.words
+
+group2230.words: count_words group2230.txt
+	perl count_words group2230.txt > group2230.words
+
+group2240.words: count_words group2240.txt
+	perl count_words group2240.txt > group2240.words
+
+group2250.words: count_words group2250.txt
+	perl count_words group2250.txt > group2250.words
+
+group2260.words: count_words group2260.txt
+	perl count_words group2260.txt > group2260.words
+
+group2270.words: count_words group2270.txt
+	perl count_words group2270.txt > group2270.words
+
+group2280.words: count_words group2280.txt
+	perl count_words group2280.txt > group2280.words
+
+group2290.words: count_words group2290.txt
+	perl count_words group2290.txt > group2290.words
+
+group2300.words: count_words group2300.txt
+	perl count_words group2300.txt > group2300.words
+
+group2310.words: count_words group2310.txt
+	perl count_words group2310.txt > group2310.words
+
+group2320.words: count_words group2320.txt
+	perl count_words group2320.txt > group2320.words
+
+group2330.words: count_words group2330.txt
+	perl count_words group2330.txt > group2330.words
+
+group2340.words: count_words group2340.txt
+	perl count_words group2340.txt > group2340.words
+
+group2350.words: count_words group2350.txt
+	perl count_words group2350.txt > group2350.words
+
+group2360.words: count_words group2360.txt
+	perl count_words group2360.txt > group2360.words
+
+group2370.words: count_words group2370.txt
+	perl count_words group2370.txt > group2370.words
+
+group2380.words: count_words group2380.txt
+	perl count_words group2380.txt > group2380.words
+
+group2390.words: count_words group2390.txt
+	perl count_words group2390.txt > group2390.words
+
+group2400.words: count_words group2400.txt
+	perl count_words group2400.txt > group2400.words
+
+group2410.words: count_words group2410.txt
+	perl count_words group2410.txt > group2410.words
+
+group2420.words: count_words group2420.txt
+	perl count_words group2420.txt > group2420.words
+
+group2430.words: count_words group2430.txt
+	perl count_words group2430.txt > group2430.words
+
+group2440.words: count_words group2440.txt
+	perl count_words group2440.txt > group2440.words
+
+group2450.words: count_words group2450.txt
+	perl count_words group2450.txt > group2450.words
+
+group2460.words: count_words group2460.txt
+	perl count_words group2460.txt > group2460.words
+
+group2470.words: count_words group2470.txt
+	perl count_words group2470.txt > group2470.words
+
+group2480.words: count_words group2480.txt
+	perl count_words group2480.txt > group2480.words
+
+group2490.words: count_words group2490.txt
+	perl count_words group2490.txt > group2490.words
+
+group2500.words: count_words group2500.txt
+	perl count_words group2500.txt > group2500.words
+
+group2510.words: count_words group2510.txt
+	perl count_words group2510.txt > group2510.words
+
+group2520.words: count_words group2520.txt
+	perl count_words group2520.txt > group2520.words
+
+group2530.words: count_words group2530.txt
+	perl count_words group2530.txt > group2530.words
+
+group2540.words: count_words group2540.txt
+	perl count_words group2540.txt > group2540.words
+
+group2550.words: count_words group2550.txt
+	perl count_words group2550.txt > group2550.words
+
+group2560.words: count_words group2560.txt
+	perl count_words group2560.txt > group2560.words
+
+group2570.words: count_words group2570.txt
+	perl count_words group2570.txt > group2570.words
+
+group2580.words: count_words group2580.txt
+	perl count_words group2580.txt > group2580.words
+
+group2590.words: count_words group2590.txt
+	perl count_words group2590.txt > group2590.words
+
+group2600.words: count_words group2600.txt
+	perl count_words group2600.txt > group2600.words
+
+group2610.words: count_words group2610.txt
+	perl count_words group2610.txt > group2610.words
+
+group2620.words: count_words group2620.txt
+	perl count_words group2620.txt > group2620.words
+
+group2630.words: count_words group2630.txt
+	perl count_words group2630.txt > group2630.words
+
+group2640.words: count_words group2640.txt
+	perl count_words group2640.txt > group2640.words
+
+group2650.words: count_words group2650.txt
+	perl count_words group2650.txt > group2650.words
+
+group2660.words: count_words group2660.txt
+	perl count_words group2660.txt > group2660.words
+
+group2670.words: count_words group2670.txt
+	perl count_words group2670.txt > group2670.words
+
+group2680.words: count_words group2680.txt
+	perl count_words group2680.txt > group2680.words
+
+group2690.words: count_words group2690.txt
+	perl count_words group2690.txt > group2690.words
+
+group2700.words: count_words group2700.txt
+	perl count_words group2700.txt > group2700.words
+
+group2710.words: count_words group2710.txt
+	perl count_words group2710.txt > group2710.words
+
+group2720.words: count_words group2720.txt
+	perl count_words group2720.txt > group2720.words
+
+group2730.words: count_words group2730.txt
+	perl count_words group2730.txt > group2730.words
+
+group2740.words: count_words group2740.txt
+	perl count_words group2740.txt > group2740.words
+
+group2750.words: count_words group2750.txt
+	perl count_words group2750.txt > group2750.words
+
+group2760.words: count_words group2760.txt
+	perl count_words group2760.txt > group2760.words
+
+group2770.words: count_words group2770.txt
+	perl count_words group2770.txt > group2770.words
+
+group2780.words: count_words group2780.txt
+	perl count_words group2780.txt > group2780.words
+
+group2790.words: count_words group2790.txt
+	perl count_words group2790.txt > group2790.words
+
+group2800.words: count_words group2800.txt
+	perl count_words group2800.txt > group2800.words
+
+group2810.words: count_words group2810.txt
+	perl count_words group2810.txt > group2810.words
+
+group2820.words: count_words group2820.txt
+	perl count_words group2820.txt > group2820.words
+
+group2830.words: count_words group2830.txt
+	perl count_words group2830.txt > group2830.words
+
+group2840.words: count_words group2840.txt
+	perl count_words group2840.txt > group2840.words
+
+group2850.words: count_words group2850.txt
+	perl count_words group2850.txt > group2850.words
+
+group2860.words: count_words group2860.txt
+	perl count_words group2860.txt > group2860.words
+
+group2870.words: count_words group2870.txt
+	perl count_words group2870.txt > group2870.words
+
+group2880.words: count_words group2880.txt
+	perl count_words group2880.txt > group2880.words
+
+group2890.words: count_words group2890.txt
+	perl count_words group2890.txt > group2890.words
+
+group2900.words: count_words group2900.txt
+	perl count_words group2900.txt > group2900.words
+
+group2910.words: count_words group2910.txt
+	perl count_words group2910.txt > group2910.words
+
+group2920.words: count_words group2920.txt
+	perl count_words group2920.txt > group2920.words
+
+group2930.words: count_words group2930.txt
+	perl count_words group2930.txt > group2930.words
+
+group2940.words: count_words group2940.txt
+	perl count_words group2940.txt > group2940.words
+
+group2950.words: count_words group2950.txt
+	perl count_words group2950.txt > group2950.words
+
+group2960.words: count_words group2960.txt
+	perl count_words group2960.txt > group2960.words
+
+group2970.words: count_words group2970.txt
+	perl count_words group2970.txt > group2970.words
+
+group2980.words: count_words group2980.txt
+	perl count_words group2980.txt > group2980.words
+
+group2990.words: count_words group2990.txt
+	perl count_words group2990.txt > group2990.words
+
+group3000.words: count_words group3000.txt
+	perl count_words group3000.txt > group3000.words
+
+group3010.words: count_words group3010.txt
+	perl count_words group3010.txt > group3010.words
+
+group3020.words: count_words group3020.txt
+	perl count_words group3020.txt > group3020.words
+
+group3030.words: count_words group3030.txt
+	perl count_words group3030.txt > group3030.words
+
+group3040.words: count_words group3040.txt
+	perl count_words group3040.txt > group3040.words
+
+group3050.words: count_words group3050.txt
+	perl count_words group3050.txt > group3050.words
+
+group3060.words: count_words group3060.txt
+	perl count_words group3060.txt > group3060.words
+
+group3070.words: count_words group3070.txt
+	perl count_words group3070.txt > group3070.words
+
+group3080.words: count_words group3080.txt
+	perl count_words group3080.txt > group3080.words
+
+group3090.words: count_words group3090.txt
+	perl count_words group3090.txt > group3090.words
+
+group3100.words: count_words group3100.txt
+	perl count_words group3100.txt > group3100.words
+
+group3110.words: count_words group3110.txt
+	perl count_words group3110.txt > group3110.words
+
+group3120.words: count_words group3120.txt
+	perl count_words group3120.txt > group3120.words
+
+group3130.words: count_words group3130.txt
+	perl count_words group3130.txt > group3130.words
+
+group3140.words: count_words group3140.txt
+	perl count_words group3140.txt > group3140.words
+
+group3150.words: count_words group3150.txt
+	perl count_words group3150.txt > group3150.words
+
+group3160.words: count_words group3160.txt
+	perl count_words group3160.txt > group3160.words
+
+group3170.words: count_words group3170.txt
+	perl count_words group3170.txt > group3170.words
+
+group3180.words: count_words group3180.txt
+	perl count_words group3180.txt > group3180.words
+
+group3190.words: count_words group3190.txt
+	perl count_words group3190.txt > group3190.words
+
+group3200.words: count_words group3200.txt
+	perl count_words group3200.txt > group3200.words
+
+group3210.words: count_words group3210.txt
+	perl count_words group3210.txt > group3210.words
+
+group3220.words: count_words group3220.txt
+	perl count_words group3220.txt > group3220.words
+
+group3230.words: count_words group3230.txt
+	perl count_words group3230.txt > group3230.words
+
+group3240.words: count_words group3240.txt
+	perl count_words group3240.txt > group3240.words
+
+group3250.words: count_words group3250.txt
+	perl count_words group3250.txt > group3250.words
+
+group3260.words: count_words group3260.txt
+	perl count_words group3260.txt > group3260.words
+
+group3270.words: count_words group3270.txt
+	perl count_words group3270.txt > group3270.words
+
+group3280.words: count_words group3280.txt
+	perl count_words group3280.txt > group3280.words
+
+group3290.words: count_words group3290.txt
+	perl count_words group3290.txt > group3290.words
+
+group3300.words: count_words group3300.txt
+	perl count_words group3300.txt > group3300.words
+
+group3310.words: count_words group3310.txt
+	perl count_words group3310.txt > group3310.words
+
+group3320.words: count_words group3320.txt
+	perl count_words group3320.txt > group3320.words
+
+group3330.words: count_words group3330.txt
+	perl count_words group3330.txt > group3330.words
+
+group3340.words: count_words group3340.txt
+	perl count_words group3340.txt > group3340.words
+
+group3350.words: count_words group3350.txt
+	perl count_words group3350.txt > group3350.words
+
+group3360.words: count_words group3360.txt
+	perl count_words group3360.txt > group3360.words
+
+group3370.words: count_words group3370.txt
+	perl count_words group3370.txt > group3370.words
+
+group3380.words: count_words group3380.txt
+	perl count_words group3380.txt > group3380.words
+
+group3390.words: count_words group3390.txt
+	perl count_words group3390.txt > group3390.words
+
+group3400.words: count_words group3400.txt
+	perl count_words group3400.txt > group3400.words
+
+group3410.words: count_words group3410.txt
+	perl count_words group3410.txt > group3410.words
+
+group3420.words: count_words group3420.txt
+	perl count_words group3420.txt > group3420.words
+
+group3430.words: count_words group3430.txt
+	perl count_words group3430.txt > group3430.words
+
+group3440.words: count_words group3440.txt
+	perl count_words group3440.txt > group3440.words
+
+group3450.words: count_words group3450.txt
+	perl count_words group3450.txt > group3450.words
+
+group3460.words: count_words group3460.txt
+	perl count_words group3460.txt > group3460.words
+
+group3470.words: count_words group3470.txt
+	perl count_words group3470.txt > group3470.words
+
+group3480.words: count_words group3480.txt
+	perl count_words group3480.txt > group3480.words
+
+group3490.words: count_words group3490.txt
+	perl count_words group3490.txt > group3490.words
+
+group3500.words: count_words group3500.txt
+	perl count_words group3500.txt > group3500.words
+
+group3510.words: count_words group3510.txt
+	perl count_words group3510.txt > group3510.words
+
+group3520.words: count_words group3520.txt
+	perl count_words group3520.txt > group3520.words
+
+group3530.words: count_words group3530.txt
+	perl count_words group3530.txt > group3530.words
+
+group3540.words: count_words group3540.txt
+	perl count_words group3540.txt > group3540.words
+
+group3550.words: count_words group3550.txt
+	perl count_words group3550.txt > group3550.words
+
+group3560.words: count_words group3560.txt
+	perl count_words group3560.txt > group3560.words
+
+group3570.words: count_words group3570.txt
+	perl count_words group3570.txt > group3570.words
+
+group3580.words: count_words group3580.txt
+	perl count_words group3580.txt > group3580.words
+
+group3590.words: count_words group3590.txt
+	perl count_words group3590.txt > group3590.words
+
+group3600.words: count_words group3600.txt
+	perl count_words group3600.txt > group3600.words
+
+group3610.words: count_words group3610.txt
+	perl count_words group3610.txt > group3610.words
+
+group3620.words: count_words group3620.txt
+	perl count_words group3620.txt > group3620.words
+
+group3630.words: count_words group3630.txt
+	perl count_words group3630.txt > group3630.words
+
+group3640.words: count_words group3640.txt
+	perl count_words group3640.txt > group3640.words
+
+group3650.words: count_words group3650.txt
+	perl count_words group3650.txt > group3650.words
+
+group3660.words: count_words group3660.txt
+	perl count_words group3660.txt > group3660.words
+
+group3670.words: count_words group3670.txt
+	perl count_words group3670.txt > group3670.words
+
+group3680.words: count_words group3680.txt
+	perl count_words group3680.txt > group3680.words
+
+group3690.words: count_words group3690.txt
+	perl count_words group3690.txt > group3690.words
+
+group3700.words: count_words group3700.txt
+	perl count_words group3700.txt > group3700.words
+
+group3710.words: count_words group3710.txt
+	perl count_words group3710.txt > group3710.words
+
+group3720.words: count_words group3720.txt
+	perl count_words group3720.txt > group3720.words
+
+group3730.words: count_words group3730.txt
+	perl count_words group3730.txt > group3730.words
+
+group3740.words: count_words group3740.txt
+	perl count_words group3740.txt > group3740.words
+
+group3750.words: count_words group3750.txt
+	perl count_words group3750.txt > group3750.words
+
+group3760.words: count_words group3760.txt
+	perl count_words group3760.txt > group3760.words
+
+group3770.words: count_words group3770.txt
+	perl count_words group3770.txt > group3770.words
+
+group3780.words: count_words group3780.txt
+	perl count_words group3780.txt > group3780.words
+
+group3790.words: count_words group3790.txt
+	perl count_words group3790.txt > group3790.words
+
+group3800.words: count_words group3800.txt
+	perl count_words group3800.txt > group3800.words
+
+group3810.words: count_words group3810.txt
+	perl count_words group3810.txt > group3810.words
+
+group3820.words: count_words group3820.txt
+	perl count_words group3820.txt > group3820.words
+
+group3830.words: count_words group3830.txt
+	perl count_words group3830.txt > group3830.words
+
+group3840.words: count_words group3840.txt
+	perl count_words group3840.txt > group3840.words
+
+group3850.words: count_words group3850.txt
+	perl count_words group3850.txt > group3850.words
+
+group3860.words: count_words group3860.txt
+	perl count_words group3860.txt > group3860.words
+
+group3870.words: count_words group3870.txt
+	perl count_words group3870.txt > group3870.words
+
+group3880.words: count_words group3880.txt
+	perl count_words group3880.txt > group3880.words
+
+group3890.words: count_words group3890.txt
+	perl count_words group3890.txt > group3890.words
+
+group3900.words: count_words group3900.txt
+	perl count_words group3900.txt > group3900.words
+
+group3910.words: count_words group3910.txt
+	perl count_words group3910.txt > group3910.words
+
+group3920.words: count_words group3920.txt
+	perl count_words group3920.txt > group3920.words
+
+group3930.words: count_words group3930.txt
+	perl count_words group3930.txt > group3930.words
+
+group3940.words: count_words group3940.txt
+	perl count_words group3940.txt > group3940.words
+
+group3950.words: count_words group3950.txt
+	perl count_words group3950.txt > group3950.words
+
+group3960.words: count_words group3960.txt
+	perl count_words group3960.txt > group3960.words
+
+group3970.words: count_words group3970.txt
+	perl count_words group3970.txt > group3970.words
+
+group3980.words: count_words group3980.txt
+	perl count_words group3980.txt > group3980.words
+
+group3990.words: count_words group3990.txt
+	perl count_words group3990.txt > group3990.words
+
+group4000.words: count_words group4000.txt
+	perl count_words group4000.txt > group4000.words
+
+group4010.words: count_words group4010.txt
+	perl count_words group4010.txt > group4010.words
+
+group4020.words: count_words group4020.txt
+	perl count_words group4020.txt > group4020.words
+
+group4030.words: count_words group4030.txt
+	perl count_words group4030.txt > group4030.words
+
+group4040.words: count_words group4040.txt
+	perl count_words group4040.txt > group4040.words
+
+group4050.words: count_words group4050.txt
+	perl count_words group4050.txt > group4050.words
+
+group4060.words: count_words group4060.txt
+	perl count_words group4060.txt > group4060.words
+
+group4070.words: count_words group4070.txt
+	perl count_words group4070.txt > group4070.words
+
+group4080.words: count_words group4080.txt
+	perl count_words group4080.txt > group4080.words
+
+group4090.words: count_words group4090.txt
+	perl count_words group4090.txt > group4090.words
+
+group4100.words: count_words group4100.txt
+	perl count_words group4100.txt > group4100.words
+
+group4110.words: count_words group4110.txt
+	perl count_words group4110.txt > group4110.words
+
+group4120.words: count_words group4120.txt
+	perl count_words group4120.txt > group4120.words
+
+group4130.words: count_words group4130.txt
+	perl count_words group4130.txt > group4130.words
+
+group4140.words: count_words group4140.txt
+	perl count_words group4140.txt > group4140.words
+
+group4150.words: count_words group4150.txt
+	perl count_words group4150.txt > group4150.words
+
+group4160.words: count_words group4160.txt
+	perl count_words group4160.txt > group4160.words
+
+group4170.words: count_words group4170.txt
+	perl count_words group4170.txt > group4170.words
+
+group4180.words: count_words group4180.txt
+	perl count_words group4180.txt > group4180.words
+
+group4190.words: count_words group4190.txt
+	perl count_words group4190.txt > group4190.words
+
+group4200.words: count_words group4200.txt
+	perl count_words group4200.txt > group4200.words
+
+group4210.words: count_words group4210.txt
+	perl count_words group4210.txt > group4210.words
+
+group4220.words: count_words group4220.txt
+	perl count_words group4220.txt > group4220.words
+
+group4230.words: count_words group4230.txt
+	perl count_words group4230.txt > group4230.words
+
+group4240.words: count_words group4240.txt
+	perl count_words group4240.txt > group4240.words
+
+group4250.words: count_words group4250.txt
+	perl count_words group4250.txt > group4250.words
+
+group4260.words: count_words group4260.txt
+	perl count_words group4260.txt > group4260.words
+
+group4270.words: count_words group4270.txt
+	perl count_words group4270.txt > group4270.words
+
+group4280.words: count_words group4280.txt
+	perl count_words group4280.txt > group4280.words
+
+group4290.words: count_words group4290.txt
+	perl count_words group4290.txt > group4290.words
+
+group4300.words: count_words group4300.txt
+	perl count_words group4300.txt > group4300.words
+
+group4310.words: count_words group4310.txt
+	perl count_words group4310.txt > group4310.words
+
+group4320.words: count_words group4320.txt
+	perl count_words group4320.txt > group4320.words
+
+group4330.words: count_words group4330.txt
+	perl count_words group4330.txt > group4330.words
+
+group4340.words: count_words group4340.txt
+	perl count_words group4340.txt > group4340.words
+
+group4350.words: count_words group4350.txt
+	perl count_words group4350.txt > group4350.words
+
+group4360.words: count_words group4360.txt
+	perl count_words group4360.txt > group4360.words
+
+group4370.words: count_words group4370.txt
+	perl count_words group4370.txt > group4370.words
+
+group4380.words: count_words group4380.txt
+	perl count_words group4380.txt > group4380.words
+
+group4390.words: count_words group4390.txt
+	perl count_words group4390.txt > group4390.words
+
+group4400.words: count_words group4400.txt
+	perl count_words group4400.txt > group4400.words
+
+group4410.words: count_words group4410.txt
+	perl count_words group4410.txt > group4410.words
+
+group4420.words: count_words group4420.txt
+	perl count_words group4420.txt > group4420.words
+
+group4430.words: count_words group4430.txt
+	perl count_words group4430.txt > group4430.words
+
+group4440.words: count_words group4440.txt
+	perl count_words group4440.txt > group4440.words
+
+group4450.words: count_words group4450.txt
+	perl count_words group4450.txt > group4450.words
+
+group4460.words: count_words group4460.txt
+	perl count_words group4460.txt > group4460.words
+
+group4470.words: count_words group4470.txt
+	perl count_words group4470.txt > group4470.words
+
+group4480.words: count_words group4480.txt
+	perl count_words group4480.txt > group4480.words
+
+group4490.words: count_words group4490.txt
+	perl count_words group4490.txt > group4490.words
+
+group4500.words: count_words group4500.txt
+	perl count_words group4500.txt > group4500.words
+
+group4510.words: count_words group4510.txt
+	perl count_words group4510.txt > group4510.words
+
+group4520.words: count_words group4520.txt
+	perl count_words group4520.txt > group4520.words
+
+group4530.words: count_words group4530.txt
+	perl count_words group4530.txt > group4530.words
+
+group4540.words: count_words group4540.txt
+	perl count_words group4540.txt > group4540.words
+
+group4550.words: count_words group4550.txt
+	perl count_words group4550.txt > group4550.words
+
+group4560.words: count_words group4560.txt
+	perl count_words group4560.txt > group4560.words
+
+group4570.words: count_words group4570.txt
+	perl count_words group4570.txt > group4570.words
+
+group4580.words: count_words group4580.txt
+	perl count_words group4580.txt > group4580.words
+
+group4590.words: count_words group4590.txt
+	perl count_words group4590.txt > group4590.words
+
+group4600.words: count_words group4600.txt
+	perl count_words group4600.txt > group4600.words
+
+group4610.words: count_words group4610.txt
+	perl count_words group4610.txt > group4610.words
+
+group4620.words: count_words group4620.txt
+	perl count_words group4620.txt > group4620.words
+
+group4630.words: count_words group4630.txt
+	perl count_words group4630.txt > group4630.words
+
+group4640.words: count_words group4640.txt
+	perl count_words group4640.txt > group4640.words
+
+group4650.words: count_words group4650.txt
+	perl count_words group4650.txt > group4650.words
+
+group4660.words: count_words group4660.txt
+	perl count_words group4660.txt > group4660.words
+
+group4670.words: count_words group4670.txt
+	perl count_words group4670.txt > group4670.words
+
+group4680.words: count_words group4680.txt
+	perl count_words group4680.txt > group4680.words
+
+group4690.words: count_words group4690.txt
+	perl count_words group4690.txt > group4690.words
+
+group4700.words: count_words group4700.txt
+	perl count_words group4700.txt > group4700.words
+
+group4710.words: count_words group4710.txt
+	perl count_words group4710.txt > group4710.words
+
+group4720.words: count_words group4720.txt
+	perl count_words group4720.txt > group4720.words
+
+group4730.words: count_words group4730.txt
+	perl count_words group4730.txt > group4730.words
+
+group4740.words: count_words group4740.txt
+	perl count_words group4740.txt > group4740.words
+
+group4750.words: count_words group4750.txt
+	perl count_words group4750.txt > group4750.words
+
+group4760.words: count_words group4760.txt
+	perl count_words group4760.txt > group4760.words
+
+group4770.words: count_words group4770.txt
+	perl count_words group4770.txt > group4770.words
+
+group4780.words: count_words group4780.txt
+	perl count_words group4780.txt > group4780.words
+
+group4790.words: count_words group4790.txt
+	perl count_words group4790.txt > group4790.words
+
+group4800.words: count_words group4800.txt
+	perl count_words group4800.txt > group4800.words
+
+group4810.words: count_words group4810.txt
+	perl count_words group4810.txt > group4810.words
+
+group4820.words: count_words group4820.txt
+	perl count_words group4820.txt > group4820.words
+
+group4830.words: count_words group4830.txt
+	perl count_words group4830.txt > group4830.words
+
+group4840.words: count_words group4840.txt
+	perl count_words group4840.txt > group4840.words
+
+group4850.words: count_words group4850.txt
+	perl count_words group4850.txt > group4850.words
+
+group4860.words: count_words group4860.txt
+	perl count_words group4860.txt > group4860.words
+
+group4870.words: count_words group4870.txt
+	perl count_words group4870.txt > group4870.words
+
+group4880.words: count_words group4880.txt
+	perl count_words group4880.txt > group4880.words
+
+group4890.words: count_words group4890.txt
+	perl count_words group4890.txt > group4890.words
+
+group4900.words: count_words group4900.txt
+	perl count_words group4900.txt > group4900.words
+
+group4910.words: count_words group4910.txt
+	perl count_words group4910.txt > group4910.words
+
+group4920.words: count_words group4920.txt
+	perl count_words group4920.txt > group4920.words
+
+group4930.words: count_words group4930.txt
+	perl count_words group4930.txt > group4930.words
+
+group4940.words: count_words group4940.txt
+	perl count_words group4940.txt > group4940.words
+
+group4950.words: count_words group4950.txt
+	perl count_words group4950.txt > group4950.words
+
+group4960.words: count_words group4960.txt
+	perl count_words group4960.txt > group4960.words
+
+group4970.words: count_words group4970.txt
+	perl count_words group4970.txt > group4970.words
+
+group4980.words: count_words group4980.txt
+	perl count_words group4980.txt > group4980.words
+
+group4990.words: count_words group4990.txt
+	perl count_words group4990.txt > group4990.words
+
+group5000.words: count_words group5000.txt
+	perl count_words group5000.txt > group5000.words
+
+group5010.words: count_words group5010.txt
+	perl count_words group5010.txt > group5010.words
+
+group5020.words: count_words group5020.txt
+	perl count_words group5020.txt > group5020.words
+
+group5030.words: count_words group5030.txt
+	perl count_words group5030.txt > group5030.words
+
+group5040.words: count_words group5040.txt
+	perl count_words group5040.txt > group5040.words
+
+group5050.words: count_words group5050.txt
+	perl count_words group5050.txt > group5050.words
+
+group5060.words: count_words group5060.txt
+	perl count_words group5060.txt > group5060.words
+
+group5070.words: count_words group5070.txt
+	perl count_words group5070.txt > group5070.words
+
+group5080.words: count_words group5080.txt
+	perl count_words group5080.txt > group5080.words
+
+group5090.words: count_words group5090.txt
+	perl count_words group5090.txt > group5090.words
+
+group5100.words: count_words group5100.txt
+	perl count_words group5100.txt > group5100.words
+
+group5110.words: count_words group5110.txt
+	perl count_words group5110.txt > group5110.words
+
+group5120.words: count_words group5120.txt
+	perl count_words group5120.txt > group5120.words
+
+group5130.words: count_words group5130.txt
+	perl count_words group5130.txt > group5130.words
+
+group5140.words: count_words group5140.txt
+	perl count_words group5140.txt > group5140.words
+
+group5150.words: count_words group5150.txt
+	perl count_words group5150.txt > group5150.words
+
+group5160.words: count_words group5160.txt
+	perl count_words group5160.txt > group5160.words
+
+group5170.words: count_words group5170.txt
+	perl count_words group5170.txt > group5170.words
+
+group5180.words: count_words group5180.txt
+	perl count_words group5180.txt > group5180.words
+
+group5190.words: count_words group5190.txt
+	perl count_words group5190.txt > group5190.words
+
+group5200.words: count_words group5200.txt
+	perl count_words group5200.txt > group5200.words
+
+group5210.words: count_words group5210.txt
+	perl count_words group5210.txt > group5210.words
+
+group5220.words: count_words group5220.txt
+	perl count_words group5220.txt > group5220.words
+
+group5230.words: count_words group5230.txt
+	perl count_words group5230.txt > group5230.words
+
+group5240.words: count_words group5240.txt
+	perl count_words group5240.txt > group5240.words
+
+group5250.words: count_words group5250.txt
+	perl count_words group5250.txt > group5250.words
+
+group5260.words: count_words group5260.txt
+	perl count_words group5260.txt > group5260.words
+
+group5270.words: count_words group5270.txt
+	perl count_words group5270.txt > group5270.words
+
+group5280.words: count_words group5280.txt
+	perl count_words group5280.txt > group5280.words
+
+group5290.words: count_words group5290.txt
+	perl count_words group5290.txt > group5290.words
+
+group5300.words: count_words group5300.txt
+	perl count_words group5300.txt > group5300.words
+
+group5310.words: count_words group5310.txt
+	perl count_words group5310.txt > group5310.words
+
+group5320.words: count_words group5320.txt
+	perl count_words group5320.txt > group5320.words
+
+group5330.words: count_words group5330.txt
+	perl count_words group5330.txt > group5330.words
+
+group5340.words: count_words group5340.txt
+	perl count_words group5340.txt > group5340.words
+
+group5350.words: count_words group5350.txt
+	perl count_words group5350.txt > group5350.words
+
+group5360.words: count_words group5360.txt
+	perl count_words group5360.txt > group5360.words
+
+group5370.words: count_words group5370.txt
+	perl count_words group5370.txt > group5370.words
+
+group5380.words: count_words group5380.txt
+	perl count_words group5380.txt > group5380.words
+
+group5390.words: count_words group5390.txt
+	perl count_words group5390.txt > group5390.words
+
+group5400.words: count_words group5400.txt
+	perl count_words group5400.txt > group5400.words
+
+group5410.words: count_words group5410.txt
+	perl count_words group5410.txt > group5410.words
+
+group5420.words: count_words group5420.txt
+	perl count_words group5420.txt > group5420.words
+
+group5430.words: count_words group5430.txt
+	perl count_words group5430.txt > group5430.words
+
+group5440.words: count_words group5440.txt
+	perl count_words group5440.txt > group5440.words
+
+group5450.words: count_words group5450.txt
+	perl count_words group5450.txt > group5450.words
+
+group5460.words: count_words group5460.txt
+	perl count_words group5460.txt > group5460.words
+
+group5470.words: count_words group5470.txt
+	perl count_words group5470.txt > group5470.words
+
+group5480.words: count_words group5480.txt
+	perl count_words group5480.txt > group5480.words
+
+group5490.words: count_words group5490.txt
+	perl count_words group5490.txt > group5490.words
+
+group5500.words: count_words group5500.txt
+	perl count_words group5500.txt > group5500.words
+
+group5510.words: count_words group5510.txt
+	perl count_words group5510.txt > group5510.words
+
+group5520.words: count_words group5520.txt
+	perl count_words group5520.txt > group5520.words
+
+group5530.words: count_words group5530.txt
+	perl count_words group5530.txt > group5530.words
+
+group5540.words: count_words group5540.txt
+	perl count_words group5540.txt > group5540.words
+
+group5550.words: count_words group5550.txt
+	perl count_words group5550.txt > group5550.words
+
+group5560.words: count_words group5560.txt
+	perl count_words group5560.txt > group5560.words
+
+group5570.words: count_words group5570.txt
+	perl count_words group5570.txt > group5570.words
+
+group5580.words: count_words group5580.txt
+	perl count_words group5580.txt > group5580.words
+
+group5590.words: count_words group5590.txt
+	perl count_words group5590.txt > group5590.words
+
+group5600.words: count_words group5600.txt
+	perl count_words group5600.txt > group5600.words
+
+group5610.words: count_words group5610.txt
+	perl count_words group5610.txt > group5610.words
+
+group5620.words: count_words group5620.txt
+	perl count_words group5620.txt > group5620.words
+
+group5630.words: count_words group5630.txt
+	perl count_words group5630.txt > group5630.words
+
+group5640.words: count_words group5640.txt
+	perl count_words group5640.txt > group5640.words
+
+group5650.words: count_words group5650.txt
+	perl count_words group5650.txt > group5650.words
+
+group5660.words: count_words group5660.txt
+	perl count_words group5660.txt > group5660.words
+
+group5670.words: count_words group5670.txt
+	perl count_words group5670.txt > group5670.words
+
+group5680.words: count_words group5680.txt
+	perl count_words group5680.txt > group5680.words
+
+group5690.words: count_words group5690.txt
+	perl count_words group5690.txt > group5690.words
+
+group5700.words: count_words group5700.txt
+	perl count_words group5700.txt > group5700.words
+
+group5710.words: count_words group5710.txt
+	perl count_words group5710.txt > group5710.words
+
+group5720.words: count_words group5720.txt
+	perl count_words group5720.txt > group5720.words
+
+group5730.words: count_words group5730.txt
+	perl count_words group5730.txt > group5730.words
+
+group5740.words: count_words group5740.txt
+	perl count_words group5740.txt > group5740.words
+
+group5750.words: count_words group5750.txt
+	perl count_words group5750.txt > group5750.words
+
+group5760.words: count_words group5760.txt
+	perl count_words group5760.txt > group5760.words
+
+group5770.words: count_words group5770.txt
+	perl count_words group5770.txt > group5770.words
+
+group5780.words: count_words group5780.txt
+	perl count_words group5780.txt > group5780.words
+
+group5790.words: count_words group5790.txt
+	perl count_words group5790.txt > group5790.words
+
+group5800.words: count_words group5800.txt
+	perl count_words group5800.txt > group5800.words
+
+group5810.words: count_words group5810.txt
+	perl count_words group5810.txt > group5810.words
+
+group5820.words: count_words group5820.txt
+	perl count_words group5820.txt > group5820.words
+
+group5830.words: count_words group5830.txt
+	perl count_words group5830.txt > group5830.words
+
+group5840.words: count_words group5840.txt
+	perl count_words group5840.txt > group5840.words
+
+group5850.words: count_words group5850.txt
+	perl count_words group5850.txt > group5850.words
+
+group5860.words: count_words group5860.txt
+	perl count_words group5860.txt > group5860.words
+
+group5870.words: count_words group5870.txt
+	perl count_words group5870.txt > group5870.words
+
+group5880.words: count_words group5880.txt
+	perl count_words group5880.txt > group5880.words
+
+group5890.words: count_words group5890.txt
+	perl count_words group5890.txt > group5890.words
+
+group5900.words: count_words group5900.txt
+	perl count_words group5900.txt > group5900.words
+
+group5910.words: count_words group5910.txt
+	perl count_words group5910.txt > group5910.words
+
+group5920.words: count_words group5920.txt
+	perl count_words group5920.txt > group5920.words
+
+group5930.words: count_words group5930.txt
+	perl count_words group5930.txt > group5930.words
+
+group5940.words: count_words group5940.txt
+	perl count_words group5940.txt > group5940.words
+
+group5950.words: count_words group5950.txt
+	perl count_words group5950.txt > group5950.words
+
+group5960.words: count_words group5960.txt
+	perl count_words group5960.txt > group5960.words
+
+group5970.words: count_words group5970.txt
+	perl count_words group5970.txt > group5970.words
+
+group5980.words: count_words group5980.txt
+	perl count_words group5980.txt > group5980.words
+
+group5990.words: count_words group5990.txt
+	perl count_words group5990.txt > group5990.words
+
+group6000.words: count_words group6000.txt
+	perl count_words group6000.txt > group6000.words
+
+group6010.words: count_words group6010.txt
+	perl count_words group6010.txt > group6010.words
+
+group6020.words: count_words group6020.txt
+	perl count_words group6020.txt > group6020.words
+
+group6030.words: count_words group6030.txt
+	perl count_words group6030.txt > group6030.words
+
+group6040.words: count_words group6040.txt
+	perl count_words group6040.txt > group6040.words
+
+group6050.words: count_words group6050.txt
+	perl count_words group6050.txt > group6050.words
+
+group6060.words: count_words group6060.txt
+	perl count_words group6060.txt > group6060.words
+
+group6070.words: count_words group6070.txt
+	perl count_words group6070.txt > group6070.words
+
+group6080.words: count_words group6080.txt
+	perl count_words group6080.txt > group6080.words
+
+group6090.words: count_words group6090.txt
+	perl count_words group6090.txt > group6090.words
+
+group6100.words: count_words group6100.txt
+	perl count_words group6100.txt > group6100.words
+
+group6110.words: count_words group6110.txt
+	perl count_words group6110.txt > group6110.words
+
+group6120.words: count_words group6120.txt
+	perl count_words group6120.txt > group6120.words
+
+group6130.words: count_words group6130.txt
+	perl count_words group6130.txt > group6130.words
+
+group6140.words: count_words group6140.txt
+	perl count_words group6140.txt > group6140.words
+
+group6150.words: count_words group6150.txt
+	perl count_words group6150.txt > group6150.words
+
+group6160.words: count_words group6160.txt
+	perl count_words group6160.txt > group6160.words
+
+group6170.words: count_words group6170.txt
+	perl count_words group6170.txt > group6170.words
+
+group6180.words: count_words group6180.txt
+	perl count_words group6180.txt > group6180.words
+
+group6190.words: count_words group6190.txt
+	perl count_words group6190.txt > group6190.words
+
+group6200.words: count_words group6200.txt
+	perl count_words group6200.txt > group6200.words
+
+group6210.words: count_words group6210.txt
+	perl count_words group6210.txt > group6210.words
+
+group6220.words: count_words group6220.txt
+	perl count_words group6220.txt > group6220.words
+
+group6230.words: count_words group6230.txt
+	perl count_words group6230.txt > group6230.words
+
+group6240.words: count_words group6240.txt
+	perl count_words group6240.txt > group6240.words
+
+group6250.words: count_words group6250.txt
+	perl count_words group6250.txt > group6250.words
+
+group6260.words: count_words group6260.txt
+	perl count_words group6260.txt > group6260.words
+
+group6270.words: count_words group6270.txt
+	perl count_words group6270.txt > group6270.words
+
+group6280.words: count_words group6280.txt
+	perl count_words group6280.txt > group6280.words
+
+group6290.words: count_words group6290.txt
+	perl count_words group6290.txt > group6290.words
+
+group6300.words: count_words group6300.txt
+	perl count_words group6300.txt > group6300.words
+
+group6310.words: count_words group6310.txt
+	perl count_words group6310.txt > group6310.words
+
+group6320.words: count_words group6320.txt
+	perl count_words group6320.txt > group6320.words
+
+group6330.words: count_words group6330.txt
+	perl count_words group6330.txt > group6330.words
+
+group6340.words: count_words group6340.txt
+	perl count_words group6340.txt > group6340.words
+
+group6350.words: count_words group6350.txt
+	perl count_words group6350.txt > group6350.words
+
+group6360.words: count_words group6360.txt
+	perl count_words group6360.txt > group6360.words
+
+group6370.words: count_words group6370.txt
+	perl count_words group6370.txt > group6370.words
+
+group6380.words: count_words group6380.txt
+	perl count_words group6380.txt > group6380.words
+
+group6390.words: count_words group6390.txt
+	perl count_words group6390.txt > group6390.words
+
+group6400.words: count_words group6400.txt
+	perl count_words group6400.txt > group6400.words
+
+group6410.words: count_words group6410.txt
+	perl count_words group6410.txt > group6410.words
+
+group6420.words: count_words group6420.txt
+	perl count_words group6420.txt > group6420.words
+
+group6430.words: count_words group6430.txt
+	perl count_words group6430.txt > group6430.words
+
+group6440.words: count_words group6440.txt
+	perl count_words group6440.txt > group6440.words
+
+group6450.words: count_words group6450.txt
+	perl count_words group6450.txt > group6450.words
+
+group6460.words: count_words group6460.txt
+	perl count_words group6460.txt > group6460.words
+
+group6470.words: count_words group6470.txt
+	perl count_words group6470.txt > group6470.words
+
+group6480.words: count_words group6480.txt
+	perl count_words group6480.txt > group6480.words
+
+group6490.words: count_words group6490.txt
+	perl count_words group6490.txt > group6490.words
+
+group6500.words: count_words group6500.txt
+	perl count_words group6500.txt > group6500.words
+
+group6510.words: count_words group6510.txt
+	perl count_words group6510.txt > group6510.words
+
+group6520.words: count_words group6520.txt
+	perl count_words group6520.txt > group6520.words
+
+group6530.words: count_words group6530.txt
+	perl count_words group6530.txt > group6530.words
+
+group6540.words: count_words group6540.txt
+	perl count_words group6540.txt > group6540.words
+
+group6550.words: count_words group6550.txt
+	perl count_words group6550.txt > group6550.words
+
+group6560.words: count_words group6560.txt
+	perl count_words group6560.txt > group6560.words
+
+group6570.words: count_words group6570.txt
+	perl count_words group6570.txt > group6570.words
+
+group6580.words: count_words group6580.txt
+	perl count_words group6580.txt > group6580.words
+
+group6590.words: count_words group6590.txt
+	perl count_words group6590.txt > group6590.words
+
+group6600.words: count_words group6600.txt
+	perl count_words group6600.txt > group6600.words
+
+group6610.words: count_words group6610.txt
+	perl count_words group6610.txt > group6610.words
+
+group6620.words: count_words group6620.txt
+	perl count_words group6620.txt > group6620.words
+
+group6630.words: count_words group6630.txt
+	perl count_words group6630.txt > group6630.words
+
+group6640.words: count_words group6640.txt
+	perl count_words group6640.txt > group6640.words
+
+group6650.words: count_words group6650.txt
+	perl count_words group6650.txt > group6650.words
+
+group6660.words: count_words group6660.txt
+	perl count_words group6660.txt > group6660.words
+
+group6670.words: count_words group6670.txt
+	perl count_words group6670.txt > group6670.words
+
+group6680.words: count_words group6680.txt
+	perl count_words group6680.txt > group6680.words
+
+group6690.words: count_words group6690.txt
+	perl count_words group6690.txt > group6690.words
+
+group6700.words: count_words group6700.txt
+	perl count_words group6700.txt > group6700.words
+
+group6710.words: count_words group6710.txt
+	perl count_words group6710.txt > group6710.words
+
+group6720.words: count_words group6720.txt
+	perl count_words group6720.txt > group6720.words
+
+group6730.words: count_words group6730.txt
+	perl count_words group6730.txt > group6730.words
+
+group6740.words: count_words group6740.txt
+	perl count_words group6740.txt > group6740.words
+
+group6750.words: count_words group6750.txt
+	perl count_words group6750.txt > group6750.words
+
+group6760.words: count_words group6760.txt
+	perl count_words group6760.txt > group6760.words
+
+group6770.words: count_words group6770.txt
+	perl count_words group6770.txt > group6770.words
+
+group6780.words: count_words group6780.txt
+	perl count_words group6780.txt > group6780.words
+
+group6790.words: count_words group6790.txt
+	perl count_words group6790.txt > group6790.words
+
+group6800.words: count_words group6800.txt
+	perl count_words group6800.txt > group6800.words
+
+group6810.words: count_words group6810.txt
+	perl count_words group6810.txt > group6810.words
+
+group6820.words: count_words group6820.txt
+	perl count_words group6820.txt > group6820.words
+
+group6830.words: count_words group6830.txt
+	perl count_words group6830.txt > group6830.words
+
+group6840.words: count_words group6840.txt
+	perl count_words group6840.txt > group6840.words
+
+group6850.words: count_words group6850.txt
+	perl count_words group6850.txt > group6850.words
+
+group6860.words: count_words group6860.txt
+	perl count_words group6860.txt > group6860.words
+
+group6870.words: count_words group6870.txt
+	perl count_words group6870.txt > group6870.words
+
+group6880.words: count_words group6880.txt
+	perl count_words group6880.txt > group6880.words
+
+group6890.words: count_words group6890.txt
+	perl count_words group6890.txt > group6890.words
+
+group6900.words: count_words group6900.txt
+	perl count_words group6900.txt > group6900.words
+
+group6910.words: count_words group6910.txt
+	perl count_words group6910.txt > group6910.words
+
+group6920.words: count_words group6920.txt
+	perl count_words group6920.txt > group6920.words
+
+group6930.words: count_words group6930.txt
+	perl count_words group6930.txt > group6930.words
+
+group6940.words: count_words group6940.txt
+	perl count_words group6940.txt > group6940.words
+
+group6950.words: count_words group6950.txt
+	perl count_words group6950.txt > group6950.words
+
+group6960.words: count_words group6960.txt
+	perl count_words group6960.txt > group6960.words
+
+group6970.words: count_words group6970.txt
+	perl count_words group6970.txt > group6970.words
+
+group6980.words: count_words group6980.txt
+	perl count_words group6980.txt > group6980.words
+
+group6990.words: count_words group6990.txt
+	perl count_words group6990.txt > group6990.words
+
+group7000.words: count_words group7000.txt
+	perl count_words group7000.txt > group7000.words
+
+group7010.words: count_words group7010.txt
+	perl count_words group7010.txt > group7010.words
+
+group7020.words: count_words group7020.txt
+	perl count_words group7020.txt > group7020.words
+
+group7030.words: count_words group7030.txt
+	perl count_words group7030.txt > group7030.words
+
+group7040.words: count_words group7040.txt
+	perl count_words group7040.txt > group7040.words
+
+group7050.words: count_words group7050.txt
+	perl count_words group7050.txt > group7050.words
+
+group7060.words: count_words group7060.txt
+	perl count_words group7060.txt > group7060.words
+
+group7070.words: count_words group7070.txt
+	perl count_words group7070.txt > group7070.words
+
+group7080.words: count_words group7080.txt
+	perl count_words group7080.txt > group7080.words
+
+group7090.words: count_words group7090.txt
+	perl count_words group7090.txt > group7090.words
+
+group7100.words: count_words group7100.txt
+	perl count_words group7100.txt > group7100.words
+
+group7110.words: count_words group7110.txt
+	perl count_words group7110.txt > group7110.words
+
+group7120.words: count_words group7120.txt
+	perl count_words group7120.txt > group7120.words
+
+group7130.words: count_words group7130.txt
+	perl count_words group7130.txt > group7130.words
+
+group7140.words: count_words group7140.txt
+	perl count_words group7140.txt > group7140.words
+
+group7150.words: count_words group7150.txt
+	perl count_words group7150.txt > group7150.words
+
+group7160.words: count_words group7160.txt
+	perl count_words group7160.txt > group7160.words
+
+group7170.words: count_words group7170.txt
+	perl count_words group7170.txt > group7170.words
+
+group7180.words: count_words group7180.txt
+	perl count_words group7180.txt > group7180.words
+
+group7190.words: count_words group7190.txt
+	perl count_words group7190.txt > group7190.words
+
+group7200.words: count_words group7200.txt
+	perl count_words group7200.txt > group7200.words
+
+group7210.words: count_words group7210.txt
+	perl count_words group7210.txt > group7210.words
+
+group7220.words: count_words group7220.txt
+	perl count_words group7220.txt > group7220.words
+
+group7230.words: count_words group7230.txt
+	perl count_words group7230.txt > group7230.words
+
+group7240.words: count_words group7240.txt
+	perl count_words group7240.txt > group7240.words
+
+group7250.words: count_words group7250.txt
+	perl count_words group7250.txt > group7250.words
+
+group7260.words: count_words group7260.txt
+	perl count_words group7260.txt > group7260.words
+
+group7270.words: count_words group7270.txt
+	perl count_words group7270.txt > group7270.words
+
+group7280.words: count_words group7280.txt
+	perl count_words group7280.txt > group7280.words
+
+group7290.words: count_words group7290.txt
+	perl count_words group7290.txt > group7290.words
+
+group7300.words: count_words group7300.txt
+	perl count_words group7300.txt > group7300.words
+
+group7310.words: count_words group7310.txt
+	perl count_words group7310.txt > group7310.words
+
+group7320.words: count_words group7320.txt
+	perl count_words group7320.txt > group7320.words
+
+group7330.words: count_words group7330.txt
+	perl count_words group7330.txt > group7330.words
+
+group7340.words: count_words group7340.txt
+	perl count_words group7340.txt > group7340.words
+
+group7350.words: count_words group7350.txt
+	perl count_words group7350.txt > group7350.words
+
+group7360.words: count_words group7360.txt
+	perl count_words group7360.txt > group7360.words
+
+group7370.words: count_words group7370.txt
+	perl count_words group7370.txt > group7370.words
+
+group7380.words: count_words group7380.txt
+	perl count_words group7380.txt > group7380.words
+
+group7390.words: count_words group7390.txt
+	perl count_words group7390.txt > group7390.words
+
+group7400.words: count_words group7400.txt
+	perl count_words group7400.txt > group7400.words
+
+group7410.words: count_words group7410.txt
+	perl count_words group7410.txt > group7410.words
+
+group7420.words: count_words group7420.txt
+	perl count_words group7420.txt > group7420.words
+
+group7430.words: count_words group7430.txt
+	perl count_words group7430.txt > group7430.words
+
+group7440.words: count_words group7440.txt
+	perl count_words group7440.txt > group7440.words
+
+group7450.words: count_words group7450.txt
+	perl count_words group7450.txt > group7450.words
+
+group7460.words: count_words group7460.txt
+	perl count_words group7460.txt > group7460.words
+
+group7470.words: count_words group7470.txt
+	perl count_words group7470.txt > group7470.words
+
+group7480.words: count_words group7480.txt
+	perl count_words group7480.txt > group7480.words
+
+group7490.words: count_words group7490.txt
+	perl count_words group7490.txt > group7490.words
+
+group7500.words: count_words group7500.txt
+	perl count_words group7500.txt > group7500.words
+
+group7510.words: count_words group7510.txt
+	perl count_words group7510.txt > group7510.words
+
+group7520.words: count_words group7520.txt
+	perl count_words group7520.txt > group7520.words
+
+group7530.words: count_words group7530.txt
+	perl count_words group7530.txt > group7530.words
+
+group7540.words: count_words group7540.txt
+	perl count_words group7540.txt > group7540.words
+
+group7550.words: count_words group7550.txt
+	perl count_words group7550.txt > group7550.words
+
+group7560.words: count_words group7560.txt
+	perl count_words group7560.txt > group7560.words
+
+group7570.words: count_words group7570.txt
+	perl count_words group7570.txt > group7570.words
+
+group7580.words: count_words group7580.txt
+	perl count_words group7580.txt > group7580.words
+
+group7590.words: count_words group7590.txt
+	perl count_words group7590.txt > group7590.words
+
+group7600.words: count_words group7600.txt
+	perl count_words group7600.txt > group7600.words
+
+group7610.words: count_words group7610.txt
+	perl count_words group7610.txt > group7610.words
+
+group7620.words: count_words group7620.txt
+	perl count_words group7620.txt > group7620.words
+
+group7630.words: count_words group7630.txt
+	perl count_words group7630.txt > group7630.words
+
+group7640.words: count_words group7640.txt
+	perl count_words group7640.txt > group7640.words
+
+group7650.words: count_words group7650.txt
+	perl count_words group7650.txt > group7650.words
+
+group7660.words: count_words group7660.txt
+	perl count_words group7660.txt > group7660.words
+
+group7670.words: count_words group7670.txt
+	perl count_words group7670.txt > group7670.words
+
+group7680.words: count_words group7680.txt
+	perl count_words group7680.txt > group7680.words
+
+group7690.words: count_words group7690.txt
+	perl count_words group7690.txt > group7690.words
+
+group7700.words: count_words group7700.txt
+	perl count_words group7700.txt > group7700.words
+
+group7710.words: count_words group7710.txt
+	perl count_words group7710.txt > group7710.words
+
+group7720.words: count_words group7720.txt
+	perl count_words group7720.txt > group7720.words
+
+group7730.words: count_words group7730.txt
+	perl count_words group7730.txt > group7730.words
+
+group7740.words: count_words group7740.txt
+	perl count_words group7740.txt > group7740.words
+
+group7750.words: count_words group7750.txt
+	perl count_words group7750.txt > group7750.words
+
+group7760.words: count_words group7760.txt
+	perl count_words group7760.txt > group7760.words
+
+group7770.words: count_words group7770.txt
+	perl count_words group7770.txt > group7770.words
+
+group7780.words: count_words group7780.txt
+	perl count_words group7780.txt > group7780.words
+
+group7790.words: count_words group7790.txt
+	perl count_words group7790.txt > group7790.words
+
+group7800.words: count_words group7800.txt
+	perl count_words group7800.txt > group7800.words
+
+group7810.words: count_words group7810.txt
+	perl count_words group7810.txt > group7810.words
+
+group7820.words: count_words group7820.txt
+	perl count_words group7820.txt > group7820.words
+
+group7830.words: count_words group7830.txt
+	perl count_words group7830.txt > group7830.words
+
+group7840.words: count_words group7840.txt
+	perl count_words group7840.txt > group7840.words
+
+group7850.words: count_words group7850.txt
+	perl count_words group7850.txt > group7850.words
+
+group7860.words: count_words group7860.txt
+	perl count_words group7860.txt > group7860.words
+
+group7870.words: count_words group7870.txt
+	perl count_words group7870.txt > group7870.words
+
+group7880.words: count_words group7880.txt
+	perl count_words group7880.txt > group7880.words
+
+group7890.words: count_words group7890.txt
+	perl count_words group7890.txt > group7890.words
+
+group7900.words: count_words group7900.txt
+	perl count_words group7900.txt > group7900.words
+
+group7910.words: count_words group7910.txt
+	perl count_words group7910.txt > group7910.words
+
+group7920.words: count_words group7920.txt
+	perl count_words group7920.txt > group7920.words
+
+group7930.words: count_words group7930.txt
+	perl count_words group7930.txt > group7930.words
+
+group7940.words: count_words group7940.txt
+	perl count_words group7940.txt > group7940.words
+
+group7950.words: count_words group7950.txt
+	perl count_words group7950.txt > group7950.words
+
+group7960.words: count_words group7960.txt
+	perl count_words group7960.txt > group7960.words
+
+group7970.words: count_words group7970.txt
+	perl count_words group7970.txt > group7970.words
+
+group7980.words: count_words group7980.txt
+	perl count_words group7980.txt > group7980.words
+
+group7990.words: count_words group7990.txt
+	perl count_words group7990.txt > group7990.words
+
+group8000.words: count_words group8000.txt
+	perl count_words group8000.txt > group8000.words
+
+group8010.words: count_words group8010.txt
+	perl count_words group8010.txt > group8010.words
+
+group8020.words: count_words group8020.txt
+	perl count_words group8020.txt > group8020.words
+
+group8030.words: count_words group8030.txt
+	perl count_words group8030.txt > group8030.words
+
+group8040.words: count_words group8040.txt
+	perl count_words group8040.txt > group8040.words
+
+group8050.words: count_words group8050.txt
+	perl count_words group8050.txt > group8050.words
+
+group8060.words: count_words group8060.txt
+	perl count_words group8060.txt > group8060.words
+
+group8070.words: count_words group8070.txt
+	perl count_words group8070.txt > group8070.words
+
+group8080.words: count_words group8080.txt
+	perl count_words group8080.txt > group8080.words
+
+group8090.words: count_words group8090.txt
+	perl count_words group8090.txt > group8090.words
+
+group8100.words: count_words group8100.txt
+	perl count_words group8100.txt > group8100.words
+
+group8110.words: count_words group8110.txt
+	perl count_words group8110.txt > group8110.words
+
+group8120.words: count_words group8120.txt
+	perl count_words group8120.txt > group8120.words
+
+group8130.words: count_words group8130.txt
+	perl count_words group8130.txt > group8130.words
+
+group8140.words: count_words group8140.txt
+	perl count_words group8140.txt > group8140.words
+
+group8150.words: count_words group8150.txt
+	perl count_words group8150.txt > group8150.words
+
+group8160.words: count_words group8160.txt
+	perl count_words group8160.txt > group8160.words
+
+group8170.words: count_words group8170.txt
+	perl count_words group8170.txt > group8170.words
+
+group8180.words: count_words group8180.txt
+	perl count_words group8180.txt > group8180.words
+
+group8190.words: count_words group8190.txt
+	perl count_words group8190.txt > group8190.words
+
+group8200.words: count_words group8200.txt
+	perl count_words group8200.txt > group8200.words
+
+group8210.words: count_words group8210.txt
+	perl count_words group8210.txt > group8210.words
+
+group8220.words: count_words group8220.txt
+	perl count_words group8220.txt > group8220.words
+
+group8230.words: count_words group8230.txt
+	perl count_words group8230.txt > group8230.words
+
+group8240.words: count_words group8240.txt
+	perl count_words group8240.txt > group8240.words
+
+group8250.words: count_words group8250.txt
+	perl count_words group8250.txt > group8250.words
+
+group8260.words: count_words group8260.txt
+	perl count_words group8260.txt > group8260.words
+
+group8270.words: count_words group8270.txt
+	perl count_words group8270.txt > group8270.words
+
+group8280.words: count_words group8280.txt
+	perl count_words group8280.txt > group8280.words
+
+group8290.words: count_words group8290.txt
+	perl count_words group8290.txt > group8290.words
+
+group8300.words: count_words group8300.txt
+	perl count_words group8300.txt > group8300.words
+
+group8310.words: count_words group8310.txt
+	perl count_words group8310.txt > group8310.words
+
+group8320.words: count_words group8320.txt
+	perl count_words group8320.txt > group8320.words
+
+group8330.words: count_words group8330.txt
+	perl count_words group8330.txt > group8330.words
+
+group8340.words: count_words group8340.txt
+	perl count_words group8340.txt > group8340.words
+
+group8350.words: count_words group8350.txt
+	perl count_words group8350.txt > group8350.words
+
+group8360.words: count_words group8360.txt
+	perl count_words group8360.txt > group8360.words
+
+group8370.words: count_words group8370.txt
+	perl count_words group8370.txt > group8370.words
+
+group8380.words: count_words group8380.txt
+	perl count_words group8380.txt > group8380.words
+
+group8390.words: count_words group8390.txt
+	perl count_words group8390.txt > group8390.words
+
+group8400.words: count_words group8400.txt
+	perl count_words group8400.txt > group8400.words
+
+group8410.words: count_words group8410.txt
+	perl count_words group8410.txt > group8410.words
+
+group8420.words: count_words group8420.txt
+	perl count_words group8420.txt > group8420.words
+
+group8430.words: count_words group8430.txt
+	perl count_words group8430.txt > group8430.words
+
+group8440.words: count_words group8440.txt
+	perl count_words group8440.txt > group8440.words
+
+group8450.words: count_words group8450.txt
+	perl count_words group8450.txt > group8450.words
+
+group8460.words: count_words group8460.txt
+	perl count_words group8460.txt > group8460.words
+
+group8470.words: count_words group8470.txt
+	perl count_words group8470.txt > group8470.words
+
+group8480.words: count_words group8480.txt
+	perl count_words group8480.txt > group8480.words
+
+group8490.words: count_words group8490.txt
+	perl count_words group8490.txt > group8490.words
+
+group8500.words: count_words group8500.txt
+	perl count_words group8500.txt > group8500.words
+
+group8510.words: count_words group8510.txt
+	perl count_words group8510.txt > group8510.words
+
+group8520.words: count_words group8520.txt
+	perl count_words group8520.txt > group8520.words
+
+group8530.words: count_words group8530.txt
+	perl count_words group8530.txt > group8530.words
+
+group8540.words: count_words group8540.txt
+	perl count_words group8540.txt > group8540.words
+
+group8550.words: count_words group8550.txt
+	perl count_words group8550.txt > group8550.words
+
+group8560.words: count_words group8560.txt
+	perl count_words group8560.txt > group8560.words
+
+group8570.words: count_words group8570.txt
+	perl count_words group8570.txt > group8570.words
+
+group8580.words: count_words group8580.txt
+	perl count_words group8580.txt > group8580.words
+
+group8590.words: count_words group8590.txt
+	perl count_words group8590.txt > group8590.words
+
+group8600.words: count_words group8600.txt
+	perl count_words group8600.txt > group8600.words
+
+group8610.words: count_words group8610.txt
+	perl count_words group8610.txt > group8610.words
+
+group8620.words: count_words group8620.txt
+	perl count_words group8620.txt > group8620.words
+
+group8630.words: count_words group8630.txt
+	perl count_words group8630.txt > group8630.words
+
+group8640.words: count_words group8640.txt
+	perl count_words group8640.txt > group8640.words
+
+group8650.words: count_words group8650.txt
+	perl count_words group8650.txt > group8650.words
+
+group8660.words: count_words group8660.txt
+	perl count_words group8660.txt > group8660.words
+
+group8670.words: count_words group8670.txt
+	perl count_words group8670.txt > group8670.words
+
+group8680.words: count_words group8680.txt
+	perl count_words group8680.txt > group8680.words
+
+group8690.words: count_words group8690.txt
+	perl count_words group8690.txt > group8690.words
+
+group8700.words: count_words group8700.txt
+	perl count_words group8700.txt > group8700.words
+
+group8710.words: count_words group8710.txt
+	perl count_words group8710.txt > group8710.words
+
+group8720.words: count_words group8720.txt
+	perl count_words group8720.txt > group8720.words
+
+group8730.words: count_words group8730.txt
+	perl count_words group8730.txt > group8730.words
+
+group8740.words: count_words group8740.txt
+	perl count_words group8740.txt > group8740.words
+
+group8750.words: count_words group8750.txt
+	perl count_words group8750.txt > group8750.words
+
+group8760.words: count_words group8760.txt
+	perl count_words group8760.txt > group8760.words
+
+group8770.words: count_words group8770.txt
+	perl count_words group8770.txt > group8770.words
+
+group8780.words: count_words group8780.txt
+	perl count_words group8780.txt > group8780.words
+
+group8790.words: count_words group8790.txt
+	perl count_words group8790.txt > group8790.words
+
+group8800.words: count_words group8800.txt
+	perl count_words group8800.txt > group8800.words
+
+group8810.words: count_words group8810.txt
+	perl count_words group8810.txt > group8810.words
+
+group8820.words: count_words group8820.txt
+	perl count_words group8820.txt > group8820.words
+
+group8830.words: count_words group8830.txt
+	perl count_words group8830.txt > group8830.words
+
+group8840.words: count_words group8840.txt
+	perl count_words group8840.txt > group8840.words
+
+group8850.words: count_words group8850.txt
+	perl count_words group8850.txt > group8850.words
+
+group8860.words: count_words group8860.txt
+	perl count_words group8860.txt > group8860.words
+
+group8870.words: count_words group8870.txt
+	perl count_words group8870.txt > group8870.words
+
+group8880.words: count_words group8880.txt
+	perl count_words group8880.txt > group8880.words
+
+group8890.words: count_words group8890.txt
+	perl count_words group8890.txt > group8890.words
+
+group8900.words: count_words group8900.txt
+	perl count_words group8900.txt > group8900.words
+
+group8910.words: count_words group8910.txt
+	perl count_words group8910.txt > group8910.words
+
+group8920.words: count_words group8920.txt
+	perl count_words group8920.txt > group8920.words
+
+group8930.words: count_words group8930.txt
+	perl count_words group8930.txt > group8930.words
+
+group8940.words: count_words group8940.txt
+	perl count_words group8940.txt > group8940.words
+
+group8950.words: count_words group8950.txt
+	perl count_words group8950.txt > group8950.words
+
+group8960.words: count_words group8960.txt
+	perl count_words group8960.txt > group8960.words
+
+group8970.words: count_words group8970.txt
+	perl count_words group8970.txt > group8970.words
+
+group8980.words: count_words group8980.txt
+	perl count_words group8980.txt > group8980.words
+
+group8990.words: count_words group8990.txt
+	perl count_words group8990.txt > group8990.words
+
+group9000.words: count_words group9000.txt
+	perl count_words group9000.txt > group9000.words
+
+group9010.words: count_words group9010.txt
+	perl count_words group9010.txt > group9010.words
+
+group9020.words: count_words group9020.txt
+	perl count_words group9020.txt > group9020.words
+
+group9030.words: count_words group9030.txt
+	perl count_words group9030.txt > group9030.words
+
+group9040.words: count_words group9040.txt
+	perl count_words group9040.txt > group9040.words
+
+group9050.words: count_words group9050.txt
+	perl count_words group9050.txt > group9050.words
+
+group9060.words: count_words group9060.txt
+	perl count_words group9060.txt > group9060.words
+
+group9070.words: count_words group9070.txt
+	perl count_words group9070.txt > group9070.words
+
+group9080.words: count_words group9080.txt
+	perl count_words group9080.txt > group9080.words
+
+group9090.words: count_words group9090.txt
+	perl count_words group9090.txt > group9090.words
+
+group9100.words: count_words group9100.txt
+	perl count_words group9100.txt > group9100.words
+
+group9110.words: count_words group9110.txt
+	perl count_words group9110.txt > group9110.words
+
+group9120.words: count_words group9120.txt
+	perl count_words group9120.txt > group9120.words
+
+group9130.words: count_words group9130.txt
+	perl count_words group9130.txt > group9130.words
+
+group9140.words: count_words group9140.txt
+	perl count_words group9140.txt > group9140.words
+
+group9150.words: count_words group9150.txt
+	perl count_words group9150.txt > group9150.words
+
+group9160.words: count_words group9160.txt
+	perl count_words group9160.txt > group9160.words
+
+group9170.words: count_words group9170.txt
+	perl count_words group9170.txt > group9170.words
+
+group9180.words: count_words group9180.txt
+	perl count_words group9180.txt > group9180.words
+
+group9190.words: count_words group9190.txt
+	perl count_words group9190.txt > group9190.words
+
+group9200.words: count_words group9200.txt
+	perl count_words group9200.txt > group9200.words
+
+group9210.words: count_words group9210.txt
+	perl count_words group9210.txt > group9210.words
+
+group9220.words: count_words group9220.txt
+	perl count_words group9220.txt > group9220.words
+
+group9230.words: count_words group9230.txt
+	perl count_words group9230.txt > group9230.words
+
+group9240.words: count_words group9240.txt
+	perl count_words group9240.txt > group9240.words
+
+group9250.words: count_words group9250.txt
+	perl count_words group9250.txt > group9250.words
+
+group9260.words: count_words group9260.txt
+	perl count_words group9260.txt > group9260.words
+
+group9270.words: count_words group9270.txt
+	perl count_words group9270.txt > group9270.words
+
+group9280.words: count_words group9280.txt
+	perl count_words group9280.txt > group9280.words
+
+group9290.words: count_words group9290.txt
+	perl count_words group9290.txt > group9290.words
+
+group9300.words: count_words group9300.txt
+	perl count_words group9300.txt > group9300.words
+
+group9310.words: count_words group9310.txt
+	perl count_words group9310.txt > group9310.words
+
+group9320.words: count_words group9320.txt
+	perl count_words group9320.txt > group9320.words
+
+group9330.words: count_words group9330.txt
+	perl count_words group9330.txt > group9330.words
+
+group9340.words: count_words group9340.txt
+	perl count_words group9340.txt > group9340.words
+
+group9350.words: count_words group9350.txt
+	perl count_words group9350.txt > group9350.words
+
+group9360.words: count_words group9360.txt
+	perl count_words group9360.txt > group9360.words
+
+group9370.words: count_words group9370.txt
+	perl count_words group9370.txt > group9370.words
+
+group9380.words: count_words group9380.txt
+	perl count_words group9380.txt > group9380.words
+
+group9390.words: count_words group9390.txt
+	perl count_words group9390.txt > group9390.words
+
+group9400.words: count_words group9400.txt
+	perl count_words group9400.txt > group9400.words
+
+group9410.words: count_words group9410.txt
+	perl count_words group9410.txt > group9410.words
+
+group9420.words: count_words group9420.txt
+	perl count_words group9420.txt > group9420.words
+
+group9430.words: count_words group9430.txt
+	perl count_words group9430.txt > group9430.words
+
+group9440.words: count_words group9440.txt
+	perl count_words group9440.txt > group9440.words
+
+group9450.words: count_words group9450.txt
+	perl count_words group9450.txt > group9450.words
+
+group9460.words: count_words group9460.txt
+	perl count_words group9460.txt > group9460.words
+
+group9470.words: count_words group9470.txt
+	perl count_words group9470.txt > group9470.words
+
+group9480.words: count_words group9480.txt
+	perl count_words group9480.txt > group9480.words
+
+group9490.words: count_words group9490.txt
+	perl count_words group9490.txt > group9490.words
+
+group9500.words: count_words group9500.txt
+	perl count_words group9500.txt > group9500.words
+
+group9510.words: count_words group9510.txt
+	perl count_words group9510.txt > group9510.words
+
+group9520.words: count_words group9520.txt
+	perl count_words group9520.txt > group9520.words
+
+group9530.words: count_words group9530.txt
+	perl count_words group9530.txt > group9530.words
+
+group9540.words: count_words group9540.txt
+	perl count_words group9540.txt > group9540.words
+
+group9550.words: count_words group9550.txt
+	perl count_words group9550.txt > group9550.words
+
+group9560.words: count_words group9560.txt
+	perl count_words group9560.txt > group9560.words
+
+group9570.words: count_words group9570.txt
+	perl count_words group9570.txt > group9570.words
+
+group9580.words: count_words group9580.txt
+	perl count_words group9580.txt > group9580.words
+
+group9590.words: count_words group9590.txt
+	perl count_words group9590.txt > group9590.words
+
+group9600.words: count_words group9600.txt
+	perl count_words group9600.txt > group9600.words
+
+group9610.words: count_words group9610.txt
+	perl count_words group9610.txt > group9610.words
+
+group9620.words: count_words group9620.txt
+	perl count_words group9620.txt > group9620.words
+
+group9630.words: count_words group9630.txt
+	perl count_words group9630.txt > group9630.words
+
+group9640.words: count_words group9640.txt
+	perl count_words group9640.txt > group9640.words
+
+group9650.words: count_words group9650.txt
+	perl count_words group9650.txt > group9650.words
+
+group9660.words: count_words group9660.txt
+	perl count_words group9660.txt > group9660.words
+
+group9670.words: count_words group9670.txt
+	perl count_words group9670.txt > group9670.words
+
+group9680.words: count_words group9680.txt
+	perl count_words group9680.txt > group9680.words
+
+group9690.words: count_words group9690.txt
+	perl count_words group9690.txt > group9690.words
+
+group9700.words: count_words group9700.txt
+	perl count_words group9700.txt > group9700.words
+
+group9710.words: count_words group9710.txt
+	perl count_words group9710.txt > group9710.words
+
+group9720.words: count_words group9720.txt
+	perl count_words group9720.txt > group9720.words
+
+group9730.words: count_words group9730.txt
+	perl count_words group9730.txt > group9730.words
+
+group9740.words: count_words group9740.txt
+	perl count_words group9740.txt > group9740.words
+
+group9750.words: count_words group9750.txt
+	perl count_words group9750.txt > group9750.words
+
+group9760.words: count_words group9760.txt
+	perl count_words group9760.txt > group9760.words
+
+group9770.words: count_words group9770.txt
+	perl count_words group9770.txt > group9770.words
+
+group9780.words: count_words group9780.txt
+	perl count_words group9780.txt > group9780.words
+
+group9790.words: count_words group9790.txt
+	perl count_words group9790.txt > group9790.words
+
+group9800.words: count_words group9800.txt
+	perl count_words group9800.txt > group9800.words
+
+group9810.words: count_words group9810.txt
+	perl count_words group9810.txt > group9810.words
+
+group9820.words: count_words group9820.txt
+	perl count_words group9820.txt > group9820.words
+
+group9830.words: count_words group9830.txt
+	perl count_words group9830.txt > group9830.words
+
+group9840.words: count_words group9840.txt
+	perl count_words group9840.txt > group9840.words
+
+group9850.words: count_words group9850.txt
+	perl count_words group9850.txt > group9850.words
+
+group9860.words: count_words group9860.txt
+	perl count_words group9860.txt > group9860.words
+
+group9870.words: count_words group9870.txt
+	perl count_words group9870.txt > group9870.words
+
+group9880.words: count_words group9880.txt
+	perl count_words group9880.txt > group9880.words
+
+group9890.words: count_words group9890.txt
+	perl count_words group9890.txt > group9890.words
+
+group9900.words: count_words group9900.txt
+	perl count_words group9900.txt > group9900.words
+
+group9910.words: count_words group9910.txt
+	perl count_words group9910.txt > group9910.words
+
+group9920.words: count_words group9920.txt
+	perl count_words group9920.txt > group9920.words
+
+group9930.words: count_words group9930.txt
+	perl count_words group9930.txt > group9930.words
+
+group9940.words: count_words group9940.txt
+	perl count_words group9940.txt > group9940.words
+
+group9950.words: count_words group9950.txt
+	perl count_words group9950.txt > group9950.words
+
+group9960.words: count_words group9960.txt
+	perl count_words group9960.txt > group9960.words
+
+group9970.words: count_words group9970.txt
+	perl count_words group9970.txt > group9970.words
+
+group9980.words: count_words group9980.txt
+	perl count_words group9980.txt > group9980.words
+
+group9990.words: count_words group9990.txt
+	perl count_words group9990.txt > group9990.words
+
+group10000.words: count_words group10000.txt
+	perl count_words group10000.txt > group10000.words
+
+group10010.words: count_words group10010.txt
+	perl count_words group10010.txt > group10010.words
+
+group10020.words: count_words group10020.txt
+	perl count_words group10020.txt > group10020.words
+
+group10030.words: count_words group10030.txt
+	perl count_words group10030.txt > group10030.words
+
+group10040.words: count_words group10040.txt
+	perl count_words group10040.txt > group10040.words
+
+group10050.words: count_words group10050.txt
+	perl count_words group10050.txt > group10050.words
+
+group10060.words: count_words group10060.txt
+	perl count_words group10060.txt > group10060.words
+
+group10070.words: count_words group10070.txt
+	perl count_words group10070.txt > group10070.words
+
+group10080.words: count_words group10080.txt
+	perl count_words group10080.txt > group10080.words
+
+group10090.words: count_words group10090.txt
+	perl count_words group10090.txt > group10090.words
+
+group10100.words: count_words group10100.txt
+	perl count_words group10100.txt > group10100.words
+
+group10110.words: count_words group10110.txt
+	perl count_words group10110.txt > group10110.words
+
+group10120.words: count_words group10120.txt
+	perl count_words group10120.txt > group10120.words
+
+group10130.words: count_words group10130.txt
+	perl count_words group10130.txt > group10130.words
+
+group10140.words: count_words group10140.txt
+	perl count_words group10140.txt > group10140.words
+
+group10150.words: count_words group10150.txt
+	perl count_words group10150.txt > group10150.words
+
+group10160.words: count_words group10160.txt
+	perl count_words group10160.txt > group10160.words
+
+group10170.words: count_words group10170.txt
+	perl count_words group10170.txt > group10170.words
+
+group10180.words: count_words group10180.txt
+	perl count_words group10180.txt > group10180.words
+
+group10190.words: count_words group10190.txt
+	perl count_words group10190.txt > group10190.words
+
+group10200.words: count_words group10200.txt
+	perl count_words group10200.txt > group10200.words
+
+group10210.words: count_words group10210.txt
+	perl count_words group10210.txt > group10210.words
+
+group10220.words: count_words group10220.txt
+	perl count_words group10220.txt > group10220.words
+
+group10230.words: count_words group10230.txt
+	perl count_words group10230.txt > group10230.words
+
+group10240.words: count_words group10240.txt
+	perl count_words group10240.txt > group10240.words
+
+group10250.words: count_words group10250.txt
+	perl count_words group10250.txt > group10250.words
+
+group10260.words: count_words group10260.txt
+	perl count_words group10260.txt > group10260.words
+
+group10270.words: count_words group10270.txt
+	perl count_words group10270.txt > group10270.words
+
+group10280.words: count_words group10280.txt
+	perl count_words group10280.txt > group10280.words
+
+group10290.words: count_words group10290.txt
+	perl count_words group10290.txt > group10290.words
+
+group10300.words: count_words group10300.txt
+	perl count_words group10300.txt > group10300.words
+
+group10310.words: count_words group10310.txt
+	perl count_words group10310.txt > group10310.words
+
+group10320.words: count_words group10320.txt
+	perl count_words group10320.txt > group10320.words
+
+group10330.words: count_words group10330.txt
+	perl count_words group10330.txt > group10330.words
+
+group10340.words: count_words group10340.txt
+	perl count_words group10340.txt > group10340.words
+
+group10350.words: count_words group10350.txt
+	perl count_words group10350.txt > group10350.words
+
+group10360.words: count_words group10360.txt
+	perl count_words group10360.txt > group10360.words
+
+group10370.words: count_words group10370.txt
+	perl count_words group10370.txt > group10370.words
+
+group10380.words: count_words group10380.txt
+	perl count_words group10380.txt > group10380.words
+
+group10390.words: count_words group10390.txt
+	perl count_words group10390.txt > group10390.words
+
+group10400.words: count_words group10400.txt
+	perl count_words group10400.txt > group10400.words
+
+group10410.words: count_words group10410.txt
+	perl count_words group10410.txt > group10410.words
+
+group10420.words: count_words group10420.txt
+	perl count_words group10420.txt > group10420.words
+
+group10430.words: count_words group10430.txt
+	perl count_words group10430.txt > group10430.words
+
+group10440.words: count_words group10440.txt
+	perl count_words group10440.txt > group10440.words
+
+group10450.words: count_words group10450.txt
+	perl count_words group10450.txt > group10450.words
+
+group10460.words: count_words group10460.txt
+	perl count_words group10460.txt > group10460.words
+
+group10470.words: count_words group10470.txt
+	perl count_words group10470.txt > group10470.words
+
+group10480.words: count_words group10480.txt
+	perl count_words group10480.txt > group10480.words
+
+group10490.words: count_words group10490.txt
+	perl count_words group10490.txt > group10490.words
+
+group10500.words: count_words group10500.txt
+	perl count_words group10500.txt > group10500.words
+
+group10510.words: count_words group10510.txt
+	perl count_words group10510.txt > group10510.words
+
+group10520.words: count_words group10520.txt
+	perl count_words group10520.txt > group10520.words
+
+group10530.words: count_words group10530.txt
+	perl count_words group10530.txt > group10530.words
+
+group10540.words: count_words group10540.txt
+	perl count_words group10540.txt > group10540.words
+
+group10550.words: count_words group10550.txt
+	perl count_words group10550.txt > group10550.words
+
+group10560.words: count_words group10560.txt
+	perl count_words group10560.txt > group10560.words
+
+group10570.words: count_words group10570.txt
+	perl count_words group10570.txt > group10570.words
+
+group10580.words: count_words group10580.txt
+	perl count_words group10580.txt > group10580.words
+
+group10590.words: count_words group10590.txt
+	perl count_words group10590.txt > group10590.words
+
+group10600.words: count_words group10600.txt
+	perl count_words group10600.txt > group10600.words
+
+group10610.words: count_words group10610.txt
+	perl count_words group10610.txt > group10610.words
+
+group10620.words: count_words group10620.txt
+	perl count_words group10620.txt > group10620.words
+
+group10630.words: count_words group10630.txt
+	perl count_words group10630.txt > group10630.words
+
+group10640.words: count_words group10640.txt
+	perl count_words group10640.txt > group10640.words
+
+group10650.words: count_words group10650.txt
+	perl count_words group10650.txt > group10650.words
+
+group10660.words: count_words group10660.txt
+	perl count_words group10660.txt > group10660.words
+
+group10670.words: count_words group10670.txt
+	perl count_words group10670.txt > group10670.words
+
+group10680.words: count_words group10680.txt
+	perl count_words group10680.txt > group10680.words
+
+group10690.words: count_words group10690.txt
+	perl count_words group10690.txt > group10690.words
+
+group10700.words: count_words group10700.txt
+	perl count_words group10700.txt > group10700.words
+
+group10710.words: count_words group10710.txt
+	perl count_words group10710.txt > group10710.words
+
+group10720.words: count_words group10720.txt
+	perl count_words group10720.txt > group10720.words
+
+group10730.words: count_words group10730.txt
+	perl count_words group10730.txt > group10730.words
+
+group10740.words: count_words group10740.txt
+	perl count_words group10740.txt > group10740.words
+
+group10750.words: count_words group10750.txt
+	perl count_words group10750.txt > group10750.words
+
+group10760.words: count_words group10760.txt
+	perl count_words group10760.txt > group10760.words
+
+group10770.words: count_words group10770.txt
+	perl count_words group10770.txt > group10770.words
+
+group10780.words: count_words group10780.txt
+	perl count_words group10780.txt > group10780.words
+
+group10790.words: count_words group10790.txt
+	perl count_words group10790.txt > group10790.words
+
+group10800.words: count_words group10800.txt
+	perl count_words group10800.txt > group10800.words
+
+group10810.words: count_words group10810.txt
+	perl count_words group10810.txt > group10810.words
+
+group10820.words: count_words group10820.txt
+	perl count_words group10820.txt > group10820.words
+
+group10830.words: count_words group10830.txt
+	perl count_words group10830.txt > group10830.words
+
+group10840.words: count_words group10840.txt
+	perl count_words group10840.txt > group10840.words
+
+group10850.words: count_words group10850.txt
+	perl count_words group10850.txt > group10850.words
+
+group10860.words: count_words group10860.txt
+	perl count_words group10860.txt > group10860.words
+
+group10870.words: count_words group10870.txt
+	perl count_words group10870.txt > group10870.words
+
+group10880.words: count_words group10880.txt
+	perl count_words group10880.txt > group10880.words
+
+group10890.words: count_words group10890.txt
+	perl count_words group10890.txt > group10890.words
+
+group10900.words: count_words group10900.txt
+	perl count_words group10900.txt > group10900.words
+
+group10910.words: count_words group10910.txt
+	perl count_words group10910.txt > group10910.words
+
+group10920.words: count_words group10920.txt
+	perl count_words group10920.txt > group10920.words
+
+group10930.words: count_words group10930.txt
+	perl count_words group10930.txt > group10930.words
+
+group10940.words: count_words group10940.txt
+	perl count_words group10940.txt > group10940.words
+
+group10950.words: count_words group10950.txt
+	perl count_words group10950.txt > group10950.words
+
+group10960.words: count_words group10960.txt
+	perl count_words group10960.txt > group10960.words
+
+group10970.words: count_words group10970.txt
+	perl count_words group10970.txt > group10970.words
+
+group10980.words: count_words group10980.txt
+	perl count_words group10980.txt > group10980.words
+
+group10990.words: count_words group10990.txt
+	perl count_words group10990.txt > group10990.words
+
+group11000.words: count_words group11000.txt
+	perl count_words group11000.txt > group11000.words
+
+group11010.words: count_words group11010.txt
+	perl count_words group11010.txt > group11010.words
+
+group11020.words: count_words group11020.txt
+	perl count_words group11020.txt > group11020.words
+
+group11030.words: count_words group11030.txt
+	perl count_words group11030.txt > group11030.words
+
+group11040.words: count_words group11040.txt
+	perl count_words group11040.txt > group11040.words
+
+group11050.words: count_words group11050.txt
+	perl count_words group11050.txt > group11050.words
+
+group11060.words: count_words group11060.txt
+	perl count_words group11060.txt > group11060.words
+
+group11070.words: count_words group11070.txt
+	perl count_words group11070.txt > group11070.words
+
+group11080.words: count_words group11080.txt
+	perl count_words group11080.txt > group11080.words
+
+group11090.words: count_words group11090.txt
+	perl count_words group11090.txt > group11090.words
+
+group11100.words: count_words group11100.txt
+	perl count_words group11100.txt > group11100.words
+
+group11110.words: count_words group11110.txt
+	perl count_words group11110.txt > group11110.words
+
+group11120.words: count_words group11120.txt
+	perl count_words group11120.txt > group11120.words
+
+group11130.words: count_words group11130.txt
+	perl count_words group11130.txt > group11130.words
+
+group11140.words: count_words group11140.txt
+	perl count_words group11140.txt > group11140.words
+
+group11150.words: count_words group11150.txt
+	perl count_words group11150.txt > group11150.words
+
+group11160.words: count_words group11160.txt
+	perl count_words group11160.txt > group11160.words
+
+group11170.words: count_words group11170.txt
+	perl count_words group11170.txt > group11170.words
+
+group11180.words: count_words group11180.txt
+	perl count_words group11180.txt > group11180.words
+
+group11190.words: count_words group11190.txt
+	perl count_words group11190.txt > group11190.words
+
+group11200.words: count_words group11200.txt
+	perl count_words group11200.txt > group11200.words
+
+group11210.words: count_words group11210.txt
+	perl count_words group11210.txt > group11210.words
+
+group11220.words: count_words group11220.txt
+	perl count_words group11220.txt > group11220.words
+
+group11230.words: count_words group11230.txt
+	perl count_words group11230.txt > group11230.words
+
+group11240.words: count_words group11240.txt
+	perl count_words group11240.txt > group11240.words
+
+group11250.words: count_words group11250.txt
+	perl count_words group11250.txt > group11250.words
+
+group11260.words: count_words group11260.txt
+	perl count_words group11260.txt > group11260.words
+
+group11270.words: count_words group11270.txt
+	perl count_words group11270.txt > group11270.words
+
+group11280.words: count_words group11280.txt
+	perl count_words group11280.txt > group11280.words
+
+group11290.words: count_words group11290.txt
+	perl count_words group11290.txt > group11290.words
+
+group11300.words: count_words group11300.txt
+	perl count_words group11300.txt > group11300.words
+
+group11310.words: count_words group11310.txt
+	perl count_words group11310.txt > group11310.words
+
+group11320.words: count_words group11320.txt
+	perl count_words group11320.txt > group11320.words
+
+group11330.words: count_words group11330.txt
+	perl count_words group11330.txt > group11330.words
+
+group11340.words: count_words group11340.txt
+	perl count_words group11340.txt > group11340.words
+
+group11350.words: count_words group11350.txt
+	perl count_words group11350.txt > group11350.words
+
+group11360.words: count_words group11360.txt
+	perl count_words group11360.txt > group11360.words
+
+group11370.words: count_words group11370.txt
+	perl count_words group11370.txt > group11370.words
+
+group11380.words: count_words group11380.txt
+	perl count_words group11380.txt > group11380.words
+
+group11390.words: count_words group11390.txt
+	perl count_words group11390.txt > group11390.words
+
+group11400.words: count_words group11400.txt
+	perl count_words group11400.txt > group11400.words
+
+group11410.words: count_words group11410.txt
+	perl count_words group11410.txt > group11410.words
+
+group11420.words: count_words group11420.txt
+	perl count_words group11420.txt > group11420.words
+
+group11430.words: count_words group11430.txt
+	perl count_words group11430.txt > group11430.words
+
+group11440.words: count_words group11440.txt
+	perl count_words group11440.txt > group11440.words
+
+group11450.words: count_words group11450.txt
+	perl count_words group11450.txt > group11450.words
+
+group11460.words: count_words group11460.txt
+	perl count_words group11460.txt > group11460.words
+
+group11470.words: count_words group11470.txt
+	perl count_words group11470.txt > group11470.words
+
+group11480.words: count_words group11480.txt
+	perl count_words group11480.txt > group11480.words
+
+group11490.words: count_words group11490.txt
+	perl count_words group11490.txt > group11490.words
+
+group11500.words: count_words group11500.txt
+	perl count_words group11500.txt > group11500.words
+
+group11510.words: count_words group11510.txt
+	perl count_words group11510.txt > group11510.words
+
+group11520.words: count_words group11520.txt
+	perl count_words group11520.txt > group11520.words
+
+group11530.words: count_words group11530.txt
+	perl count_words group11530.txt > group11530.words
+
+group11540.words: count_words group11540.txt
+	perl count_words group11540.txt > group11540.words
+
+group11550.words: count_words group11550.txt
+	perl count_words group11550.txt > group11550.words
+
+group11560.words: count_words group11560.txt
+	perl count_words group11560.txt > group11560.words
+
+group11570.words: count_words group11570.txt
+	perl count_words group11570.txt > group11570.words
+
+group11580.words: count_words group11580.txt
+	perl count_words group11580.txt > group11580.words
+
+group11590.words: count_words group11590.txt
+	perl count_words group11590.txt > group11590.words
+
+group11600.words: count_words group11600.txt
+	perl count_words group11600.txt > group11600.words
+
+group11610.words: count_words group11610.txt
+	perl count_words group11610.txt > group11610.words
+
+group11620.words: count_words group11620.txt
+	perl count_words group11620.txt > group11620.words
+
+group11630.words: count_words group11630.txt
+	perl count_words group11630.txt > group11630.words
+
+group11640.words: count_words group11640.txt
+	perl count_words group11640.txt > group11640.words
+
+group11650.words: count_words group11650.txt
+	perl count_words group11650.txt > group11650.words
+
+group11660.words: count_words group11660.txt
+	perl count_words group11660.txt > group11660.words
+
+group11670.words: count_words group11670.txt
+	perl count_words group11670.txt > group11670.words
+
+group11680.words: count_words group11680.txt
+	perl count_words group11680.txt > group11680.words
+
+group11690.words: count_words group11690.txt
+	perl count_words group11690.txt > group11690.words
+
+group11700.words: count_words group11700.txt
+	perl count_words group11700.txt > group11700.words
+
+group11710.words: count_words group11710.txt
+	perl count_words group11710.txt > group11710.words
+
+group11720.words: count_words group11720.txt
+	perl count_words group11720.txt > group11720.words
+
+group11730.words: count_words group11730.txt
+	perl count_words group11730.txt > group11730.words
+
+group11740.words: count_words group11740.txt
+	perl count_words group11740.txt > group11740.words
+
+group11750.words: count_words group11750.txt
+	perl count_words group11750.txt > group11750.words
+
+group11760.words: count_words group11760.txt
+	perl count_words group11760.txt > group11760.words
+
+group11770.words: count_words group11770.txt
+	perl count_words group11770.txt > group11770.words
+
+group11780.words: count_words group11780.txt
+	perl count_words group11780.txt > group11780.words
+
+group11790.words: count_words group11790.txt
+	perl count_words group11790.txt > group11790.words
+
+group11800.words: count_words group11800.txt
+	perl count_words group11800.txt > group11800.words
+
+group11810.words: count_words group11810.txt
+	perl count_words group11810.txt > group11810.words
+
+group11820.words: count_words group11820.txt
+	perl count_words group11820.txt > group11820.words
+
+group11830.words: count_words group11830.txt
+	perl count_words group11830.txt > group11830.words
+
+group11840.words: count_words group11840.txt
+	perl count_words group11840.txt > group11840.words
+
+group11850.words: count_words group11850.txt
+	perl count_words group11850.txt > group11850.words
+
+group11860.words: count_words group11860.txt
+	perl count_words group11860.txt > group11860.words
+
+group11870.words: count_words group11870.txt
+	perl count_words group11870.txt > group11870.words
+
+group11880.words: count_words group11880.txt
+	perl count_words group11880.txt > group11880.words
+
+group11890.words: count_words group11890.txt
+	perl count_words group11890.txt > group11890.words
+
+group11900.words: count_words group11900.txt
+	perl count_words group11900.txt > group11900.words
+
+group11910.words: count_words group11910.txt
+	perl count_words group11910.txt > group11910.words
+
+group11920.words: count_words group11920.txt
+	perl count_words group11920.txt > group11920.words
+
+group11930.words: count_words group11930.txt
+	perl count_words group11930.txt > group11930.words
+
+group11940.words: count_words group11940.txt
+	perl count_words group11940.txt > group11940.words
+
+group11950.words: count_words group11950.txt
+	perl count_words group11950.txt > group11950.words
+
+group11960.words: count_words group11960.txt
+	perl count_words group11960.txt > group11960.words
+
+group11970.words: count_words group11970.txt
+	perl count_words group11970.txt > group11970.words
+
+group11980.words: count_words group11980.txt
+	perl count_words group11980.txt > group11980.words
+
+group11990.words: count_words group11990.txt
+	perl count_words group11990.txt > group11990.words
+
+group12000.words: count_words group12000.txt
+	perl count_words group12000.txt > group12000.words
+
+group12010.words: count_words group12010.txt
+	perl count_words group12010.txt > group12010.words
+
+group12020.words: count_words group12020.txt
+	perl count_words group12020.txt > group12020.words
+
+group12030.words: count_words group12030.txt
+	perl count_words group12030.txt > group12030.words
+
+group12040.words: count_words group12040.txt
+	perl count_words group12040.txt > group12040.words
+
+group12050.words: count_words group12050.txt
+	perl count_words group12050.txt > group12050.words
+
+group12060.words: count_words group12060.txt
+	perl count_words group12060.txt > group12060.words
+
+group12070.words: count_words group12070.txt
+	perl count_words group12070.txt > group12070.words
+
+group12080.words: count_words group12080.txt
+	perl count_words group12080.txt > group12080.words
+
+group12090.words: count_words group12090.txt
+	perl count_words group12090.txt > group12090.words
+
+group12100.words: count_words group12100.txt
+	perl count_words group12100.txt > group12100.words
+
+group12110.words: count_words group12110.txt
+	perl count_words group12110.txt > group12110.words
+
+group12120.words: count_words group12120.txt
+	perl count_words group12120.txt > group12120.words
+
+group12130.words: count_words group12130.txt
+	perl count_words group12130.txt > group12130.words
+
+group12140.words: count_words group12140.txt
+	perl count_words group12140.txt > group12140.words
+
+group12150.words: count_words group12150.txt
+	perl count_words group12150.txt > group12150.words
+
+group12160.words: count_words group12160.txt
+	perl count_words group12160.txt > group12160.words
+
+group12170.words: count_words group12170.txt
+	perl count_words group12170.txt > group12170.words
+
+group12180.words: count_words group12180.txt
+	perl count_words group12180.txt > group12180.words
+
+group12190.words: count_words group12190.txt
+	perl count_words group12190.txt > group12190.words
+
+group12200.words: count_words group12200.txt
+	perl count_words group12200.txt > group12200.words
+
+group12210.words: count_words group12210.txt
+	perl count_words group12210.txt > group12210.words
+
+group12220.words: count_words group12220.txt
+	perl count_words group12220.txt > group12220.words
+
+group12230.words: count_words group12230.txt
+	perl count_words group12230.txt > group12230.words
+
+group12240.words: count_words group12240.txt
+	perl count_words group12240.txt > group12240.words
+
+group12250.words: count_words group12250.txt
+	perl count_words group12250.txt > group12250.words
+
+group12260.words: count_words group12260.txt
+	perl count_words group12260.txt > group12260.words
+
+group12270.words: count_words group12270.txt
+	perl count_words group12270.txt > group12270.words
+
+group12280.words: count_words group12280.txt
+	perl count_words group12280.txt > group12280.words
+
+group12290.words: count_words group12290.txt
+	perl count_words group12290.txt > group12290.words
+
+group12300.words: count_words group12300.txt
+	perl count_words group12300.txt > group12300.words
+
+group12310.words: count_words group12310.txt
+	perl count_words group12310.txt > group12310.words
+
+group12320.words: count_words group12320.txt
+	perl count_words group12320.txt > group12320.words
+
+top100.words: combine_count group0.words group10.words group20.words group30.words group40.words group50.words group60.words group70.words group80.words group90.words group100.words group110.words group120.words group130.words group140.words group150.words group160.words group170.words group180.words group190.words group200.words group210.words group220.words group230.words group240.words group250.words group260.words group270.words group280.words group290.words group300.words group310.words group320.words group330.words group340.words group350.words group360.words group370.words group380.words group390.words group400.words group410.words group420.words group430.words group440.words group450.words group460.words group470.words group480.words group490.words group500.words group510.words group520.words group530.words group540.words group550.words group560.words group570.words group580.words group590.words group600.words group610.words group620.words group630.words group640.words group650.words group660.words group670.words group680.words group690.words group700.words group710.words group720.words group730.words group740.words group750.words group760.words group770.words group780.words group790.words group800.words group810.words group820.words group830.words group840.words group850.words group860.words group870.words group880.words group890.words group900.words group910.words group920.words group930.words group940.words group950.words group960.words group970.words group980.words group990.words group1000.words group1010.words group1020.words group1030.words group1040.words group1050.words group1060.words group1070.words group1080.words group1090.words group1100.words group1110.words group1120.words group1130.words group1140.words group1150.words group1160.words group1170.words group1180.words group1190.words group1200.words group1210.words group1220.words group1230.words group1240.words group1250.words group1260.words group1270.words group1280.words group1290.words group1300.words group1310.words group1320.words group1330.words group1340.words group1350.words group1360.words group1370.words group1380.words group1390.words group1400.words group1410.words group1420.words group1430.words group1440.words group1450.words group1460.words group1470.words group1480.words group1490.words group1500.words group1510.words group1520.words group1530.words group1540.words group1550.words group1560.words group1570.words group1580.words group1590.words group1600.words group1610.words group1620.words group1630.words group1640.words group1650.words group1660.words group1670.words group1680.words group1690.words group1700.words group1710.words group1720.words group1730.words group1740.words group1750.words group1760.words group1770.words group1780.words group1790.words group1800.words group1810.words group1820.words group1830.words group1840.words group1850.words group1860.words group1870.words group1880.words group1890.words group1900.words group1910.words group1920.words group1930.words group1940.words group1950.words group1960.words group1970.words group1980.words group1990.words group2000.words group2010.words group2020.words group2030.words group2040.words group2050.words group2060.words group2070.words group2080.words group2090.words group2100.words group2110.words group2120.words group2130.words group2140.words group2150.words group2160.words group2170.words group2180.words group2190.words group2200.words group2210.words group2220.words group2230.words group2240.words group2250.words group2260.words group2270.words group2280.words group2290.words group2300.words group2310.words group2320.words group2330.words group2340.words group2350.words group2360.words group2370.words group2380.words group2390.words group2400.words group2410.words group2420.words group2430.words group2440.words group2450.words group2460.words group2470.words group2480.words group2490.words group2500.words group2510.words group2520.words group2530.words group2540.words group2550.words group2560.words group2570.words group2580.words group2590.words group2600.words group2610.words group2620.words group2630.words group2640.words group2650.words group2660.words group2670.words group2680.words group2690.words group2700.words group2710.words group2720.words group2730.words group2740.words group2750.words group2760.words group2770.words group2780.words group2790.words group2800.words group2810.words group2820.words group2830.words group2840.words group2850.words group2860.words group2870.words group2880.words group2890.words group2900.words group2910.words group2920.words group2930.words group2940.words group2950.words group2960.words group2970.words group2980.words group2990.words group3000.words group3010.words group3020.words group3030.words group3040.words group3050.words group3060.words group3070.words group3080.words group3090.words group3100.words group3110.words group3120.words group3130.words group3140.words group3150.words group3160.words group3170.words group3180.words group3190.words group3200.words group3210.words group3220.words group3230.words group3240.words group3250.words group3260.words group3270.words group3280.words group3290.words group3300.words group3310.words group3320.words group3330.words group3340.words group3350.words group3360.words group3370.words group3380.words group3390.words group3400.words group3410.words group3420.words group3430.words group3440.words group3450.words group3460.words group3470.words group3480.words group3490.words group3500.words group3510.words group3520.words group3530.words group3540.words group3550.words group3560.words group3570.words group3580.words group3590.words group3600.words group3610.words group3620.words group3630.words group3640.words group3650.words group3660.words group3670.words group3680.words group3690.words group3700.words group3710.words group3720.words group3730.words group3740.words group3750.words group3760.words group3770.words group3780.words group3790.words group3800.words group3810.words group3820.words group3830.words group3840.words group3850.words group3860.words group3870.words group3880.words group3890.words group3900.words group3910.words group3920.words group3930.words group3940.words group3950.words group3960.words group3970.words group3980.words group3990.words group4000.words group4010.words group4020.words group4030.words group4040.words group4050.words group4060.words group4070.words group4080.words group4090.words group4100.words group4110.words group4120.words group4130.words group4140.words group4150.words group4160.words group4170.words group4180.words group4190.words group4200.words group4210.words group4220.words group4230.words group4240.words group4250.words group4260.words group4270.words group4280.words group4290.words group4300.words group4310.words group4320.words group4330.words group4340.words group4350.words group4360.words group4370.words group4380.words group4390.words group4400.words group4410.words group4420.words group4430.words group4440.words group4450.words group4460.words group4470.words group4480.words group4490.words group4500.words group4510.words group4520.words group4530.words group4540.words group4550.words group4560.words group4570.words group4580.words group4590.words group4600.words group4610.words group4620.words group4630.words group4640.words group4650.words group4660.words group4670.words group4680.words group4690.words group4700.words group4710.words group4720.words group4730.words group4740.words group4750.words group4760.words group4770.words group4780.words group4790.words group4800.words group4810.words group4820.words group4830.words group4840.words group4850.words group4860.words group4870.words group4880.words group4890.words group4900.words group4910.words group4920.words group4930.words group4940.words group4950.words group4960.words group4970.words group4980.words group4990.words group5000.words group5010.words group5020.words group5030.words group5040.words group5050.words group5060.words group5070.words group5080.words group5090.words group5100.words group5110.words group5120.words group5130.words group5140.words group5150.words group5160.words group5170.words group5180.words group5190.words group5200.words group5210.words group5220.words group5230.words group5240.words group5250.words group5260.words group5270.words group5280.words group5290.words group5300.words group5310.words group5320.words group5330.words group5340.words group5350.words group5360.words group5370.words group5380.words group5390.words group5400.words group5410.words group5420.words group5430.words group5440.words group5450.words group5460.words group5470.words group5480.words group5490.words group5500.words group5510.words group5520.words group5530.words group5540.words group5550.words group5560.words group5570.words group5580.words group5590.words group5600.words group5610.words group5620.words group5630.words group5640.words group5650.words group5660.words group5670.words group5680.words group5690.words group5700.words group5710.words group5720.words group5730.words group5740.words group5750.words group5760.words group5770.words group5780.words group5790.words group5800.words group5810.words group5820.words group5830.words group5840.words group5850.words group5860.words group5870.words group5880.words group5890.words group5900.words group5910.words group5920.words group5930.words group5940.words group5950.words group5960.words group5970.words group5980.words group5990.words group6000.words group6010.words group6020.words group6030.words group6040.words group6050.words group6060.words group6070.words group6080.words group6090.words group6100.words group6110.words group6120.words group6130.words group6140.words group6150.words group6160.words group6170.words group6180.words group6190.words group6200.words group6210.words group6220.words group6230.words group6240.words group6250.words group6260.words group6270.words group6280.words group6290.words group6300.words group6310.words group6320.words group6330.words group6340.words group6350.words group6360.words group6370.words group6380.words group6390.words group6400.words group6410.words group6420.words group6430.words group6440.words group6450.words group6460.words group6470.words group6480.words group6490.words group6500.words group6510.words group6520.words group6530.words group6540.words group6550.words group6560.words group6570.words group6580.words group6590.words group6600.words group6610.words group6620.words group6630.words group6640.words group6650.words group6660.words group6670.words group6680.words group6690.words group6700.words group6710.words group6720.words group6730.words group6740.words group6750.words group6760.words group6770.words group6780.words group6790.words group6800.words group6810.words group6820.words group6830.words group6840.words group6850.words group6860.words group6870.words group6880.words group6890.words group6900.words group6910.words group6920.words group6930.words group6940.words group6950.words group6960.words group6970.words group6980.words group6990.words group7000.words group7010.words group7020.words group7030.words group7040.words group7050.words group7060.words group7070.words group7080.words group7090.words group7100.words group7110.words group7120.words group7130.words group7140.words group7150.words group7160.words group7170.words group7180.words group7190.words group7200.words group7210.words group7220.words group7230.words group7240.words group7250.words group7260.words group7270.words group7280.words group7290.words group7300.words group7310.words group7320.words group7330.words group7340.words group7350.words group7360.words group7370.words group7380.words group7390.words group7400.words group7410.words group7420.words group7430.words group7440.words group7450.words group7460.words group7470.words group7480.words group7490.words group7500.words group7510.words group7520.words group7530.words group7540.words group7550.words group7560.words group7570.words group7580.words group7590.words group7600.words group7610.words group7620.words group7630.words group7640.words group7650.words group7660.words group7670.words group7680.words group7690.words group7700.words group7710.words group7720.words group7730.words group7740.words group7750.words group7760.words group7770.words group7780.words group7790.words group7800.words group7810.words group7820.words group7830.words group7840.words group7850.words group7860.words group7870.words group7880.words group7890.words group7900.words group7910.words group7920.words group7930.words group7940.words group7950.words group7960.words group7970.words group7980.words group7990.words group8000.words group8010.words group8020.words group8030.words group8040.words group8050.words group8060.words group8070.words group8080.words group8090.words group8100.words group8110.words group8120.words group8130.words group8140.words group8150.words group8160.words group8170.words group8180.words group8190.words group8200.words group8210.words group8220.words group8230.words group8240.words group8250.words group8260.words group8270.words group8280.words group8290.words group8300.words group8310.words group8320.words group8330.words group8340.words group8350.words group8360.words group8370.words group8380.words group8390.words group8400.words group8410.words group8420.words group8430.words group8440.words group8450.words group8460.words group8470.words group8480.words group8490.words group8500.words group8510.words group8520.words group8530.words group8540.words group8550.words group8560.words group8570.words group8580.words group8590.words group8600.words group8610.words group8620.words group8630.words group8640.words group8650.words group8660.words group8670.words group8680.words group8690.words group8700.words group8710.words group8720.words group8730.words group8740.words group8750.words group8760.words group8770.words group8780.words group8790.words group8800.words group8810.words group8820.words group8830.words group8840.words group8850.words group8860.words group8870.words group8880.words group8890.words group8900.words group8910.words group8920.words group8930.words group8940.words group8950.words group8960.words group8970.words group8980.words group8990.words group9000.words group9010.words group9020.words group9030.words group9040.words group9050.words group9060.words group9070.words group9080.words group9090.words group9100.words group9110.words group9120.words group9130.words group9140.words group9150.words group9160.words group9170.words group9180.words group9190.words group9200.words group9210.words group9220.words group9230.words group9240.words group9250.words group9260.words group9270.words group9280.words group9290.words group9300.words group9310.words group9320.words group9330.words group9340.words group9350.words group9360.words group9370.words group9380.words group9390.words group9400.words group9410.words group9420.words group9430.words group9440.words group9450.words group9460.words group9470.words group9480.words group9490.words group9500.words group9510.words group9520.words group9530.words group9540.words group9550.words group9560.words group9570.words group9580.words group9590.words group9600.words group9610.words group9620.words group9630.words group9640.words group9650.words group9660.words group9670.words group9680.words group9690.words group9700.words group9710.words group9720.words group9730.words group9740.words group9750.words group9760.words group9770.words group9780.words group9790.words group9800.words group9810.words group9820.words group9830.words group9840.words group9850.words group9860.words group9870.words group9880.words group9890.words group9900.words group9910.words group9920.words group9930.words group9940.words group9950.words group9960.words group9970.words group9980.words group9990.words group10000.words group10010.words group10020.words group10030.words group10040.words group10050.words group10060.words group10070.words group10080.words group10090.words group10100.words group10110.words group10120.words group10130.words group10140.words group10150.words group10160.words group10170.words group10180.words group10190.words group10200.words group10210.words group10220.words group10230.words group10240.words group10250.words group10260.words group10270.words group10280.words group10290.words group10300.words group10310.words group10320.words group10330.words group10340.words group10350.words group10360.words group10370.words group10380.words group10390.words group10400.words group10410.words group10420.words group10430.words group10440.words group10450.words group10460.words group10470.words group10480.words group10490.words group10500.words group10510.words group10520.words group10530.words group10540.words group10550.words group10560.words group10570.words group10580.words group10590.words group10600.words group10610.words group10620.words group10630.words group10640.words group10650.words group10660.words group10670.words group10680.words group10690.words group10700.words group10710.words group10720.words group10730.words group10740.words group10750.words group10760.words group10770.words group10780.words group10790.words group10800.words group10810.words group10820.words group10830.words group10840.words group10850.words group10860.words group10870.words group10880.words group10890.words group10900.words group10910.words group10920.words group10930.words group10940.words group10950.words group10960.words group10970.words group10980.words group10990.words group11000.words group11010.words group11020.words group11030.words group11040.words group11050.words group11060.words group11070.words group11080.words group11090.words group11100.words group11110.words group11120.words group11130.words group11140.words group11150.words group11160.words group11170.words group11180.words group11190.words group11200.words group11210.words group11220.words group11230.words group11240.words group11250.words group11260.words group11270.words group11280.words group11290.words group11300.words group11310.words group11320.words group11330.words group11340.words group11350.words group11360.words group11370.words group11380.words group11390.words group11400.words group11410.words group11420.words group11430.words group11440.words group11450.words group11460.words group11470.words group11480.words group11490.words group11500.words group11510.words group11520.words group11530.words group11540.words group11550.words group11560.words group11570.words group11580.words group11590.words group11600.words group11610.words group11620.words group11630.words group11640.words group11650.words group11660.words group11670.words group11680.words group11690.words group11700.words group11710.words group11720.words group11730.words group11740.words group11750.words group11760.words group11770.words group11780.words group11790.words group11800.words group11810.words group11820.words group11830.words group11840.words group11850.words group11860.words group11870.words group11880.words group11890.words group11900.words group11910.words group11920.words group11930.words group11940.words group11950.words group11960.words group11970.words group11980.words group11990.words group12000.words group12010.words group12020.words group12030.words group12040.words group12050.words group12060.words group12070.words group12080.words group12090.words group12100.words group12110.words group12120.words group12130.words group12140.words group12150.words group12160.words group12170.words group12180.words group12190.words group12200.words group12210.words group12220.words group12230.words group12240.words group12250.words group12260.words group12270.words group12280.words group12290.words group12300.words group12310.words group12320.words
+	LOCAL perl combine_count group0.words group10.words group20.words group30.words group40.words group50.words group60.words group70.words group80.words group90.words group100.words group110.words group120.words group130.words group140.words group150.words group160.words group170.words group180.words group190.words group200.words group210.words group220.words group230.words group240.words group250.words group260.words group270.words group280.words group290.words group300.words group310.words group320.words group330.words group340.words group350.words group360.words group370.words group380.words group390.words group400.words group410.words group420.words group430.words group440.words group450.words group460.words group470.words group480.words group490.words group500.words group510.words group520.words group530.words group540.words group550.words group560.words group570.words group580.words group590.words group600.words group610.words group620.words group630.words group640.words group650.words group660.words group670.words group680.words group690.words group700.words group710.words group720.words group730.words group740.words group750.words group760.words group770.words group780.words group790.words group800.words group810.words group820.words group830.words group840.words group850.words group860.words group870.words group880.words group890.words group900.words group910.words group920.words group930.words group940.words group950.words group960.words group970.words group980.words group990.words group1000.words group1010.words group1020.words group1030.words group1040.words group1050.words group1060.words group1070.words group1080.words group1090.words group1100.words group1110.words group1120.words group1130.words group1140.words group1150.words group1160.words group1170.words group1180.words group1190.words group1200.words group1210.words group1220.words group1230.words group1240.words group1250.words group1260.words group1270.words group1280.words group1290.words group1300.words group1310.words group1320.words group1330.words group1340.words group1350.words group1360.words group1370.words group1380.words group1390.words group1400.words group1410.words group1420.words group1430.words group1440.words group1450.words group1460.words group1470.words group1480.words group1490.words group1500.words group1510.words group1520.words group1530.words group1540.words group1550.words group1560.words group1570.words group1580.words group1590.words group1600.words group1610.words group1620.words group1630.words group1640.words group1650.words group1660.words group1670.words group1680.words group1690.words group1700.words group1710.words group1720.words group1730.words group1740.words group1750.words group1760.words group1770.words group1780.words group1790.words group1800.words group1810.words group1820.words group1830.words group1840.words group1850.words group1860.words group1870.words group1880.words group1890.words group1900.words group1910.words group1920.words group1930.words group1940.words group1950.words group1960.words group1970.words group1980.words group1990.words group2000.words group2010.words group2020.words group2030.words group2040.words group2050.words group2060.words group2070.words group2080.words group2090.words group2100.words group2110.words group2120.words group2130.words group2140.words group2150.words group2160.words group2170.words group2180.words group2190.words group2200.words group2210.words group2220.words group2230.words group2240.words group2250.words group2260.words group2270.words group2280.words group2290.words group2300.words group2310.words group2320.words group2330.words group2340.words group2350.words group2360.words group2370.words group2380.words group2390.words group2400.words group2410.words group2420.words group2430.words group2440.words group2450.words group2460.words group2470.words group2480.words group2490.words group2500.words group2510.words group2520.words group2530.words group2540.words group2550.words group2560.words group2570.words group2580.words group2590.words group2600.words group2610.words group2620.words group2630.words group2640.words group2650.words group2660.words group2670.words group2680.words group2690.words group2700.words group2710.words group2720.words group2730.words group2740.words group2750.words group2760.words group2770.words group2780.words group2790.words group2800.words group2810.words group2820.words group2830.words group2840.words group2850.words group2860.words group2870.words group2880.words group2890.words group2900.words group2910.words group2920.words group2930.words group2940.words group2950.words group2960.words group2970.words group2980.words group2990.words group3000.words group3010.words group3020.words group3030.words group3040.words group3050.words group3060.words group3070.words group3080.words group3090.words group3100.words group3110.words group3120.words group3130.words group3140.words group3150.words group3160.words group3170.words group3180.words group3190.words group3200.words group3210.words group3220.words group3230.words group3240.words group3250.words group3260.words group3270.words group3280.words group3290.words group3300.words group3310.words group3320.words group3330.words group3340.words group3350.words group3360.words group3370.words group3380.words group3390.words group3400.words group3410.words group3420.words group3430.words group3440.words group3450.words group3460.words group3470.words group3480.words group3490.words group3500.words group3510.words group3520.words group3530.words group3540.words group3550.words group3560.words group3570.words group3580.words group3590.words group3600.words group3610.words group3620.words group3630.words group3640.words group3650.words group3660.words group3670.words group3680.words group3690.words group3700.words group3710.words group3720.words group3730.words group3740.words group3750.words group3760.words group3770.words group3780.words group3790.words group3800.words group3810.words group3820.words group3830.words group3840.words group3850.words group3860.words group3870.words group3880.words group3890.words group3900.words group3910.words group3920.words group3930.words group3940.words group3950.words group3960.words group3970.words group3980.words group3990.words group4000.words group4010.words group4020.words group4030.words group4040.words group4050.words group4060.words group4070.words group4080.words group4090.words group4100.words group4110.words group4120.words group4130.words group4140.words group4150.words group4160.words group4170.words group4180.words group4190.words group4200.words group4210.words group4220.words group4230.words group4240.words group4250.words group4260.words group4270.words group4280.words group4290.words group4300.words group4310.words group4320.words group4330.words group4340.words group4350.words group4360.words group4370.words group4380.words group4390.words group4400.words group4410.words group4420.words group4430.words group4440.words group4450.words group4460.words group4470.words group4480.words group4490.words group4500.words group4510.words group4520.words group4530.words group4540.words group4550.words group4560.words group4570.words group4580.words group4590.words group4600.words group4610.words group4620.words group4630.words group4640.words group4650.words group4660.words group4670.words group4680.words group4690.words group4700.words group4710.words group4720.words group4730.words group4740.words group4750.words group4760.words group4770.words group4780.words group4790.words group4800.words group4810.words group4820.words group4830.words group4840.words group4850.words group4860.words group4870.words group4880.words group4890.words group4900.words group4910.words group4920.words group4930.words group4940.words group4950.words group4960.words group4970.words group4980.words group4990.words group5000.words group5010.words group5020.words group5030.words group5040.words group5050.words group5060.words group5070.words group5080.words group5090.words group5100.words group5110.words group5120.words group5130.words group5140.words group5150.words group5160.words group5170.words group5180.words group5190.words group5200.words group5210.words group5220.words group5230.words group5240.words group5250.words group5260.words group5270.words group5280.words group5290.words group5300.words group5310.words group5320.words group5330.words group5340.words group5350.words group5360.words group5370.words group5380.words group5390.words group5400.words group5410.words group5420.words group5430.words group5440.words group5450.words group5460.words group5470.words group5480.words group5490.words group5500.words group5510.words group5520.words group5530.words group5540.words group5550.words group5560.words group5570.words group5580.words group5590.words group5600.words group5610.words group5620.words group5630.words group5640.words group5650.words group5660.words group5670.words group5680.words group5690.words group5700.words group5710.words group5720.words group5730.words group5740.words group5750.words group5760.words group5770.words group5780.words group5790.words group5800.words group5810.words group5820.words group5830.words group5840.words group5850.words group5860.words group5870.words group5880.words group5890.words group5900.words group5910.words group5920.words group5930.words group5940.words group5950.words group5960.words group5970.words group5980.words group5990.words group6000.words group6010.words group6020.words group6030.words group6040.words group6050.words group6060.words group6070.words group6080.words group6090.words group6100.words group6110.words group6120.words group6130.words group6140.words group6150.words group6160.words group6170.words group6180.words group6190.words group6200.words group6210.words group6220.words group6230.words group6240.words group6250.words group6260.words group6270.words group6280.words group6290.words group6300.words group6310.words group6320.words group6330.words group6340.words group6350.words group6360.words group6370.words group6380.words group6390.words group6400.words group6410.words group6420.words group6430.words group6440.words group6450.words group6460.words group6470.words group6480.words group6490.words group6500.words group6510.words group6520.words group6530.words group6540.words group6550.words group6560.words group6570.words group6580.words group6590.words group6600.words group6610.words group6620.words group6630.words group6640.words group6650.words group6660.words group6670.words group6680.words group6690.words group6700.words group6710.words group6720.words group6730.words group6740.words group6750.words group6760.words group6770.words group6780.words group6790.words group6800.words group6810.words group6820.words group6830.words group6840.words group6850.words group6860.words group6870.words group6880.words group6890.words group6900.words group6910.words group6920.words group6930.words group6940.words group6950.words group6960.words group6970.words group6980.words group6990.words group7000.words group7010.words group7020.words group7030.words group7040.words group7050.words group7060.words group7070.words group7080.words group7090.words group7100.words group7110.words group7120.words group7130.words group7140.words group7150.words group7160.words group7170.words group7180.words group7190.words group7200.words group7210.words group7220.words group7230.words group7240.words group7250.words group7260.words group7270.words group7280.words group7290.words group7300.words group7310.words group7320.words group7330.words group7340.words group7350.words group7360.words group7370.words group7380.words group7390.words group7400.words group7410.words group7420.words group7430.words group7440.words group7450.words group7460.words group7470.words group7480.words group7490.words group7500.words group7510.words group7520.words group7530.words group7540.words group7550.words group7560.words group7570.words group7580.words group7590.words group7600.words group7610.words group7620.words group7630.words group7640.words group7650.words group7660.words group7670.words group7680.words group7690.words group7700.words group7710.words group7720.words group7730.words group7740.words group7750.words group7760.words group7770.words group7780.words group7790.words group7800.words group7810.words group7820.words group7830.words group7840.words group7850.words group7860.words group7870.words group7880.words group7890.words group7900.words group7910.words group7920.words group7930.words group7940.words group7950.words group7960.words group7970.words group7980.words group7990.words group8000.words group8010.words group8020.words group8030.words group8040.words group8050.words group8060.words group8070.words group8080.words group8090.words group8100.words group8110.words group8120.words group8130.words group8140.words group8150.words group8160.words group8170.words group8180.words group8190.words group8200.words group8210.words group8220.words group8230.words group8240.words group8250.words group8260.words group8270.words group8280.words group8290.words group8300.words group8310.words group8320.words group8330.words group8340.words group8350.words group8360.words group8370.words group8380.words group8390.words group8400.words group8410.words group8420.words group8430.words group8440.words group8450.words group8460.words group8470.words group8480.words group8490.words group8500.words group8510.words group8520.words group8530.words group8540.words group8550.words group8560.words group8570.words group8580.words group8590.words group8600.words group8610.words group8620.words group8630.words group8640.words group8650.words group8660.words group8670.words group8680.words group8690.words group8700.words group8710.words group8720.words group8730.words group8740.words group8750.words group8760.words group8770.words group8780.words group8790.words group8800.words group8810.words group8820.words group8830.words group8840.words group8850.words group8860.words group8870.words group8880.words group8890.words group8900.words group8910.words group8920.words group8930.words group8940.words group8950.words group8960.words group8970.words group8980.words group8990.words group9000.words group9010.words group9020.words group9030.words group9040.words group9050.words group9060.words group9070.words group9080.words group9090.words group9100.words group9110.words group9120.words group9130.words group9140.words group9150.words group9160.words group9170.words group9180.words group9190.words group9200.words group9210.words group9220.words group9230.words group9240.words group9250.words group9260.words group9270.words group9280.words group9290.words group9300.words group9310.words group9320.words group9330.words group9340.words group9350.words group9360.words group9370.words group9380.words group9390.words group9400.words group9410.words group9420.words group9430.words group9440.words group9450.words group9460.words group9470.words group9480.words group9490.words group9500.words group9510.words group9520.words group9530.words group9540.words group9550.words group9560.words group9570.words group9580.words group9590.words group9600.words group9610.words group9620.words group9630.words group9640.words group9650.words group9660.words group9670.words group9680.words group9690.words group9700.words group9710.words group9720.words group9730.words group9740.words group9750.words group9760.words group9770.words group9780.words group9790.words group9800.words group9810.words group9820.words group9830.words group9840.words group9850.words group9860.words group9870.words group9880.words group9890.words group9900.words group9910.words group9920.words group9930.words group9940.words group9950.words group9960.words group9970.words group9980.words group9990.words group10000.words group10010.words group10020.words group10030.words group10040.words group10050.words group10060.words group10070.words group10080.words group10090.words group10100.words group10110.words group10120.words group10130.words group10140.words group10150.words group10160.words group10170.words group10180.words group10190.words group10200.words group10210.words group10220.words group10230.words group10240.words group10250.words group10260.words group10270.words group10280.words group10290.words group10300.words group10310.words group10320.words group10330.words group10340.words group10350.words group10360.words group10370.words group10380.words group10390.words group10400.words group10410.words group10420.words group10430.words group10440.words group10450.words group10460.words group10470.words group10480.words group10490.words group10500.words group10510.words group10520.words group10530.words group10540.words group10550.words group10560.words group10570.words group10580.words group10590.words group10600.words group10610.words group10620.words group10630.words group10640.words group10650.words group10660.words group10670.words group10680.words group10690.words group10700.words group10710.words group10720.words group10730.words group10740.words group10750.words group10760.words group10770.words group10780.words group10790.words group10800.words group10810.words group10820.words group10830.words group10840.words group10850.words group10860.words group10870.words group10880.words group10890.words group10900.words group10910.words group10920.words group10930.words group10940.words group10950.words group10960.words group10970.words group10980.words group10990.words group11000.words group11010.words group11020.words group11030.words group11040.words group11050.words group11060.words group11070.words group11080.words group11090.words group11100.words group11110.words group11120.words group11130.words group11140.words group11150.words group11160.words group11170.words group11180.words group11190.words group11200.words group11210.words group11220.words group11230.words group11240.words group11250.words group11260.words group11270.words group11280.words group11290.words group11300.words group11310.words group11320.words group11330.words group11340.words group11350.words group11360.words group11370.words group11380.words group11390.words group11400.words group11410.words group11420.words group11430.words group11440.words group11450.words group11460.words group11470.words group11480.words group11490.words group11500.words group11510.words group11520.words group11530.words group11540.words group11550.words group11560.words group11570.words group11580.words group11590.words group11600.words group11610.words group11620.words group11630.words group11640.words group11650.words group11660.words group11670.words group11680.words group11690.words group11700.words group11710.words group11720.words group11730.words group11740.words group11750.words group11760.words group11770.words group11780.words group11790.words group11800.words group11810.words group11820.words group11830.words group11840.words group11850.words group11860.words group11870.words group11880.words group11890.words group11900.words group11910.words group11920.words group11930.words group11940.words group11950.words group11960.words group11970.words group11980.words group11990.words group12000.words group12010.words group12020.words group12030.words group12040.words group12050.words group12060.words group12070.words group12080.words group12090.words group12100.words group12110.words group12120.words group12130.words group12140.words group12150.words group12160.words group12170.words group12180.words group12190.words group12200.words group12210.words group12220.words group12230.words group12240.words group12250.words group12260.words group12270.words group12280.words group12290.words group12300.words group12310.words group12320.words > top100.words
+

@@ -1,0 +1,747 @@
+1101555423223.out: swaligntool splits/1101555423223.fasta splits/1101555423223_rest.fasta
+	python3 swaligntool 1101555423223.fasta 1101555423223_rest.fasta > 1101555423223.out
+
+1101555423227.out: swaligntool splits/1101555423227.fasta splits/1101555423227_rest.fasta
+	python3 swaligntool 1101555423227.fasta 1101555423227_rest.fasta > 1101555423227.out
+
+1101555423239.out: swaligntool splits/1101555423239.fasta splits/1101555423239_rest.fasta
+	python3 swaligntool 1101555423239.fasta 1101555423239_rest.fasta > 1101555423239.out
+
+1101555423272.out: swaligntool splits/1101555423272.fasta splits/1101555423272_rest.fasta
+	python3 swaligntool 1101555423272.fasta 1101555423272_rest.fasta > 1101555423272.out
+
+1101555423799.out: swaligntool splits/1101555423799.fasta splits/1101555423799_rest.fasta
+	python3 swaligntool 1101555423799.fasta 1101555423799_rest.fasta > 1101555423799.out
+
+1101555423803.out: swaligntool splits/1101555423803.fasta splits/1101555423803_rest.fasta
+	python3 swaligntool 1101555423803.fasta 1101555423803_rest.fasta > 1101555423803.out
+
+1101555423815.out: swaligntool splits/1101555423815.fasta splits/1101555423815_rest.fasta
+	python3 swaligntool 1101555423815.fasta 1101555423815_rest.fasta > 1101555423815.out
+
+1101671565216.out: swaligntool splits/1101671565216.fasta splits/1101671565216_rest.fasta
+	python3 swaligntool 1101671565216.fasta 1101671565216_rest.fasta > 1101671565216.out
+
+1101671565239.out: swaligntool splits/1101671565239.fasta splits/1101671565239_rest.fasta
+	python3 swaligntool 1101671565239.fasta 1101671565239_rest.fasta > 1101671565239.out
+
+1101671565257.out: swaligntool splits/1101671565257.fasta splits/1101671565257_rest.fasta
+	python3 swaligntool 1101671565257.fasta 1101671565257_rest.fasta > 1101671565257.out
+
+1101671565431.out: swaligntool splits/1101671565431.fasta splits/1101671565431_rest.fasta
+	python3 swaligntool 1101671565431.fasta 1101671565431_rest.fasta > 1101671565431.out
+
+1101671565449.out: swaligntool splits/1101671565449.fasta splits/1101671565449_rest.fasta
+	python3 swaligntool 1101671565449.fasta 1101671565449_rest.fasta > 1101671565449.out
+
+1101671588441.out: swaligntool splits/1101671588441.fasta splits/1101671588441_rest.fasta
+	python3 swaligntool 1101671588441.fasta 1101671588441_rest.fasta > 1101671588441.out
+
+1101671589977.out: swaligntool splits/1101671589977.fasta splits/1101671589977_rest.fasta
+	python3 swaligntool 1101671589977.fasta 1101671589977_rest.fasta > 1101671589977.out
+
+1101671610328.out: swaligntool splits/1101671610328.fasta splits/1101671610328_rest.fasta
+	python3 swaligntool 1101671610328.fasta 1101671610328_rest.fasta > 1101671610328.out
+
+1101671610389.out: swaligntool splits/1101671610389.fasta splits/1101671610389_rest.fasta
+	python3 swaligntool 1101671610389.fasta 1101671610389_rest.fasta > 1101671610389.out
+
+1101671611288.out: swaligntool splits/1101671611288.fasta splits/1101671611288_rest.fasta
+	python3 swaligntool 1101671611288.fasta 1101671611288_rest.fasta > 1101671611288.out
+
+1101671611349.out: swaligntool splits/1101671611349.fasta splits/1101671611349_rest.fasta
+	python3 swaligntool 1101671611349.fasta 1101671611349_rest.fasta > 1101671611349.out
+
+1102140124697.out: swaligntool splits/1102140124697.fasta splits/1102140124697_rest.fasta
+	python3 swaligntool 1102140124697.fasta 1102140124697_rest.fasta > 1102140124697.out
+
+1102140124716.out: swaligntool splits/1102140124716.fasta splits/1102140124716_rest.fasta
+	python3 swaligntool 1102140124716.fasta 1102140124716_rest.fasta > 1102140124716.out
+
+1102140124738.out: swaligntool splits/1102140124738.fasta splits/1102140124738_rest.fasta
+	python3 swaligntool 1102140124738.fasta 1102140124738_rest.fasta > 1102140124738.out
+
+1102140124743.out: swaligntool splits/1102140124743.fasta splits/1102140124743_rest.fasta
+	python3 swaligntool 1102140124743.fasta 1102140124743_rest.fasta > 1102140124743.out
+
+1102140124763.out: swaligntool splits/1102140124763.fasta splits/1102140124763_rest.fasta
+	python3 swaligntool 1102140124763.fasta 1102140124763_rest.fasta > 1102140124763.out
+
+1102140129501.out: swaligntool splits/1102140129501.fasta splits/1102140129501_rest.fasta
+	python3 swaligntool 1102140129501.fasta 1102140129501_rest.fasta > 1102140129501.out
+
+1102140129514.out: swaligntool splits/1102140129514.fasta splits/1102140129514_rest.fasta
+	python3 swaligntool 1102140129514.fasta 1102140129514_rest.fasta > 1102140129514.out
+
+1102140129517.out: swaligntool splits/1102140129517.fasta splits/1102140129517_rest.fasta
+	python3 swaligntool 1102140129517.fasta 1102140129517_rest.fasta > 1102140129517.out
+
+1102140129549.out: swaligntool splits/1102140129549.fasta splits/1102140129549_rest.fasta
+	python3 swaligntool 1102140129549.fasta 1102140129549_rest.fasta > 1102140129549.out
+
+1102140129555.out: swaligntool splits/1102140129555.fasta splits/1102140129555_rest.fasta
+	python3 swaligntool 1102140129555.fasta 1102140129555_rest.fasta > 1102140129555.out
+
+1102140129581.out: swaligntool splits/1102140129581.fasta splits/1102140129581_rest.fasta
+	python3 swaligntool 1102140129581.fasta 1102140129581_rest.fasta > 1102140129581.out
+
+1102140130844.out: swaligntool splits/1102140130844.fasta splits/1102140130844_rest.fasta
+	python3 swaligntool 1102140130844.fasta 1102140130844_rest.fasta > 1102140130844.out
+
+1102140130879.out: swaligntool splits/1102140130879.fasta splits/1102140130879_rest.fasta
+	python3 swaligntool 1102140130879.fasta 1102140130879_rest.fasta > 1102140130879.out
+
+1102140131631.out: swaligntool splits/1102140131631.fasta splits/1102140131631_rest.fasta
+	python3 swaligntool 1102140131631.fasta 1102140131631_rest.fasta > 1102140131631.out
+
+1102140131643.out: swaligntool splits/1102140131643.fasta splits/1102140131643_rest.fasta
+	python3 swaligntool 1102140131643.fasta 1102140131643_rest.fasta > 1102140131643.out
+
+1102140132615.out: swaligntool splits/1102140132615.fasta splits/1102140132615_rest.fasta
+	python3 swaligntool 1102140132615.fasta 1102140132615_rest.fasta > 1102140132615.out
+
+1102140132618.out: swaligntool splits/1102140132618.fasta splits/1102140132618_rest.fasta
+	python3 swaligntool 1102140132618.fasta 1102140132618_rest.fasta > 1102140132618.out
+
+1102140132637.out: swaligntool splits/1102140132637.fasta splits/1102140132637_rest.fasta
+	python3 swaligntool 1102140132637.fasta 1102140132637_rest.fasta > 1102140132637.out
+
+1102140132648.out: swaligntool splits/1102140132648.fasta splits/1102140132648_rest.fasta
+	python3 swaligntool 1102140132648.fasta 1102140132648_rest.fasta > 1102140132648.out
+
+1102140133360.out: swaligntool splits/1102140133360.fasta splits/1102140133360_rest.fasta
+	python3 swaligntool 1102140133360.fasta 1102140133360_rest.fasta > 1102140133360.out
+
+1102140133404.out: swaligntool splits/1102140133404.fasta splits/1102140133404_rest.fasta
+	python3 swaligntool 1102140133404.fasta 1102140133404_rest.fasta > 1102140133404.out
+
+1102140135135.out: swaligntool splits/1102140135135.fasta splits/1102140135135_rest.fasta
+	python3 swaligntool 1102140135135.fasta 1102140135135_rest.fasta > 1102140135135.out
+
+1102140135138.out: swaligntool splits/1102140135138.fasta splits/1102140135138_rest.fasta
+	python3 swaligntool 1102140135138.fasta 1102140135138_rest.fasta > 1102140135138.out
+
+1102140137753.out: swaligntool splits/1102140137753.fasta splits/1102140137753_rest.fasta
+	python3 swaligntool 1102140137753.fasta 1102140137753_rest.fasta > 1102140137753.out
+
+1102140137804.out: swaligntool splits/1102140137804.fasta splits/1102140137804_rest.fasta
+	python3 swaligntool 1102140137804.fasta 1102140137804_rest.fasta > 1102140137804.out
+
+1102140137819.out: swaligntool splits/1102140137819.fasta splits/1102140137819_rest.fasta
+	python3 swaligntool 1102140137819.fasta 1102140137819_rest.fasta > 1102140137819.out
+
+1102140138938.out: swaligntool splits/1102140138938.fasta splits/1102140138938_rest.fasta
+	python3 swaligntool 1102140138938.fasta 1102140138938_rest.fasta > 1102140138938.out
+
+1102140140444.out: swaligntool splits/1102140140444.fasta splits/1102140140444_rest.fasta
+	python3 swaligntool 1102140140444.fasta 1102140140444_rest.fasta > 1102140140444.out
+
+1102140140451.out: swaligntool splits/1102140140451.fasta splits/1102140140451_rest.fasta
+	python3 swaligntool 1102140140451.fasta 1102140140451_rest.fasta > 1102140140451.out
+
+1102140140500.out: swaligntool splits/1102140140500.fasta splits/1102140140500_rest.fasta
+	python3 swaligntool 1102140140500.fasta 1102140140500_rest.fasta > 1102140140500.out
+
+1102140141008.out: swaligntool splits/1102140141008.fasta splits/1102140141008_rest.fasta
+	python3 swaligntool 1102140141008.fasta 1102140141008_rest.fasta > 1102140141008.out
+
+1102140141040.out: swaligntool splits/1102140141040.fasta splits/1102140141040_rest.fasta
+	python3 swaligntool 1102140141040.fasta 1102140141040_rest.fasta > 1102140141040.out
+
+1102140141087.out: swaligntool splits/1102140141087.fasta splits/1102140141087_rest.fasta
+	python3 swaligntool 1102140141087.fasta 1102140141087_rest.fasta > 1102140141087.out
+
+1102140142171.out: swaligntool splits/1102140142171.fasta splits/1102140142171_rest.fasta
+	python3 swaligntool 1102140142171.fasta 1102140142171_rest.fasta > 1102140142171.out
+
+1102140142209.out: swaligntool splits/1102140142209.fasta splits/1102140142209_rest.fasta
+	python3 swaligntool 1102140142209.fasta 1102140142209_rest.fasta > 1102140142209.out
+
+1102140142210.out: swaligntool splits/1102140142210.fasta splits/1102140142210_rest.fasta
+	python3 swaligntool 1102140142210.fasta 1102140142210_rest.fasta > 1102140142210.out
+
+1102140142222.out: swaligntool splits/1102140142222.fasta splits/1102140142222_rest.fasta
+	python3 swaligntool 1102140142222.fasta 1102140142222_rest.fasta > 1102140142222.out
+
+1102140143903.out: swaligntool splits/1102140143903.fasta splits/1102140143903_rest.fasta
+	python3 swaligntool 1102140143903.fasta 1102140143903_rest.fasta > 1102140143903.out
+
+1102140143965.out: swaligntool splits/1102140143965.fasta splits/1102140143965_rest.fasta
+	python3 swaligntool 1102140143965.fasta 1102140143965_rest.fasta > 1102140143965.out
+
+1102140143972.out: swaligntool splits/1102140143972.fasta splits/1102140143972_rest.fasta
+	python3 swaligntool 1102140143972.fasta 1102140143972_rest.fasta > 1102140143972.out
+
+1102140144678.out: swaligntool splits/1102140144678.fasta splits/1102140144678_rest.fasta
+	python3 swaligntool 1102140144678.fasta 1102140144678_rest.fasta > 1102140144678.out
+
+1102140144742.out: swaligntool splits/1102140144742.fasta splits/1102140144742_rest.fasta
+	python3 swaligntool 1102140144742.fasta 1102140144742_rest.fasta > 1102140144742.out
+
+1102140144746.out: swaligntool splits/1102140144746.fasta splits/1102140144746_rest.fasta
+	python3 swaligntool 1102140144746.fasta 1102140144746_rest.fasta > 1102140144746.out
+
+1102140154475.out: swaligntool splits/1102140154475.fasta splits/1102140154475_rest.fasta
+	python3 swaligntool 1102140154475.fasta 1102140154475_rest.fasta > 1102140154475.out
+
+1102140154482.out: swaligntool splits/1102140154482.fasta splits/1102140154482_rest.fasta
+	python3 swaligntool 1102140154482.fasta 1102140154482_rest.fasta > 1102140154482.out
+
+1102140154490.out: swaligntool splits/1102140154490.fasta splits/1102140154490_rest.fasta
+	python3 swaligntool 1102140154490.fasta 1102140154490_rest.fasta > 1102140154490.out
+
+1102140154513.out: swaligntool splits/1102140154513.fasta splits/1102140154513_rest.fasta
+	python3 swaligntool 1102140154513.fasta 1102140154513_rest.fasta > 1102140154513.out
+
+1102140160012.out: swaligntool splits/1102140160012.fasta splits/1102140160012_rest.fasta
+	python3 swaligntool 1102140160012.fasta 1102140160012_rest.fasta > 1102140160012.out
+
+1102140160018.out: swaligntool splits/1102140160018.fasta splits/1102140160018_rest.fasta
+	python3 swaligntool 1102140160018.fasta 1102140160018_rest.fasta > 1102140160018.out
+
+1102140160032.out: swaligntool splits/1102140160032.fasta splits/1102140160032_rest.fasta
+	python3 swaligntool 1102140160032.fasta 1102140160032_rest.fasta > 1102140160032.out
+
+1102140160052.out: swaligntool splits/1102140160052.fasta splits/1102140160052_rest.fasta
+	python3 swaligntool 1102140160052.fasta 1102140160052_rest.fasta > 1102140160052.out
+
+1102140160089.out: swaligntool splits/1102140160089.fasta splits/1102140160089_rest.fasta
+	python3 swaligntool 1102140160089.fasta 1102140160089_rest.fasta > 1102140160089.out
+
+1102140161172.out: swaligntool splits/1102140161172.fasta splits/1102140161172_rest.fasta
+	python3 swaligntool 1102140161172.fasta 1102140161172_rest.fasta > 1102140161172.out
+
+1102140161222.out: swaligntool splits/1102140161222.fasta splits/1102140161222_rest.fasta
+	python3 swaligntool 1102140161222.fasta 1102140161222_rest.fasta > 1102140161222.out
+
+1102140161368.out: swaligntool splits/1102140161368.fasta splits/1102140161368_rest.fasta
+	python3 swaligntool 1102140161368.fasta 1102140161368_rest.fasta > 1102140161368.out
+
+1102140161416.out: swaligntool splits/1102140161416.fasta splits/1102140161416_rest.fasta
+	python3 swaligntool 1102140161416.fasta 1102140161416_rest.fasta > 1102140161416.out
+
+1102140161424.out: swaligntool splits/1102140161424.fasta splits/1102140161424_rest.fasta
+	python3 swaligntool 1102140161424.fasta 1102140161424_rest.fasta > 1102140161424.out
+
+1102140161571.out: swaligntool splits/1102140161571.fasta splits/1102140161571_rest.fasta
+	python3 swaligntool 1102140161571.fasta 1102140161571_rest.fasta > 1102140161571.out
+
+1102140161579.out: swaligntool splits/1102140161579.fasta splits/1102140161579_rest.fasta
+	python3 swaligntool 1102140161579.fasta 1102140161579_rest.fasta > 1102140161579.out
+
+1102140161595.out: swaligntool splits/1102140161595.fasta splits/1102140161595_rest.fasta
+	python3 swaligntool 1102140161595.fasta 1102140161595_rest.fasta > 1102140161595.out
+
+1102140161615.out: swaligntool splits/1102140161615.fasta splits/1102140161615_rest.fasta
+	python3 swaligntool 1102140161615.fasta 1102140161615_rest.fasta > 1102140161615.out
+
+1102140161617.out: swaligntool splits/1102140161617.fasta splits/1102140161617_rest.fasta
+	python3 swaligntool 1102140161617.fasta 1102140161617_rest.fasta > 1102140161617.out
+
+1102140161628.out: swaligntool splits/1102140161628.fasta splits/1102140161628_rest.fasta
+	python3 swaligntool 1102140161628.fasta 1102140161628_rest.fasta > 1102140161628.out
+
+1102140161769.out: swaligntool splits/1102140161769.fasta splits/1102140161769_rest.fasta
+	python3 swaligntool 1102140161769.fasta 1102140161769_rest.fasta > 1102140161769.out
+
+1102140162121.out: swaligntool splits/1102140162121.fasta splits/1102140162121_rest.fasta
+	python3 swaligntool 1102140162121.fasta 1102140162121_rest.fasta > 1102140162121.out
+
+1102140162145.out: swaligntool splits/1102140162145.fasta splits/1102140162145_rest.fasta
+	python3 swaligntool 1102140162145.fasta 1102140162145_rest.fasta > 1102140162145.out
+
+1102140162184.out: swaligntool splits/1102140162184.fasta splits/1102140162184_rest.fasta
+	python3 swaligntool 1102140162184.fasta 1102140162184_rest.fasta > 1102140162184.out
+
+1102140162204.out: swaligntool splits/1102140162204.fasta splits/1102140162204_rest.fasta
+	python3 swaligntool 1102140162204.fasta 1102140162204_rest.fasta > 1102140162204.out
+
+1102140162503.out: swaligntool splits/1102140162503.fasta splits/1102140162503_rest.fasta
+	python3 swaligntool 1102140162503.fasta 1102140162503_rest.fasta > 1102140162503.out
+
+1102140162506.out: swaligntool splits/1102140162506.fasta splits/1102140162506_rest.fasta
+	python3 swaligntool 1102140162506.fasta 1102140162506_rest.fasta > 1102140162506.out
+
+1102140162577.out: swaligntool splits/1102140162577.fasta splits/1102140162577_rest.fasta
+	python3 swaligntool 1102140162577.fasta 1102140162577_rest.fasta > 1102140162577.out
+
+1102140162583.out: swaligntool splits/1102140162583.fasta splits/1102140162583_rest.fasta
+	python3 swaligntool 1102140162583.fasta 1102140162583_rest.fasta > 1102140162583.out
+
+1102140162937.out: swaligntool splits/1102140162937.fasta splits/1102140162937_rest.fasta
+	python3 swaligntool 1102140162937.fasta 1102140162937_rest.fasta > 1102140162937.out
+
+1102140162941.out: swaligntool splits/1102140162941.fasta splits/1102140162941_rest.fasta
+	python3 swaligntool 1102140162941.fasta 1102140162941_rest.fasta > 1102140162941.out
+
+1102140162969.out: swaligntool splits/1102140162969.fasta splits/1102140162969_rest.fasta
+	python3 swaligntool 1102140162969.fasta 1102140162969_rest.fasta > 1102140162969.out
+
+1102140162979.out: swaligntool splits/1102140162979.fasta splits/1102140162979_rest.fasta
+	python3 swaligntool 1102140162979.fasta 1102140162979_rest.fasta > 1102140162979.out
+
+1102140163486.out: swaligntool splits/1102140163486.fasta splits/1102140163486_rest.fasta
+	python3 swaligntool 1102140163486.fasta 1102140163486_rest.fasta > 1102140163486.out
+
+1102140163535.out: swaligntool splits/1102140163535.fasta splits/1102140163535_rest.fasta
+	python3 swaligntool 1102140163535.fasta 1102140163535_rest.fasta > 1102140163535.out
+
+1102140163550.out: swaligntool splits/1102140163550.fasta splits/1102140163550_rest.fasta
+	python3 swaligntool 1102140163550.fasta 1102140163550_rest.fasta > 1102140163550.out
+
+1102140163554.out: swaligntool splits/1102140163554.fasta splits/1102140163554_rest.fasta
+	python3 swaligntool 1102140163554.fasta 1102140163554_rest.fasta > 1102140163554.out
+
+1102140164073.out: swaligntool splits/1102140164073.fasta splits/1102140164073_rest.fasta
+	python3 swaligntool 1102140164073.fasta 1102140164073_rest.fasta > 1102140164073.out
+
+1102140164074.out: swaligntool splits/1102140164074.fasta splits/1102140164074_rest.fasta
+	python3 swaligntool 1102140164074.fasta 1102140164074_rest.fasta > 1102140164074.out
+
+1102140164080.out: swaligntool splits/1102140164080.fasta splits/1102140164080_rest.fasta
+	python3 swaligntool 1102140164080.fasta 1102140164080_rest.fasta > 1102140164080.out
+
+1102140164096.out: swaligntool splits/1102140164096.fasta splits/1102140164096_rest.fasta
+	python3 swaligntool 1102140164096.fasta 1102140164096_rest.fasta > 1102140164096.out
+
+1102140164099.out: swaligntool splits/1102140164099.fasta splits/1102140164099_rest.fasta
+	python3 swaligntool 1102140164099.fasta 1102140164099_rest.fasta > 1102140164099.out
+
+1102140164301.out: swaligntool splits/1102140164301.fasta splits/1102140164301_rest.fasta
+	python3 swaligntool 1102140164301.fasta 1102140164301_rest.fasta > 1102140164301.out
+
+1102140164627.out: swaligntool splits/1102140164627.fasta splits/1102140164627_rest.fasta
+	python3 swaligntool 1102140164627.fasta 1102140164627_rest.fasta > 1102140164627.out
+
+1102140164675.out: swaligntool splits/1102140164675.fasta splits/1102140164675_rest.fasta
+	python3 swaligntool 1102140164675.fasta 1102140164675_rest.fasta > 1102140164675.out
+
+1102140164681.out: swaligntool splits/1102140164681.fasta splits/1102140164681_rest.fasta
+	python3 swaligntool 1102140164681.fasta 1102140164681_rest.fasta > 1102140164681.out
+
+1102140165463.out: swaligntool splits/1102140165463.fasta splits/1102140165463_rest.fasta
+	python3 swaligntool 1102140165463.fasta 1102140165463_rest.fasta > 1102140165463.out
+
+1102140165471.out: swaligntool splits/1102140165471.fasta splits/1102140165471_rest.fasta
+	python3 swaligntool 1102140165471.fasta 1102140165471_rest.fasta > 1102140165471.out
+
+1102140165790.out: swaligntool splits/1102140165790.fasta splits/1102140165790_rest.fasta
+	python3 swaligntool 1102140165790.fasta 1102140165790_rest.fasta > 1102140165790.out
+
+1102140165842.out: swaligntool splits/1102140165842.fasta splits/1102140165842_rest.fasta
+	python3 swaligntool 1102140165842.fasta 1102140165842_rest.fasta > 1102140165842.out
+
+1102140165852.out: swaligntool splits/1102140165852.fasta splits/1102140165852_rest.fasta
+	python3 swaligntool 1102140165852.fasta 1102140165852_rest.fasta > 1102140165852.out
+
+1102140166375.out: swaligntool splits/1102140166375.fasta splits/1102140166375_rest.fasta
+	python3 swaligntool 1102140166375.fasta 1102140166375_rest.fasta > 1102140166375.out
+
+1102140166384.out: swaligntool splits/1102140166384.fasta splits/1102140166384_rest.fasta
+	python3 swaligntool 1102140166384.fasta 1102140166384_rest.fasta > 1102140166384.out
+
+1102140166391.out: swaligntool splits/1102140166391.fasta splits/1102140166391_rest.fasta
+	python3 swaligntool 1102140166391.fasta 1102140166391_rest.fasta > 1102140166391.out
+
+1102140166411.out: swaligntool splits/1102140166411.fasta splits/1102140166411_rest.fasta
+	python3 swaligntool 1102140166411.fasta 1102140166411_rest.fasta > 1102140166411.out
+
+1102140166415.out: swaligntool splits/1102140166415.fasta splits/1102140166415_rest.fasta
+	python3 swaligntool 1102140166415.fasta 1102140166415_rest.fasta > 1102140166415.out
+
+1102140166426.out: swaligntool splits/1102140166426.fasta splits/1102140166426_rest.fasta
+	python3 swaligntool 1102140166426.fasta 1102140166426_rest.fasta > 1102140166426.out
+
+1102140166435.out: swaligntool splits/1102140166435.fasta splits/1102140166435_rest.fasta
+	python3 swaligntool 1102140166435.fasta 1102140166435_rest.fasta > 1102140166435.out
+
+1102140166729.out: swaligntool splits/1102140166729.fasta splits/1102140166729_rest.fasta
+	python3 swaligntool 1102140166729.fasta 1102140166729_rest.fasta > 1102140166729.out
+
+1102140166738.out: swaligntool splits/1102140166738.fasta splits/1102140166738_rest.fasta
+	python3 swaligntool 1102140166738.fasta 1102140166738_rest.fasta > 1102140166738.out
+
+1102140166751.out: swaligntool splits/1102140166751.fasta splits/1102140166751_rest.fasta
+	python3 swaligntool 1102140166751.fasta 1102140166751_rest.fasta > 1102140166751.out
+
+1102140166766.out: swaligntool splits/1102140166766.fasta splits/1102140166766_rest.fasta
+	python3 swaligntool 1102140166766.fasta 1102140166766_rest.fasta > 1102140166766.out
+
+1102140166774.out: swaligntool splits/1102140166774.fasta splits/1102140166774_rest.fasta
+	python3 swaligntool 1102140166774.fasta 1102140166774_rest.fasta > 1102140166774.out
+
+1102140167117.out: swaligntool splits/1102140167117.fasta splits/1102140167117_rest.fasta
+	python3 swaligntool 1102140167117.fasta 1102140167117_rest.fasta > 1102140167117.out
+
+1102140167168.out: swaligntool splits/1102140167168.fasta splits/1102140167168_rest.fasta
+	python3 swaligntool 1102140167168.fasta 1102140167168_rest.fasta > 1102140167168.out
+
+1102140167645.out: swaligntool splits/1102140167645.fasta splits/1102140167645_rest.fasta
+	python3 swaligntool 1102140167645.fasta 1102140167645_rest.fasta > 1102140167645.out
+
+1102140167669.out: swaligntool splits/1102140167669.fasta splits/1102140167669_rest.fasta
+	python3 swaligntool 1102140167669.fasta 1102140167669_rest.fasta > 1102140167669.out
+
+1102140167717.out: swaligntool splits/1102140167717.fasta splits/1102140167717_rest.fasta
+	python3 swaligntool 1102140167717.fasta 1102140167717_rest.fasta > 1102140167717.out
+
+1102140168134.out: swaligntool splits/1102140168134.fasta splits/1102140168134_rest.fasta
+	python3 swaligntool 1102140168134.fasta 1102140168134_rest.fasta > 1102140168134.out
+
+1102140168142.out: swaligntool splits/1102140168142.fasta splits/1102140168142_rest.fasta
+	python3 swaligntool 1102140168142.fasta 1102140168142_rest.fasta > 1102140168142.out
+
+1102140168277.out: swaligntool splits/1102140168277.fasta splits/1102140168277_rest.fasta
+	python3 swaligntool 1102140168277.fasta 1102140168277_rest.fasta > 1102140168277.out
+
+1102140168319.out: swaligntool splits/1102140168319.fasta splits/1102140168319_rest.fasta
+	python3 swaligntool 1102140168319.fasta 1102140168319_rest.fasta > 1102140168319.out
+
+1102140168684.out: swaligntool splits/1102140168684.fasta splits/1102140168684_rest.fasta
+	python3 swaligntool 1102140168684.fasta 1102140168684_rest.fasta > 1102140168684.out
+
+1102140168893.out: swaligntool splits/1102140168893.fasta splits/1102140168893_rest.fasta
+	python3 swaligntool 1102140168893.fasta 1102140168893_rest.fasta > 1102140168893.out
+
+1102140168894.out: swaligntool splits/1102140168894.fasta splits/1102140168894_rest.fasta
+	python3 swaligntool 1102140168894.fasta 1102140168894_rest.fasta > 1102140168894.out
+
+1102140168901.out: swaligntool splits/1102140168901.fasta splits/1102140168901_rest.fasta
+	python3 swaligntool 1102140168901.fasta 1102140168901_rest.fasta > 1102140168901.out
+
+1102140169231.out: swaligntool splits/1102140169231.fasta splits/1102140169231_rest.fasta
+	python3 swaligntool 1102140169231.fasta 1102140169231_rest.fasta > 1102140169231.out
+
+1102140169286.out: swaligntool splits/1102140169286.fasta splits/1102140169286_rest.fasta
+	python3 swaligntool 1102140169286.fasta 1102140169286_rest.fasta > 1102140169286.out
+
+1102140169305.out: swaligntool splits/1102140169305.fasta splits/1102140169305_rest.fasta
+	python3 swaligntool 1102140169305.fasta 1102140169305_rest.fasta > 1102140169305.out
+
+1102140169308.out: swaligntool splits/1102140169308.fasta splits/1102140169308_rest.fasta
+	python3 swaligntool 1102140169308.fasta 1102140169308_rest.fasta > 1102140169308.out
+
+1102140169451.out: swaligntool splits/1102140169451.fasta splits/1102140169451_rest.fasta
+	python3 swaligntool 1102140169451.fasta 1102140169451_rest.fasta > 1102140169451.out
+
+1102140169455.out: swaligntool splits/1102140169455.fasta splits/1102140169455_rest.fasta
+	python3 swaligntool 1102140169455.fasta 1102140169455_rest.fasta > 1102140169455.out
+
+1102140169487.out: swaligntool splits/1102140169487.fasta splits/1102140169487_rest.fasta
+	python3 swaligntool 1102140169487.fasta 1102140169487_rest.fasta > 1102140169487.out
+
+1102140169612.out: swaligntool splits/1102140169612.fasta splits/1102140169612_rest.fasta
+	python3 swaligntool 1102140169612.fasta 1102140169612_rest.fasta > 1102140169612.out
+
+1102140169628.out: swaligntool splits/1102140169628.fasta splits/1102140169628_rest.fasta
+	python3 swaligntool 1102140169628.fasta 1102140169628_rest.fasta > 1102140169628.out
+
+1102140169646.out: swaligntool splits/1102140169646.fasta splits/1102140169646_rest.fasta
+	python3 swaligntool 1102140169646.fasta 1102140169646_rest.fasta > 1102140169646.out
+
+1102140169661.out: swaligntool splits/1102140169661.fasta splits/1102140169661_rest.fasta
+	python3 swaligntool 1102140169661.fasta 1102140169661_rest.fasta > 1102140169661.out
+
+1102140169832.out: swaligntool splits/1102140169832.fasta splits/1102140169832_rest.fasta
+	python3 swaligntool 1102140169832.fasta 1102140169832_rest.fasta > 1102140169832.out
+
+1102140169848.out: swaligntool splits/1102140169848.fasta splits/1102140169848_rest.fasta
+	python3 swaligntool 1102140169848.fasta 1102140169848_rest.fasta > 1102140169848.out
+
+1102140169856.out: swaligntool splits/1102140169856.fasta splits/1102140169856_rest.fasta
+	python3 swaligntool 1102140169856.fasta 1102140169856_rest.fasta > 1102140169856.out
+
+1102140169867.out: swaligntool splits/1102140169867.fasta splits/1102140169867_rest.fasta
+	python3 swaligntool 1102140169867.fasta 1102140169867_rest.fasta > 1102140169867.out
+
+1102140169874.out: swaligntool splits/1102140169874.fasta splits/1102140169874_rest.fasta
+	python3 swaligntool 1102140169874.fasta 1102140169874_rest.fasta > 1102140169874.out
+
+1102140169878.out: swaligntool splits/1102140169878.fasta splits/1102140169878_rest.fasta
+	python3 swaligntool 1102140169878.fasta 1102140169878_rest.fasta > 1102140169878.out
+
+1102140170200.out: swaligntool splits/1102140170200.fasta splits/1102140170200_rest.fasta
+	python3 swaligntool 1102140170200.fasta 1102140170200_rest.fasta > 1102140170200.out
+
+1102140170244.out: swaligntool splits/1102140170244.fasta splits/1102140170244_rest.fasta
+	python3 swaligntool 1102140170244.fasta 1102140170244_rest.fasta > 1102140170244.out
+
+1102140170253.out: swaligntool splits/1102140170253.fasta splits/1102140170253_rest.fasta
+	python3 swaligntool 1102140170253.fasta 1102140170253_rest.fasta > 1102140170253.out
+
+1102140170269.out: swaligntool splits/1102140170269.fasta splits/1102140170269_rest.fasta
+	python3 swaligntool 1102140170269.fasta 1102140170269_rest.fasta > 1102140170269.out
+
+1102140170594.out: swaligntool splits/1102140170594.fasta splits/1102140170594_rest.fasta
+	python3 swaligntool 1102140170594.fasta 1102140170594_rest.fasta > 1102140170594.out
+
+1102140170611.out: swaligntool splits/1102140170611.fasta splits/1102140170611_rest.fasta
+	python3 swaligntool 1102140170611.fasta 1102140170611_rest.fasta > 1102140170611.out
+
+1102140170632.out: swaligntool splits/1102140170632.fasta splits/1102140170632_rest.fasta
+	python3 swaligntool 1102140170632.fasta 1102140170632_rest.fasta > 1102140170632.out
+
+1102140170646.out: swaligntool splits/1102140170646.fasta splits/1102140170646_rest.fasta
+	python3 swaligntool 1102140170646.fasta 1102140170646_rest.fasta > 1102140170646.out
+
+1102140171178.out: swaligntool splits/1102140171178.fasta splits/1102140171178_rest.fasta
+	python3 swaligntool 1102140171178.fasta 1102140171178_rest.fasta > 1102140171178.out
+
+1102140171192.out: swaligntool splits/1102140171192.fasta splits/1102140171192_rest.fasta
+	python3 swaligntool 1102140171192.fasta 1102140171192_rest.fasta > 1102140171192.out
+
+1102140171212.out: swaligntool splits/1102140171212.fasta splits/1102140171212_rest.fasta
+	python3 swaligntool 1102140171212.fasta 1102140171212_rest.fasta > 1102140171212.out
+
+1102140171772.out: swaligntool splits/1102140171772.fasta splits/1102140171772_rest.fasta
+	python3 swaligntool 1102140171772.fasta 1102140171772_rest.fasta > 1102140171772.out
+
+1102140171813.out: swaligntool splits/1102140171813.fasta splits/1102140171813_rest.fasta
+	python3 swaligntool 1102140171813.fasta 1102140171813_rest.fasta > 1102140171813.out
+
+1102140172390.out: swaligntool splits/1102140172390.fasta splits/1102140172390_rest.fasta
+	python3 swaligntool 1102140172390.fasta 1102140172390_rest.fasta > 1102140172390.out
+
+1102140172407.out: swaligntool splits/1102140172407.fasta splits/1102140172407_rest.fasta
+	python3 swaligntool 1102140172407.fasta 1102140172407_rest.fasta > 1102140172407.out
+
+1102140172418.out: swaligntool splits/1102140172418.fasta splits/1102140172418_rest.fasta
+	python3 swaligntool 1102140172418.fasta 1102140172418_rest.fasta > 1102140172418.out
+
+1102140172508.out: swaligntool splits/1102140172508.fasta splits/1102140172508_rest.fasta
+	python3 swaligntool 1102140172508.fasta 1102140172508_rest.fasta > 1102140172508.out
+
+1102140172511.out: swaligntool splits/1102140172511.fasta splits/1102140172511_rest.fasta
+	python3 swaligntool 1102140172511.fasta 1102140172511_rest.fasta > 1102140172511.out
+
+1102140172528.out: swaligntool splits/1102140172528.fasta splits/1102140172528_rest.fasta
+	python3 swaligntool 1102140172528.fasta 1102140172528_rest.fasta > 1102140172528.out
+
+1102140172678.out: swaligntool splits/1102140172678.fasta splits/1102140172678_rest.fasta
+	python3 swaligntool 1102140172678.fasta 1102140172678_rest.fasta > 1102140172678.out
+
+1102140172737.out: swaligntool splits/1102140172737.fasta splits/1102140172737_rest.fasta
+	python3 swaligntool 1102140172737.fasta 1102140172737_rest.fasta > 1102140172737.out
+
+1102140172741.out: swaligntool splits/1102140172741.fasta splits/1102140172741_rest.fasta
+	python3 swaligntool 1102140172741.fasta 1102140172741_rest.fasta > 1102140172741.out
+
+1102140172759.out: swaligntool splits/1102140172759.fasta splits/1102140172759_rest.fasta
+	python3 swaligntool 1102140172759.fasta 1102140172759_rest.fasta > 1102140172759.out
+
+1102140172772.out: swaligntool splits/1102140172772.fasta splits/1102140172772_rest.fasta
+	python3 swaligntool 1102140172772.fasta 1102140172772_rest.fasta > 1102140172772.out
+
+1102140172941.out: swaligntool splits/1102140172941.fasta splits/1102140172941_rest.fasta
+	python3 swaligntool 1102140172941.fasta 1102140172941_rest.fasta > 1102140172941.out
+
+1102140173084.out: swaligntool splits/1102140173084.fasta splits/1102140173084_rest.fasta
+	python3 swaligntool 1102140173084.fasta 1102140173084_rest.fasta > 1102140173084.out
+
+1102140173115.out: swaligntool splits/1102140173115.fasta splits/1102140173115_rest.fasta
+	python3 swaligntool 1102140173115.fasta 1102140173115_rest.fasta > 1102140173115.out
+
+1102140173136.out: swaligntool splits/1102140173136.fasta splits/1102140173136_rest.fasta
+	python3 swaligntool 1102140173136.fasta 1102140173136_rest.fasta > 1102140173136.out
+
+1102140173137.out: swaligntool splits/1102140173137.fasta splits/1102140173137_rest.fasta
+	python3 swaligntool 1102140173137.fasta 1102140173137_rest.fasta > 1102140173137.out
+
+1102140173145.out: swaligntool splits/1102140173145.fasta splits/1102140173145_rest.fasta
+	python3 swaligntool 1102140173145.fasta 1102140173145_rest.fasta > 1102140173145.out
+
+1102140173269.out: swaligntool splits/1102140173269.fasta splits/1102140173269_rest.fasta
+	python3 swaligntool 1102140173269.fasta 1102140173269_rest.fasta > 1102140173269.out
+
+1102140173279.out: swaligntool splits/1102140173279.fasta splits/1102140173279_rest.fasta
+	python3 swaligntool 1102140173279.fasta 1102140173279_rest.fasta > 1102140173279.out
+
+1102140173301.out: swaligntool splits/1102140173301.fasta splits/1102140173301_rest.fasta
+	python3 swaligntool 1102140173301.fasta 1102140173301_rest.fasta > 1102140173301.out
+
+1102140173886.out: swaligntool splits/1102140173886.fasta splits/1102140173886_rest.fasta
+	python3 swaligntool 1102140173886.fasta 1102140173886_rest.fasta > 1102140173886.out
+
+1102140173901.out: swaligntool splits/1102140173901.fasta splits/1102140173901_rest.fasta
+	python3 swaligntool 1102140173901.fasta 1102140173901_rest.fasta > 1102140173901.out
+
+1102140174027.out: swaligntool splits/1102140174027.fasta splits/1102140174027_rest.fasta
+	python3 swaligntool 1102140174027.fasta 1102140174027_rest.fasta > 1102140174027.out
+
+1102140174613.out: swaligntool splits/1102140174613.fasta splits/1102140174613_rest.fasta
+	python3 swaligntool 1102140174613.fasta 1102140174613_rest.fasta > 1102140174613.out
+
+1102140174691.out: swaligntool splits/1102140174691.fasta splits/1102140174691_rest.fasta
+	python3 swaligntool 1102140174691.fasta 1102140174691_rest.fasta > 1102140174691.out
+
+1102140174810.out: swaligntool splits/1102140174810.fasta splits/1102140174810_rest.fasta
+	python3 swaligntool 1102140174810.fasta 1102140174810_rest.fasta > 1102140174810.out
+
+1102140175057.out: swaligntool splits/1102140175057.fasta splits/1102140175057_rest.fasta
+	python3 swaligntool 1102140175057.fasta 1102140175057_rest.fasta > 1102140175057.out
+
+1102140175227.out: swaligntool splits/1102140175227.fasta splits/1102140175227_rest.fasta
+	python3 swaligntool 1102140175227.fasta 1102140175227_rest.fasta > 1102140175227.out
+
+1102140175431.out: swaligntool splits/1102140175431.fasta splits/1102140175431_rest.fasta
+	python3 swaligntool 1102140175431.fasta 1102140175431_rest.fasta > 1102140175431.out
+
+1102140175432.out: swaligntool splits/1102140175432.fasta splits/1102140175432_rest.fasta
+	python3 swaligntool 1102140175432.fasta 1102140175432_rest.fasta > 1102140175432.out
+
+1102140175436.out: swaligntool splits/1102140175436.fasta splits/1102140175436_rest.fasta
+	python3 swaligntool 1102140175436.fasta 1102140175436_rest.fasta > 1102140175436.out
+
+1102140175438.out: swaligntool splits/1102140175438.fasta splits/1102140175438_rest.fasta
+	python3 swaligntool 1102140175438.fasta 1102140175438_rest.fasta > 1102140175438.out
+
+1102140175595.out: swaligntool splits/1102140175595.fasta splits/1102140175595_rest.fasta
+	python3 swaligntool 1102140175595.fasta 1102140175595_rest.fasta > 1102140175595.out
+
+1102140175618.out: swaligntool splits/1102140175618.fasta splits/1102140175618_rest.fasta
+	python3 swaligntool 1102140175618.fasta 1102140175618_rest.fasta > 1102140175618.out
+
+1102140175619.out: swaligntool splits/1102140175619.fasta splits/1102140175619_rest.fasta
+	python3 swaligntool 1102140175619.fasta 1102140175619_rest.fasta > 1102140175619.out
+
+1102140175646.out: swaligntool splits/1102140175646.fasta splits/1102140175646_rest.fasta
+	python3 swaligntool 1102140175646.fasta 1102140175646_rest.fasta > 1102140175646.out
+
+1102140175769.out: swaligntool splits/1102140175769.fasta splits/1102140175769_rest.fasta
+	python3 swaligntool 1102140175769.fasta 1102140175769_rest.fasta > 1102140175769.out
+
+1102140176186.out: swaligntool splits/1102140176186.fasta splits/1102140176186_rest.fasta
+	python3 swaligntool 1102140176186.fasta 1102140176186_rest.fasta > 1102140176186.out
+
+1102140176218.out: swaligntool splits/1102140176218.fasta splits/1102140176218_rest.fasta
+	python3 swaligntool 1102140176218.fasta 1102140176218_rest.fasta > 1102140176218.out
+
+1102140176220.out: swaligntool splits/1102140176220.fasta splits/1102140176220_rest.fasta
+	python3 swaligntool 1102140176220.fasta 1102140176220_rest.fasta > 1102140176220.out
+
+1102140176233.out: swaligntool splits/1102140176233.fasta splits/1102140176233_rest.fasta
+	python3 swaligntool 1102140176233.fasta 1102140176233_rest.fasta > 1102140176233.out
+
+1102140176376.out: swaligntool splits/1102140176376.fasta splits/1102140176376_rest.fasta
+	python3 swaligntool 1102140176376.fasta 1102140176376_rest.fasta > 1102140176376.out
+
+1102140176385.out: swaligntool splits/1102140176385.fasta splits/1102140176385_rest.fasta
+	python3 swaligntool 1102140176385.fasta 1102140176385_rest.fasta > 1102140176385.out
+
+1102140176409.out: swaligntool splits/1102140176409.fasta splits/1102140176409_rest.fasta
+	python3 swaligntool 1102140176409.fasta 1102140176409_rest.fasta > 1102140176409.out
+
+1102140176555.out: swaligntool splits/1102140176555.fasta splits/1102140176555_rest.fasta
+	python3 swaligntool 1102140176555.fasta 1102140176555_rest.fasta > 1102140176555.out
+
+1102140176559.out: swaligntool splits/1102140176559.fasta splits/1102140176559_rest.fasta
+	python3 swaligntool 1102140176559.fasta 1102140176559_rest.fasta > 1102140176559.out
+
+1102140176575.out: swaligntool splits/1102140176575.fasta splits/1102140176575_rest.fasta
+	python3 swaligntool 1102140176575.fasta 1102140176575_rest.fasta > 1102140176575.out
+
+1102140176586.out: swaligntool splits/1102140176586.fasta splits/1102140176586_rest.fasta
+	python3 swaligntool 1102140176586.fasta 1102140176586_rest.fasta > 1102140176586.out
+
+1102140176610.out: swaligntool splits/1102140176610.fasta splits/1102140176610_rest.fasta
+	python3 swaligntool 1102140176610.fasta 1102140176610_rest.fasta > 1102140176610.out
+
+1102140176733.out: swaligntool splits/1102140176733.fasta splits/1102140176733_rest.fasta
+	python3 swaligntool 1102140176733.fasta 1102140176733_rest.fasta > 1102140176733.out
+
+1102140176755.out: swaligntool splits/1102140176755.fasta splits/1102140176755_rest.fasta
+	python3 swaligntool 1102140176755.fasta 1102140176755_rest.fasta > 1102140176755.out
+
+1102140176778.out: swaligntool splits/1102140176778.fasta splits/1102140176778_rest.fasta
+	python3 swaligntool 1102140176778.fasta 1102140176778_rest.fasta > 1102140176778.out
+
+1102140177145.out: swaligntool splits/1102140177145.fasta splits/1102140177145_rest.fasta
+	python3 swaligntool 1102140177145.fasta 1102140177145_rest.fasta > 1102140177145.out
+
+1102140177153.out: swaligntool splits/1102140177153.fasta splits/1102140177153_rest.fasta
+	python3 swaligntool 1102140177153.fasta 1102140177153_rest.fasta > 1102140177153.out
+
+1102140177182.out: swaligntool splits/1102140177182.fasta splits/1102140177182_rest.fasta
+	python3 swaligntool 1102140177182.fasta 1102140177182_rest.fasta > 1102140177182.out
+
+1102140177183.out: swaligntool splits/1102140177183.fasta splits/1102140177183_rest.fasta
+	python3 swaligntool 1102140177183.fasta 1102140177183_rest.fasta > 1102140177183.out
+
+1102140177188.out: swaligntool splits/1102140177188.fasta splits/1102140177188_rest.fasta
+	python3 swaligntool 1102140177188.fasta 1102140177188_rest.fasta > 1102140177188.out
+
+1102140177309.out: swaligntool splits/1102140177309.fasta splits/1102140177309_rest.fasta
+	python3 swaligntool 1102140177309.fasta 1102140177309_rest.fasta > 1102140177309.out
+
+1102140177319.out: swaligntool splits/1102140177319.fasta splits/1102140177319_rest.fasta
+	python3 swaligntool 1102140177319.fasta 1102140177319_rest.fasta > 1102140177319.out
+
+1102140177675.out: swaligntool splits/1102140177675.fasta splits/1102140177675_rest.fasta
+	python3 swaligntool 1102140177675.fasta 1102140177675_rest.fasta > 1102140177675.out
+
+1102140177693.out: swaligntool splits/1102140177693.fasta splits/1102140177693_rest.fasta
+	python3 swaligntool 1102140177693.fasta 1102140177693_rest.fasta > 1102140177693.out
+
+1102140177743.out: swaligntool splits/1102140177743.fasta splits/1102140177743_rest.fasta
+	python3 swaligntool 1102140177743.fasta 1102140177743_rest.fasta > 1102140177743.out
+
+1102140177879.out: swaligntool splits/1102140177879.fasta splits/1102140177879_rest.fasta
+	python3 swaligntool 1102140177879.fasta 1102140177879_rest.fasta > 1102140177879.out
+
+1102140177881.out: swaligntool splits/1102140177881.fasta splits/1102140177881_rest.fasta
+	python3 swaligntool 1102140177881.fasta 1102140177881_rest.fasta > 1102140177881.out
+
+1102140177885.out: swaligntool splits/1102140177885.fasta splits/1102140177885_rest.fasta
+	python3 swaligntool 1102140177885.fasta 1102140177885_rest.fasta > 1102140177885.out
+
+1102140177905.out: swaligntool splits/1102140177905.fasta splits/1102140177905_rest.fasta
+	python3 swaligntool 1102140177905.fasta 1102140177905_rest.fasta > 1102140177905.out
+
+1102140177951.out: swaligntool splits/1102140177951.fasta splits/1102140177951_rest.fasta
+	python3 swaligntool 1102140177951.fasta 1102140177951_rest.fasta > 1102140177951.out
+
+1102140177959.out: swaligntool splits/1102140177959.fasta splits/1102140177959_rest.fasta
+	python3 swaligntool 1102140177959.fasta 1102140177959_rest.fasta > 1102140177959.out
+
+1102140178270.out: swaligntool splits/1102140178270.fasta splits/1102140178270_rest.fasta
+	python3 swaligntool 1102140178270.fasta 1102140178270_rest.fasta > 1102140178270.out
+
+1102140178314.out: swaligntool splits/1102140178314.fasta splits/1102140178314_rest.fasta
+	python3 swaligntool 1102140178314.fasta 1102140178314_rest.fasta > 1102140178314.out
+
+1102140178449.out: swaligntool splits/1102140178449.fasta splits/1102140178449_rest.fasta
+	python3 swaligntool 1102140178449.fasta 1102140178449_rest.fasta > 1102140178449.out
+
+1102140178489.out: swaligntool splits/1102140178489.fasta splits/1102140178489_rest.fasta
+	python3 swaligntool 1102140178489.fasta 1102140178489_rest.fasta > 1102140178489.out
+
+1102140178493.out: swaligntool splits/1102140178493.fasta splits/1102140178493_rest.fasta
+	python3 swaligntool 1102140178493.fasta 1102140178493_rest.fasta > 1102140178493.out
+
+1102140178498.out: swaligntool splits/1102140178498.fasta splits/1102140178498_rest.fasta
+	python3 swaligntool 1102140178498.fasta 1102140178498_rest.fasta > 1102140178498.out
+
+1102140178522.out: swaligntool splits/1102140178522.fasta splits/1102140178522_rest.fasta
+	python3 swaligntool 1102140178522.fasta 1102140178522_rest.fasta > 1102140178522.out
+
+1102140178526.out: swaligntool splits/1102140178526.fasta splits/1102140178526_rest.fasta
+	python3 swaligntool 1102140178526.fasta 1102140178526_rest.fasta > 1102140178526.out
+
+1102140178644.out: swaligntool splits/1102140178644.fasta splits/1102140178644_rest.fasta
+	python3 swaligntool 1102140178644.fasta 1102140178644_rest.fasta > 1102140178644.out
+
+1102140178650.out: swaligntool splits/1102140178650.fasta splits/1102140178650_rest.fasta
+	python3 swaligntool 1102140178650.fasta 1102140178650_rest.fasta > 1102140178650.out
+
+1102140178845.out: swaligntool splits/1102140178845.fasta splits/1102140178845_rest.fasta
+	python3 swaligntool 1102140178845.fasta 1102140178845_rest.fasta > 1102140178845.out
+
+1102140178846.out: swaligntool splits/1102140178846.fasta splits/1102140178846_rest.fasta
+	python3 swaligntool 1102140178846.fasta 1102140178846_rest.fasta > 1102140178846.out
+
+1102140178848.out: swaligntool splits/1102140178848.fasta splits/1102140178848_rest.fasta
+	python3 swaligntool 1102140178848.fasta 1102140178848_rest.fasta > 1102140178848.out
+
+1102140178853.out: swaligntool splits/1102140178853.fasta splits/1102140178853_rest.fasta
+	python3 swaligntool 1102140178853.fasta 1102140178853_rest.fasta > 1102140178853.out
+

@@ -1,0 +1,51 @@
+#!/usr/bin/env perl
+
+# perl script to combine total frequency of words and output top 100
+
+use strict;
+use warnings;
+
+# collects all word files in directory
+my @word_files = glob("*.words");
+
+my %total;
+
+foreach my $file (@word_files){
+    open(FH, '<', $file) or die $!;
+
+    while(my $line = <FH>){
+	
+	# array stores word and frequency with whitespace as delimiter
+	my @split_line = split(" ", $line);
+
+	# check for correct input in each line
+	if(@split_line == 2){
+	    my $word = $split_line[0];
+	    my $freq = $split_line[1];
+
+	    # check if key-value pair exists
+	    if(exists $total{$word}){
+		$total{$word} += $freq;
+	    }else{
+		# creates key-value pair
+		$total{$word} = $freq;
+	    }
+	}
+    }
+    close(FH);
+}
+
+# counter variable
+my $count = 1;
+
+# print out the key-pairs in the hash in descending order for the output file
+
+foreach my $key (sort {$total{$b} <=> $total{$a} } keys %total){
+    print "$key $total{$key}\n";
+
+    $count++;
+
+    if($count > 100){
+	last;
+    }
+}

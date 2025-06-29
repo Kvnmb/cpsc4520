@@ -1,0 +1,96 @@
+#!/usr/bin/env perl
+
+# perl script to generate makeflows for wordcount.mf
+
+use strict;
+use warnings;
+
+use Encode qw(decode encode);
+
+# check for correct number of statements
+if ($#ARGV + 1 != 1) {
+    die "invalid # of arguments\n";
+}
+
+# stores directory with txt files
+my ($dir) = @ARGV;
+
+# store txt files in an array
+my @book_files = glob("$dir/*.txt");
+
+# sort books so the grouped files stays the same after each run
+@book_files = sort(@book_files);
+
+# variable to count number of books per file
+my $book_count = 0;
+
+# variables to store the grouped file and its name
+my $grouped_file;
+my $grouped_filename;
+
+# array to store the new files for arguments for the top100 program
+my @file_arr;
+
+# loop to go through all files
+foreach my $file(@book_files){
+
+    # checks if a new file needs to be made to group books
+    if($book_count % 10 == 0){
+	$grouped_filename = "group$book_count";
+	open($grouped_file, '>:encoding(UTF-8)', "$grouped_filename.txt") or die $!;
+    }
+    
+    # opens the data file as read-only for UTF-8
+    open(my $book, '<', $file) or die $!;
+
+    # bool to enable/disable writing after special line reached
+    my $can_write = 0;
+    
+    # while loop to iterate through each line in txt file and append to group file
+    while(my $line = <$book>){
+	# decode line to UTF-8 and continue past characters not in UTF-8
+	$line = decode("UTF-8", $line, Encode::FB_DEFAULT);
+       
+	# determine when to start writing lines
+	if($line =~ /START OF THIS PROJECT GUTENBERG EBOOK/i || $line =~ /START OF THE PROJECT GUTENBERG EBOOK/i){
+	    $can_write = 1;
+	    next;
+	}
+	if($line =~ /END OF THIS PROJECT GUTENBERG EBOOK/i || $line =~ /END OF THE PROJECT GUTENBERG EBOOK/i){
+            $can_write = 0;
+	    next;
+        }
+
+	if($line =~ /^\s*$/){
+	    next;
+	}
+	
+	# if writing enabled, standardize lines to uppercase and then write to group file
+	if($can_write){
+	    $line = uc($line);
+
+	    print $grouped_file "$line";
+	}
+    }
+
+    close($book);
+
+    $book_count++;
+
+    # check if number of books in grouped file has reached capacity or at end of list of books
+    if($book_count % 10 == 0 || $book_count == @book_files){
+	close($grouped_file);
+
+	# add file to the array
+	push(@file_arr, "$grouped_filename.words");
+
+	
+	# print commands for the makeflow
+	print "$grouped_filename.words: count_words $grouped_filename.txt\n";
+	print "\tperl count_words $grouped_filename.txt > $grouped_filename.words\n\n";
+    }
+}
+
+# last makeflow command to take all word files and combine counts
+print "top100.words: combine_count ", join(" ", @file_arr), "\n";
+        print "\tLOCAL perl combine_count ", join(" ", @file_arr), " > top100.words\n\n";

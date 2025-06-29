@@ -1,0 +1,5 @@
+diseaseSevere1_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseSevere1.json
+        python3 sugarscape.py --conf diseaseSevere1.json
+
+diseaseSevere2_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseSevere2.json
+        python3 sugarscape.py --conf diseaseSevere2.json

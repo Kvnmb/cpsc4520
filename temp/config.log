@@ -1,0 +1,50 @@
+000 (26389342.000.000) 2025-06-04 20:27:35 Job submitted from host: <192.170.231.142:9618?addrs=192.170.231.142-9618+[2605-9a00-10-200b-192-170-231-142]-9618&alias=ap21.uc.osg-htc.org&noUDP&sock=schedd_925476_22fd>
+...
+040 (26389342.000.000) 2025-06-04 20:29:30 Started transferring input files
+	Transferring to host: <10.118.5.218:43505?CCBID=128.105.82.148:9618%3faddrs%3d128.105.82.148-9618+[2607-f388-2200-87-d439-a1c8-2a11-24e4]-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector2#74869562%20192.170.231.11:9618%3faddrs%3d192.170.231.11-9618+[fd85-ee78-d8a6-8607--1-7381]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector4#33922178&PrivNet=c218.mgmt.hellbender&addrs=10.118.5.218-43505&alias=c218.mgmt.hellbender&noUDP>
+...
+021 (26389342.000.000) 2025-06-04 20:29:37 Message from starter on slot1_2@glidein_1982814_206107590@c218.mgmt.hellbender:
+	PREPARE_JOB (prepare-hook) succeeded (reported status 000): Using default Singularity image /local/scratch/glide_HGlgEc/images/htc__rocky__8.sif
+...
+040 (26389342.000.000) 2025-06-04 20:29:37 Finished transferring input files
+...
+001 (26389342.000.000) 2025-06-04 20:29:41 Job executing on host: <10.118.5.218:38769?CCBID=128.105.82.148:9618%3faddrs%3d128.105.82.148-9618+[2607-f388-2200-87-d439-a1c8-2a11-24e4]-9618%26alias%3dospool-ccb.osg.chtc.io%26noUDP%26sock%3dcollector3#74779446%20192.170.231.11:9618%3faddrs%3d192.170.231.11-9618+[fd85-ee78-d8a6-8607--1-7381]-9618%26alias%3dospool-ccb.osgprod.tempest.chtc.io%26noUDP%26sock%3dcollector5#33731403&PrivNet=c218.mgmt.hellbender&addrs=10.118.5.218-38769&alias=c218.mgmt.hellbender&noUDP>
+	SlotName: slot1_2@glidein_1982814_206107590@c218.mgmt.hellbender
+	CondorScratchDir = "/local/scratch/glide_HGlgEc/execute/dir_1416889"
+	Cpus = 1
+	Disk = 2098225
+	GLIDEIN_ResourceName = "Missouri-Hellbender-CE1"
+	GPUs = 0
+	Memory = 1024
+...
+006 (26389342.000.000) 2025-06-04 20:29:44 Image size of job updated: 17
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (26389342.000.000) 2025-06-04 20:29:44 Started transferring output files
+...
+040 (26389342.000.000) 2025-06-04 20:29:45 Finished transferring output files
+...
+021 (26389342.000.000) 2025-06-04 20:29:48 Error from starter on slot1_2@glidein_1982814_206107590@c218.mgmt.hellbender:
+	STARTER at 10.118.5.218 failed to send file(s) to <192.170.231.142:9618>: |Error: 1 total failures: first failure: reading from file /local/scratch/glide_HGlgEc/execute/dir_1416889/config = data/config: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <161.130.190.14:40879>
+	Code 13 Subcode 2
+...
+004 (26389342.000.000) 2025-06-04 20:30:09 Job was evicted. Code 12 Subcode 2
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	256464  -  Run Bytes Received By Job
+	Reason: Transfer output files failure at the execution point while sending files to access point ap21. Details: 1 total failures: first failure: reading from file /local/scratch/glide_HGlgEc/execute/dir_1416889/config = data/config: (errno 2) No such file or directory
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :      362  2097152   2098225 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0     1024      1024 
+	   TimeExecute (s)      :        5                    
+	   TimeSlotBusy (s)     :       38                    
+...
+012 (26389342.000.000) 2025-06-04 20:30:09 Job was held.
+	Transfer output files failure at the execution point while sending files to access point ap21. Details: 1 total failures: first failure: reading from file /local/scratch/glide_HGlgEc/execute/dir_1416889/config = data/config: (errno 2) No such file or directory
+	Code 12 Subcode 2
+...

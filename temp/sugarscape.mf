@@ -1,0 +1,81 @@
+cancer1_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/cancer1.json
+	python3 sugarscape.py --conf cancer1.json
+
+cancer2_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/cancer2.json
+	python3 sugarscape.py --conf cancer2.json
+
+control_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/control.json
+	python3 sugarscape.py --conf control.json
+
+covid1_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/covid1.json
+	python3 sugarscape.py --conf covid1.json
+
+covid2_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/covid2.json
+	python3 sugarscape.py --conf covid2.json
+
+diseaseEnable1_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseEnable1.json
+	python3 sugarscape.py --conf diseaseEnable1.json
+
+diseaseEnable2_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseEnable2.json
+	python3 sugarscape.py --conf diseaseEnable2.json
+
+diseaseHiInfLowProt1_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseHiInfLowProt1.json
+	python3 sugarscape.py --conf diseaseHiInfLowProt1.json
+
+diseaseHiInfLowProt2_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseHiInfLowProt2.json
+	python3 sugarscape.py --conf diseaseHiInfLowProt2.json
+
+diseaseHighInf1_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseHighInf1.json
+	python3 sugarscape.py --conf diseaseHighInf1.json
+
+diseaseHighInf2_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseHighInf2.json
+	python3 sugarscape.py --conf diseaseHighInf2.json
+
+diseaseLowInf1_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseLowInf1.json
+	python3 sugarscape.py --conf diseaseLowInf1.json
+
+diseaseLowInf2_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseLowInf2.json
+	python3 sugarscape.py --conf diseaseLowInf2.json
+
+diseaseLowInfHiProt1_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseLowInfHiProt1.json
+	python3 sugarscape.py --conf diseaseLowInfHiProt1.json
+
+diseaseLowInfHiProt2_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseLowInfHiProt2.json
+	python3 sugarscape.py --conf diseaseLowInfHiProt2.json
+
+diseaseMidInf1_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseMidInf1.json
+	python3 sugarscape.py --conf diseaseMidInf1.json
+
+diseaseMidInf2_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseMidInf2.json
+	python3 sugarscape.py --conf diseaseMidInf2.json
+
+diseaseSevere1_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseSevere1.json
+	python3 sugarscape.py --conf diseaseSevere1.json
+
+diseaseSevere2_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseSevere2.json
+	python3 sugarscape.py --conf diseaseSevere2.json
+
+diseaseTimeframeAll1_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseTimeframeAll1.json
+	python3 sugarscape.py --conf diseaseTimeframeAll1.json
+
+diseaseTimeframeAll2_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseTimeframeAll2.json
+	python3 sugarscape.py --conf diseaseTimeframeAll2.json
+
+diseaseTimeframeMid1_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseTimeframeMid1.json
+	python3 sugarscape.py --conf diseaseTimeframeMid1.json
+
+diseaseTimeframeMid2_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseTimeframeMid2.json
+	python3 sugarscape.py --conf diseaseTimeframeMid2.json
+
+diseaseTransmit1_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseTransmit1.json
+	python3 sugarscape.py --conf diseaseTransmit1.json
+
+diseaseTransmit2_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseTransmit2.json
+	python3 sugarscape.py --conf diseaseTransmit2.json
+
+diseaseWithProt1_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseWithProt1.json
+	python3 sugarscape.py --conf diseaseWithProt1.json
+
+diseaseWithProt2_log.json: sugarscape.py agent.py cell.py condition.py environment.py ethics.py gui.py configs/diseaseWithProt2.json
+	python3 sugarscape.py --conf diseaseWithProt2.json
+
